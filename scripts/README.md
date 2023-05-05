@@ -1,5 +1,11 @@
 # Scripts Documentation
 
+## Convert json to markdown (WIP)
+`python3 convert.py omigroup-omigroup.json --fields author body --show_comments --num_discussions 4`
+`convert.py file.json --optional-flags`
+
+## Makes one markdown
+`convert_json-md.py file.json > file.md`
 
 
 ## capture.sh
