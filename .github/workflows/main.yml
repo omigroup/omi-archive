@@ -15,13 +15,13 @@ jobs:
     - name: Run posters script on Thursday
       if: github.event.schedule.cron == '0 0 * * 4'
       run: |
-        bash scripts/posters.sh omigroup omigroup
+        bash scripts/posters.sh omigroup omigroup 4
         bash scripts/create-index.sh
 
     - name: Run posters script on Friday
       if: github.event.schedule.cron == '0 0 * * 5'
       run: |
-        bash scripts/posters.sh omigroup gltf-extensions
+        bash scripts/posters.sh omigroup gltf-extensions 4
         bash scripts/create-index.sh
 
     - name: Commit changes

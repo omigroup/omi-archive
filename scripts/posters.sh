@@ -39,19 +39,21 @@ done
 
 
 # assign command-line arguments to variables
-if [ $# -ne 2 ]; then
-    echo "Usage: $0 <owner> <repo>" >&2
+if [ $# -ne 3 ]; then
+    echo "This script archives the GitHub Discussions" >&2
+    echo "Usage: $0 <owner> <repo> <number of discussions>" >&2
     exit 1
 fi
 
 owner="$1"
 repo="$2"
+num="$3"
 
 # Define the GraphQL query
 QUERY_ALL=$(cat <<EOF
 query {
   repository(owner: "$owner", name: "$repo") {
-    discussions(first: 4) {
+    discussions(first: $num) {
       totalCount
       nodes {
         id
@@ -97,20 +99,18 @@ if ! gh api graphql -F owner="$owner" -F repo="$repo" -F query=@numbers.graphql 
     exit 1
 fi
 
-echo "cleaning up docs"
-for file in docs/"$repo"_*.jpg; do
-    num=$(basename "$file" .jpg)   # get the basename of the file without the extension
-    num=${num#"$repo"_}            # remove "$repo"_ from the beginning of the filename
-    mv "$file" "$repo"/archive/"$num".jpg
-done
-
-if [ $? -eq 0 ]; then
-  echo "Successfully cleaned up docs folder"
+# Remove old files if there are any
+if [ "$(ls -A docs/"$repo"/)" ]; then
+  if ! rm docs/"$repo"/* 2>/dev/null; then
+    echo "Failed to clean up old files" >&2
+    exit 1
+  fi
 else
-  echo "Failed to clean up docs folder"
-  exit 1
+  echo "No files to clean up"
 fi
 
+
+i="$num"
 # loop through each line in the numbers.txt file
 while read -r number
 do
@@ -147,6 +147,20 @@ do
     echo "Failed to combine title and body images for discussion $number" >&2
     continue
   fi
+  
+  echo "cleaning up docs"
+  if ! cp "$repo"_"$number".jpg "$repo"/archive/"$number".jpg 2>/dev/null; then
+    echo "Failed to copy to archive" >&2
+    continue
+  fi
+  
+  # Move to docs to serve
+  echo "moving files to /docs"
+  if ! mv "$repo"_"$number".jpg docs/"$repo"/"$i".jpg 2>/dev/null; then
+    echo "Failed to move files" >&2
+    exit 1
+  fi
+  i=$((i-1))
 done < numbers.txt
 
 # Clean up files
@@ -156,9 +170,9 @@ if ! rm title_*.png body_*.jpg numbers.txt engine.bin numbers.graphql 2>/dev/nul
 fi
 
 # Move to docs to serve
-echo "moving files to /docs"
-if ! mv "$owner"-"$repo".json "$repo"_*.jpg docs/ 2>/dev/null; then
-  echo "Failed to move files" >&2
+echo "moving $repo json to /docs"
+if ! mv "$owner"-"$repo".json docs/"$repo"/ 2>/dev/null; then
+  echo "Failed to move JSON" >&2
   exit 1
 fi
 

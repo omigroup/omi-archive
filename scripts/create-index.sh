@@ -1,12 +1,24 @@
 #!/bin/bash
 
-echo "# OMI Archive" > docs/index.md
-echo >> docs/index.md
-echo "| File Name | Size |" >> docs/index.md
-echo "| --- | --- |" >> docs/index.md
-for f in docs/*; do
-    size=$(du -h "$f" | awk '{print $1}')
-    name=$(basename "$f")
-    echo "| [$name]($name) | $size |" >> docs/index.md
-done
+# Set the directory to scan
+dir="docs"
 
+# Create an empty index.md file
+echo "# OMI Archive" > "$dir"/index.md
+echo >> "$dir"/index.md
+echo "Last GitHub discussions from different repos, usually in order of 1 = last week, 2 = 2 weeks ago, etc" >> "$dir"/index.md
+echo >> "$dir"/index.md
+echo "| File Name | Size |" >> "$dir"/index.md
+echo "| --- | --- |" >> "$dir"/index.md
+
+# Loop through each file in the directory
+for file in $(find "$dir" -type f | sort); do
+    # Get the filename and size of the file
+    size=$(du -h "$file" | awk '{print $1}')
+
+    # Remove the leading "docs/" directory from the filename
+    filename="${file#docs/}"
+
+    # Append the filename and size to the markdown table
+    echo "| [$filename]($filename) | $size |" >> "$dir"/index.md
+done
