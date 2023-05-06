@@ -20,5 +20,26 @@ Archiving and transforming community documentation notes into a memex
   - How can new people see a high level overview of past 5 meetups?
 - How can we streamline the process for organizations to have a longer memory?
 
+
+## Posters
+
+| OMI Group | OMI glTF Extensions |
+| --------- | ------------------- |
+| ![](https://omigroup.github.io/omi-archive/omigroup/poster.jpg) | ![](https://omigroup.github.io/omi-archive/gltf-extensions/poster.jpg) |
+
+### OMI glTF Vendor Extensions
+
+| [KHR Audio](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/KHR_audio) | [OMI collider](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/OMI_collider) | [OMI link](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/OMI_link) | [OMI Pesonality](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/OMI_personality) |
+| -------- | -------- | -------- | -------- |
+| [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/KHR_audio/poster_KHR_audio.jpg)](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/KHR_audio/poster_KHR_audio.jpg) | [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_collider/poster_OMI_collider.jpg)](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_collider/poster_OMI_collider.jpg)  | [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_link/poster_OMI_link.jpg)](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_link/poster_OMI_link.jpg)  | [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_personality/poster_OMI_personality.jpg)](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_personality/poster_OMI_personality.jpg)  |
+
+| [OMI physics body](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/OMI_physics_body) | [OMI seat](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/OMI_seat) | [OMI spawn point](https://github.com/madjin/gltf-extensions/tree/main/extensions/2.0/OMI_spawn_point) |
+| -------- | -------- | -------- |
+| [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_body/poster_OMI_physics_body.jpg)](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_body/poster_OMI_physics_body.jpg) | [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_seat/poster_OMI_seat.jpg) ](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_seat/poster_OMI_seat.jpg)  | [![](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_spawn_point/poster_OMI_spawn_point.jpg)](https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_spawn_point/poster_OMI_spawn_point.jpg)    |
+
+
+---
+
 ## Notes
 PDFs over 100 MB are automatically added to .gitignore (Uploaded to Discord though)
+

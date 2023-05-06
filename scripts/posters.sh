@@ -176,4 +176,11 @@ if ! mv "$owner"-"$repo".json docs/"$repo"/ 2>/dev/null; then
   exit 1
 fi
 
+# Combine into 1 poster
+echo "combine into 1 poster"
+if ! convert $(ls docs/"$repo"/*.jpg | sort -n) +append docs/"$repo"/poster.jpg 2>/dev/null; then
+  echo "Failed to combine into a poster" >&2
+  exit 1
+fi
+
 echo "finished processing"
