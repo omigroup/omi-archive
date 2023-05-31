@@ -9,29 +9,27 @@ jobs:
   run_posters:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Run posters script on Thursday
-      if: github.event.schedule.cron == '0 0 * * 4'
-      run: |
-        bash scripts/posters.sh omigroup omigroup 4
-        bash scripts/create-index.sh
+      - name: Run posters script on Thursday
+        if: github.event.schedule.cron == '0 0 * * 4'
+        run: |
+          bash scripts/posters.sh omigroup omigroup 4
+          bash scripts/create-index.sh
+          git config --global user.name "madjin"
+          git config --global user.email "32600939+madjin@users.noreply.github.com"
+          git add -A .
+          git commit -m "Run action runner"
+          git push origin main
 
-    - name: Run posters script on Friday
-      if: github.event.schedule.cron == '0 0 * * 5'
-      run: |
-        bash scripts/posters.sh omigroup gltf-extensions 4
-        bash scripts/create-index.sh
-
-    - name: Commit changes
-      run: |
-        git config --global user.name "madjin"
-        git config --global user.email "32600939+madjin@users.noreply.github.com"
-        git add -A .
-        git commit -m "Run action runner"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+      - name: Run posters script on Friday
+        if: github.event.schedule.cron == '0 0 * * 5'
+        run: |
+          bash scripts/posters.sh omigroup gltf-extensions 4
+          bash scripts/create-index.sh
+          git config --global user.name "madjin"
+          git config --global user.email "32600939+madjin@users.noreply.github.com"
+          git add -A .
+          git commit -m "Run action runner"
+          git push origin main
