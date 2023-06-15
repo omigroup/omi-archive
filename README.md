@@ -1,5 +1,7 @@
 # omi-archive
 
+[![Run posters script](https://github.com/omigroup/omi-archive/actions/workflows/main.yml/badge.svg)](https://github.com/omigroup/omi-archive/actions/workflows/main.yml)
+
 Archiving and transforming community documentation notes into a memex
 
 ![image](https://user-images.githubusercontent.com/32600939/233524177-54db9071-ecf8-404c-8f91-6f5f5cc27582.png)
