@@ -2,8 +2,8 @@ name: Run posters script
 
 on:
   schedule:
-    - cron: '0 0 * * 5' # Run every Friday at midnight
-    - cron: '0 0 * * 6' # Run every Saturday at midnight
+    - cron: '59 23 * * 3' # Run every Wednesday at 11:59 PM
+    - cron: '59 23 * * 4' # Run every Thursday at 11:59 PM
 
 jobs:
   run_posters:
@@ -12,8 +12,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Run posters script on Thursday
-        if: github.event.schedule.cron == '0 0 * * 5'
+      - name: Run posters script on Wednesday
+        if: github.event.schedule.cron == '59 23 * * 3'
         run: |
           bash scripts/posters.sh omigroup omigroup 4
           bash scripts/create-index.sh
@@ -23,8 +23,8 @@ jobs:
           git commit -m "Run action runner"
           git push origin main
 
-      - name: Run posters script on Friday
-        if: github.event.schedule.cron == '0 0 * * 6'
+      - name: Run posters script on Thursday
+        if: github.event.schedule.cron == '59 23 * * 4'
         run: |
           bash scripts/posters.sh omigroup gltf-extensions 4
           bash scripts/create-index.sh
