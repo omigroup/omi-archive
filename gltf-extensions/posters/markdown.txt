@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/KHR_audio/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_link/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_personality/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_body/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_joint/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_shape/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_seat/README.md
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_spawn_point/README.md

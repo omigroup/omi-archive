@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/KHR_audio/poster_KHR_audio.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_shape/poster_OMI_physics_shape.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_link/poster_OMI_link.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_personality/poster_OMI_personality.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_body/poster_OMI_physics_body.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_physics_joint/poster_OMI_physics_joint.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_seat/poster_OMI_seat.jpg
+https://raw.githubusercontent.com/madjin/gltf-extensions/main/extensions/2.0/OMI_spawn_point/poster_OMI_spawn_point.jpg
