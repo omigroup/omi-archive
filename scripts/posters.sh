@@ -149,7 +149,7 @@ do
   fi
   
   echo "cleaning up docs"
-  if ! cp "$repo"_"$number".jpg "$repo"/archive/"$number".jpg 2>/dev/null; then
+  if ! cp "$repo"_"$number".jpg docs/"$repo"/archive/"$number".jpg 2>/dev/null; then
     echo "Failed to copy to archive" >&2
     continue
   fi
