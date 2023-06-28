@@ -16,6 +16,7 @@ jobs:
         if: github.event.schedule.cron == '59 23 * * 3'
         run: |
           bash scripts/posters.sh omigroup omigroup 4
+          bash scripts/create-index.sh
           bash scripts/pdf.sh omigroup
           git config --global user.name "madjin"
           git config --global user.email "32600939+madjin@users.noreply.github.com"
@@ -27,6 +28,7 @@ jobs:
         if: github.event.schedule.cron == '59 23 * * 4'
         run: |
           bash scripts/posters.sh omigroup gltf-extensions 4
+          bash scripts/create-index.sh
           bash scripts/pdf.sh gltf-extensions
           git config --global user.name "madjin"
           git config --global user.email "32600939+madjin@users.noreply.github.com"

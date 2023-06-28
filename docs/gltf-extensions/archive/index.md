@@ -4,8 +4,7 @@ layout: default
 
 # Directory Listing
 
-{% for file in site.static_files %}
-  {% if file.path contains page.url %}
-  - [{{ file.basename }}]({{ file.path }})
-  {% endif %}
-{% endfor %}
+{% directory path: './', recursive: true %}
+- [{{ entry.basename }}]({{ entry.path | prepend: site.baseurl }})
+{% enddirectory %}
+
