@@ -1,2 +1,4 @@
-plugins:
-    - jekyll-ls
+# Site settings
+title: My Jekyll Site
+theme: minima
+

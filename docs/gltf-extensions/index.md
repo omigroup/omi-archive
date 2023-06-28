@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-
-# Directory Listing
-
-{% for file in site.static_files %}
-  {% assign file_path = file.path %}
-  {% assign file_dir = file_path | split: '/' | last %}
-  {% if file_dir == page.dir %}
-    - [{{ file_path | remove_first: '/' }}]({{ file_path | prepend: site.baseurl }})
-  {% endif %}
-{% endfor %}
-
+    - [1.jpg](1.jpg)
+    - [2.jpg](2.jpg)
+    - [3.jpg](3.jpg)
+    - [4.jpg](4.jpg)
+    - [archive/](archive/)
+    - [index.md](index.md)
+    - [omigroup-gltf-extensions.json](omigroup-gltf-extensions.json)
+    - [poster.jpg](poster.jpg)
