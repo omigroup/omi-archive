@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run posters script on Wednesday
-        if: github.event.schedule.cron == '59 23 * * 3'
+        if: github.event.schedule == '59 23 * * 3'
         run: |
           bash scripts/posters.sh omigroup omigroup 4
           bash scripts/create-index.sh
@@ -25,7 +25,7 @@ jobs:
           git push origin main
 
       - name: Run posters script on Thursday
-        if: github.event.schedule.cron == '59 23 * * 4'
+        if: github.event.schedule == '59 23 * * 4'
         run: |
           bash scripts/posters.sh omigroup gltf-extensions 4
           bash scripts/create-index.sh

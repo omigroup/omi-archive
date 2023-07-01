@@ -2,7 +2,7 @@
 
 repo="$1"
 
-find $repo/archive -maxdepth 1 -type f -iname "*.jpg" -exec basename {} .jpg \; | sort -n > "$repo/numbers.txt"
+find docs/$repo/archive -maxdepth 1 -type f -iname "*.jpg" -exec basename {} .jpg \; | sort -n > "$repo/numbers.txt"
 
 # Read numbers.txt line by line
 while read -r number; do

@@ -99,15 +99,15 @@ if ! gh api graphql -F owner="$owner" -F repo="$repo" -F query=@numbers.graphql 
     exit 1
 fi
 
-# Remove old files if there are any
-if [ "$(ls -A docs/"$repo"/)" ]; then
-  if ! rm docs/"$repo"/* 2>/dev/null; then
-    echo "Failed to clean up old files" >&2
-    exit 1
-  fi
-else
-  echo "No files to clean up"
-fi
+## Remove old files if there are any
+#if [ "$(ls -A "$repo"/)" ]; then
+#  if ! rm "$repo"/* 2>/dev/null; then
+#    echo "Failed to clean up old files" >&2
+#    exit 1
+#  fi
+#else
+#  echo "No files to clean up"
+#fi
 
 
 i="$num"
