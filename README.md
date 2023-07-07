@@ -25,9 +25,9 @@ Archiving and transforming community documentation notes into a memex
 
 ## Posters
 
-| OMI Group | OMI glTF Extensions |
-| --------- | ------------------- |
-| ![](https://omigroup.github.io/omi-archive/omigroup/poster.jpg) | ![](https://omigroup.github.io/omi-archive/gltf-extensions/poster.jpg) |
+| OMI Group | OMI glTF Extensions | MSF Delegates |
+| --------- | ------------------- | ------------- |
+| ![](https://omigroup.github.io/omi-archive/omigroup/poster.jpg) | ![](https://omigroup.github.io/omi-archive/gltf-extensions/poster.jpg) | ![](https://omigroup.github.io/omi-archive/msf-delegates/poster.jpg) |
 
 ### OMI glTF Vendor Extensions
 
