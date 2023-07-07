@@ -156,7 +156,7 @@ do
   
   # Move to docs to serve
   echo "moving files to /docs"
-  if ! mv "$repo"_"$number".jpg docs/"$repo"/"$i".jpg 2>/dev/null; then
+  if ! cp "$repo"_"$number".jpg docs/"$repo"/"$i".jpg 2>/dev/null; then
     echo "Failed to move files" >&2
     exit 1
   fi
@@ -171,7 +171,7 @@ fi
 
 # Move to docs to serve
 echo "moving $repo json to /docs"
-if ! mv "$owner"-"$repo".json docs/"$repo"/ 2>/dev/null; then
+if ! cp "$owner"-"$repo".json docs/"$repo"/ 2>/dev/null; then
   echo "Failed to move JSON" >&2
   exit 1
 fi

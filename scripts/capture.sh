@@ -4,13 +4,13 @@
 while read -r number
 do
   # capture the website as a JPEG image
-  capture-website "https://github.com/omigroup/omigroup/discussions/$number" --type=jpeg --quality=1 --full-page --element=".discussion" --scale-factor=2 --output=body_$number.jpg --overwrite
+  capture-website "https://github.com/omigroup/msf-delegates/discussions/$number" --type=jpeg --quality=1 --full-page --element=".discussion" --scale-factor=2 --output=body_$number.jpg --overwrite
 
   # get the width of the body image using ImageMagick
   width=$(identify -format "%w" body_$number.jpg)
 
   # get the title of the discussion using curl and pup
-  title=$(curl -s "https://github.com/omigroup/omigroup/discussions/$number" | pup 'span.js-issue-title.markdown-title text{}' | tr -s '[:space:]' ' ')
+  title=$(curl -s "https://github.com/omigroup/msf-delegates/discussions/$number" | pup 'span.js-issue-title.markdown-title text{}' | tr -s '[:space:]' ' ')
 
   # create a title image using ImageMagick with the same width as the body image
   convert -size ${width}x100 xc:white -gravity Center -pointsize 64 -fill black -annotate 0 "$title" title_$number.png
