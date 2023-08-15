@@ -28,7 +28,7 @@ for package in "${packages[@]}"; do
                 fi
                 ;;
             "pup")
-                if ! sudo apt-get install pup -y; then
+                if ! pip install pup; then
                     echo "Error: Failed to install pup" >&2
                     exit 1
                 fi
