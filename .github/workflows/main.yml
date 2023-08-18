@@ -3,11 +3,22 @@ name: Run posters script
 on:
   schedule:
     - cron: '59 23 * * 4' # Run every Thursday at 11:59 PM
+
 jobs:
   run_posters:
     runs-on: ubuntu-latest
+
+    env:  # Add the environment variable here
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - uses: actions/checkout@v2
+
+      - name: Set up GitHub CLI
+        run: |
+          echo "machine github.com login $GH_TOKEN" > ~/.netrc
+          gh config set prompt disabled
+
       - name: Run posters script on Thursday
         run: |
           bash scripts/posters.sh omigroup omigroup 4
