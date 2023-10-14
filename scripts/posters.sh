@@ -1,24 +1,16 @@
 #!/bin/bash
 
-# Downloads github discussions as JSON + screenshot
+# Downloads GitHub discussions as JSON + screenshot
 # Run as bash script.sh owner repo
 # Example: bash script.sh omigroup gltf-extensions
 
-
-# Set the GH_TOKEN environment variable to your OMI_SECRET
-#GH_TOKEN="$OMI_SECRET"
-
 # Check if package dependencies are installed
-packages=("gh" "capture-website" "jq" "pup")
+packages=("capture-website" "jq" "pup")
 
 for package in "${packages[@]}"; do
     if ! command -v "$package" &> /dev/null; then
         echo "$package is not installed. Installing now..."
         case "$package" in
-            "gh")
-                echo "Please install it from https://cli.github.com/manual/installation" >&2
-                exit 1
-                ;;
             "capture-website")
                 if ! npm install --global capture-website-cli; then
                     echo "Error: Failed to install capture-website-cli" >&2
@@ -41,10 +33,17 @@ for package in "${packages[@]}"; do
     fi
 done
 
+# Load the GitHub personal access token from .env
+if [ -f .env ]; then
+    source .env
+else
+    echo "Error: .env file not found. Create a .env file with your GITHUB_TOKEN." >&2
+    exit 1
+fi
 
 # assign command-line arguments to variables
 if [ $# -ne 3 ]; then
-    echo "This script archives the GitHub Discussions" >&2
+    echo "This script archives GitHub Discussions" >&2
     echo "Usage: $0 <owner> <repo> <number of discussions>" >&2
     exit 1
 fi
@@ -76,12 +75,15 @@ query {
             body
           }
         }
-        labels(first: 30) { nodes {
-          id name color description 
-        } }
-        
+        labels(first: 30) {
+          nodes {
+            id
+            name
+            color
+            description
+          }
+        }
       }
- 
     }
   }
 }
@@ -89,29 +91,28 @@ EOF
 )
 
 # Write the GraphQL query to a file
-echo "writing the graphQL query to a file"
+echo "Writing the GraphQL query to a file"
 if ! echo "$QUERY_ALL" > numbers.graphql; then
     echo "Error: Failed to write GraphQL query to file" >&2
     exit 1
 fi
 
-
-## Get a list of the past X amount of URLs
-echo "getting a list of URLs from past discussions"
-if ! gh api graphql -F owner="$owner" -F repo="$repo" -F query=@numbers.graphql | tee "$owner"-"$repo".json | jq -r '.data.repository.discussions.nodes[].number' | sort -n > numbers.txt; then
+# Get a list of the past X amount of URLs
+echo "Getting a list of URLs from past discussions"
+if ! curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -X POST -d @numbers.graphql "https://api.github.com/graphql" | jq -r '.data.repository.discussions.nodes[].number' | sort -n > numbers.txt; then
     echo "Error: Failed to get list of discussion numbers" >&2
     exit 1
 fi
 
-## Remove old files if there are any
-#if [ "$(ls -A "$repo"/)" ]; then
-#  if ! rm "$repo"/* 2>/dev/null; then
-#    echo "Failed to clean up old files" >&2
-#    exit 1
-#  fi
-#else
-#  echo "No files to clean up"
-#fi
+# Remove old files if there are any
+if [ "$(ls -A "$repo"/)" ]; then
+  if ! rm "$repo"/* 2>/dev/null; then
+    echo "Failed to clean up old files" >&2
+    exit 1
+  fi
+else
+  echo "No files to clean up"
+fi
 
 
 i="$num"
