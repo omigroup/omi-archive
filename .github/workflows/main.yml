@@ -1,6 +1,8 @@
 name: Run posters script
 
-on: [push]
+on:
+  schedule:
+    - cron: '59 23 * * 4' # Run every Thursday at 11:59 PM
 
 jobs:
   run_posters:
