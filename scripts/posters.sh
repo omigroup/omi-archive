@@ -6,7 +6,7 @@
 
 
 # Set the GH_TOKEN environment variable to your OMI_SECRET
-GH_TOKEN="$OMI_SECRET"
+#GH_TOKEN="$OMI_SECRET"
 
 # Check if package dependencies are installed
 packages=("gh" "capture-website" "jq" "pup")

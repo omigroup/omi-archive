@@ -5,12 +5,16 @@ on: [push]
 jobs:
   run_posters:
     runs-on: ubuntu-latest
+    
+    #env:
+    #  GH_TOKEN: ${{ github.token }}
+
+    env:
+      GH_TOKEN: ${{ secrets.OMI_SECRET }}
 
     steps:
       - uses: actions/checkout@v3
       - name: Update omigroup
-        env:
-          GH_TOKEN: ${{ secrets.OMI_SECRET }}
         run: |
           bash scripts/posters.sh omigroup omigroup 4
           bash scripts/create-index.sh
@@ -21,8 +25,6 @@ jobs:
           git commit -m "update omigroup weekly notes"
       
       - name: Update omigroup gltf-extensions
-        env:
-          GH_TOKEN: ${{ secrets.OMI_SECRET }}
         run: |
           bash scripts/posters.sh omigroup gltf-extensions 4
           bash scripts/create-index.sh
