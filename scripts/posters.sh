@@ -4,6 +4,8 @@
 # Run as bash script.sh owner repo
 # Example: bash script.sh omigroup gltf-extensions
 
+GITHUB_TOKEN="$OMI_SECRET"
+
 # Check if package dependencies are installed
 packages=("gh" "capture-website" "jq" "pup")
 
