@@ -4,6 +4,8 @@
 # Run as bash script.sh owner repo
 # Example: bash script.sh omigroup gltf-extensions
 
+GITHUB_TOKEN=$OMI_SECRET
+
 # Check if package dependencies are installed
 packages=("capture-website" "jq" "pup")
 
@@ -33,13 +35,13 @@ for package in "${packages[@]}"; do
     fi
 done
 
-# Load the GitHub personal access token from .env
-if [ -f .env ]; then
-    source .env
-else
-    echo "Error: .env file not found. Create a .env file with your GITHUB_TOKEN." >&2
-    exit 1
-fi
+## Load the GitHub personal access token from .env
+#if [ -f .env ]; then
+#    source .env
+#else
+#    echo "Error: .env file not found. Create a .env file with your GITHUB_TOKEN." >&2
+#    exit 1
+#fi
 
 # assign command-line arguments to variables
 if [ $# -ne 3 ]; then
