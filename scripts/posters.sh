@@ -54,38 +54,40 @@ num="$3"
 
 # Define the GraphQL query
 QUERY_ALL=$(cat <<EOF
-query {
-  repository(owner: "$owner", name: "$repo") {
-    discussions(first: $num) {
-      totalCount
-      nodes {
-        id
-        category { name }
-        upvoteCount
-        updatedAt
-        createdAt
-        number
-        title
-        body
-        author { login }
-        comments(first: 30) {
-          nodes {
-            id
-            author{ login }
-            body
+{
+  "query": "query {
+    repository(owner: \"$owner\", name: \"$repo\") {
+      discussions(first: $num) {
+        totalCount
+        nodes {
+          id
+          category { name }
+          upvoteCount
+          updatedAt
+          createdAt
+          number
+          title
+          body
+          author { login }
+          comments(first: 30) {
+            nodes {
+              id
+              author { login }
+              body
+            }
           }
-        }
-        labels(first: 30) {
-          nodes {
-            id
-            name
-            color
-            description
+          labels(first: 30) {
+            nodes {
+              id
+              name
+              color
+              description
+            }
           }
         }
       }
     }
-  }
+  }"
 }
 EOF
 )
@@ -120,12 +122,10 @@ fi
 echo "$discussion_numbers" | sort -n > numbers.txt
 
 
-
 # Remove old files if there are any
 if [ "$(ls -A "$repo"/)" ]; then
   if ! rm "$repo"/* 2>/dev/null; then
     echo "Failed to clean up old files" >&2
-    exit 1
   fi
 else
   echo "No files to clean up"
