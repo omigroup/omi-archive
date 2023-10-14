@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:  # Add the environment variable here
-      GITHUB_TOKEN: ${{ secrets.OMI_secret }}
+      GITHUB_TOKEN: ${{ secrets.OMI_SECRET }}
 
     steps:
       - uses: actions/checkout@v3
