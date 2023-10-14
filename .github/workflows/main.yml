@@ -6,11 +6,8 @@ jobs:
   run_posters:
     runs-on: ubuntu-latest
     
-    #env:
-    #  GH_TOKEN: ${{ github.token }}
-
     env:
-      GH_TOKEN: ${{ secrets.OMI_SECRET }}
+      GITHUB_TOKEN: ${{ secrets.OMI_SECRET }}
 
     steps:
       - uses: actions/checkout@v3

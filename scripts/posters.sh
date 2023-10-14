@@ -4,7 +4,7 @@
 # Run as bash script.sh owner repo
 # Example: bash script.sh omigroup gltf-extensions
 
-GITHUB_TOKEN=$OMI_SECRET
+GITHUB_TOKEN="$OMI_SECRET"
 
 # Check if package dependencies are installed
 packages=("capture-website" "jq" "pup")
@@ -59,7 +59,7 @@ QUERY_ALL=$(cat <<EOF
 {
   "query": "query {
     repository(owner: \"$owner\", name: \"$repo\") {
-      discussions(first: $num) {
+      discussions(first: 4, orderBy: { field: CREATED_AT, direction: DESC }) {
         totalCount
         nodes {
           id
@@ -103,26 +103,10 @@ fi
 
 # Get a list of the past X amount of URLs
 echo "Getting a list of URLs from past discussions"
-gh_response=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -X POST -d @numbers.graphql "https://api.github.com/graphql")
-
-# Check if the response contains data
-if [ -z "$gh_response" ]; then
-    echo "Error: GitHub API response is empty or null" >&2
-    exit 1
-fi
+curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -X POST -d @numbers.graphql "https://api.github.com/graphql" > "$owner"/"$owner"_"$repo".json
 
 # Extract discussion numbers using jq
-discussion_numbers=$(echo "$gh_response" | jq -r '.data.repository.discussions.nodes[].number')
-
-# Check if discussion numbers are null
-if [ -z "$discussion_numbers" ]; then
-    echo "Error: Discussion numbers are empty or null in the GitHub API response" >&2
-    exit 1
-fi
-
-# Sort and save discussion numbers to a file
-echo "$discussion_numbers" | sort -n > numbers.txt
-
+cat "$owner"/"$owner"_"$repo".json | jq -r '.data.repository.discussions.nodes[].number' | sort -n > numbers.txt
 
 # Remove old files if there are any
 if [ "$(ls -A "$repo"/)" ]; then
@@ -182,7 +166,6 @@ do
   echo "moving files to /docs"
   if ! mv "$repo"_"$number".jpg docs/"$repo"/"$i".jpg 2>/dev/null; then
     echo "Failed to move files" >&2
-    exit 1
   fi
   i=$((i-1))
 done < numbers.txt
@@ -190,14 +173,12 @@ done < numbers.txt
 # Clean up files
 if ! rm title_*.png body_*.jpg numbers.txt engine.bin numbers.graphql 2>/dev/null; then
   echo "Failed to clean up temporary files" >&2
-  exit 1
 fi
 
 # Move to docs to serve
 echo "moving $repo json to /docs"
-if ! mv "$owner"-"$repo".json docs/"$repo"/ 2>/dev/null; then
+if ! mv response.json docs/"$repo"/ 2>/dev/null; then
   echo "Failed to move JSON" >&2
-  exit 1
 fi
 
 # Combine into 1 poster
@@ -206,7 +187,6 @@ echo "Combine into 1 poster"
 rm docs/"$repo"/poster.jpg
 if ! convert $(ls docs/"$repo"/*.jpg | sort -n) +append docs/"$repo"/poster.jpg 2>/dev/null; then
     echo "Failed to combine into a poster" >&2
-    exit 1
 fi
 
 echo "Finished processing"
