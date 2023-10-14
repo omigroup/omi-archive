@@ -99,10 +99,27 @@ fi
 
 # Get a list of the past X amount of URLs
 echo "Getting a list of URLs from past discussions"
-if ! curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -X POST -d @numbers.graphql "https://api.github.com/graphql" | jq -r '.data.repository.discussions.nodes[].number' | sort -n > numbers.txt; then
-    echo "Error: Failed to get list of discussion numbers" >&2
+gh_response=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -X POST -d @numbers.graphql "https://api.github.com/graphql")
+
+# Check if the response contains data
+if [ -z "$gh_response" ]; then
+    echo "Error: GitHub API response is empty or null" >&2
     exit 1
 fi
+
+# Extract discussion numbers using jq
+discussion_numbers=$(echo "$gh_response" | jq -r '.data.repository.discussions.nodes[].number')
+
+# Check if discussion numbers are null
+if [ -z "$discussion_numbers" ]; then
+    echo "Error: Discussion numbers are empty or null in the GitHub API response" >&2
+    exit 1
+fi
+
+# Sort and save discussion numbers to a file
+echo "$discussion_numbers" | sort -n > numbers.txt
+
+
 
 # Remove old files if there are any
 if [ "$(ls -A "$repo"/)" ]; then
@@ -182,12 +199,12 @@ if ! mv "$owner"-"$repo".json docs/"$repo"/ 2>/dev/null; then
 fi
 
 # Combine into 1 poster
-echo "combine into 1 poster"
+echo "Combine into 1 poster"
 # Clean up previous poster first
 rm docs/"$repo"/poster.jpg
 if ! convert $(ls docs/"$repo"/*.jpg | sort -n) +append docs/"$repo"/poster.jpg 2>/dev/null; then
-  echo "Failed to combine into a poster" >&2
-  exit 1
+    echo "Failed to combine into a poster" >&2
+    exit 1
 fi
 
-echo "finished processing"
+echo "Finished processing"
