@@ -1,10 +1,26 @@
 #!/bin/bash
+set -x
 
 # Downloads GitHub discussions as JSON + screenshot
 # Run as bash script.sh owner repo
 # Example: bash script.sh omigroup gltf-extensions
 
-GITHUB_TOKEN="$OMI_SECRET"
+# Try loading the GITHUB_TOKEN from the .env file
+if [ -f .env ]; then
+    source .env
+fi
+
+# If GITHUB_TOKEN is not set, check if OMI_SECRET is set as a GitHub action secret
+if [ -z "$GITHUB_TOKEN" ] && [ -n "$OMI_SECRET" ]; then
+    GITHUB_TOKEN="$OMI_SECRET"
+fi
+
+# Check if the GITHUB_TOKEN is still empty
+if [ -z "$GITHUB_TOKEN" ]; then
+    echo "Error: GITHUB_TOKEN is not set. Please provide your GitHub personal access token." >&2
+    # You can choose to exit or continue the script here as per your requirements
+    # exit 1
+fi
 
 # Check if package dependencies are installed
 packages=("capture-website" "jq" "pup")
@@ -35,13 +51,6 @@ for package in "${packages[@]}"; do
     fi
 done
 
-## Load the GitHub personal access token from .env
-#if [ -f .env ]; then
-#    source .env
-#else
-#    echo "Error: .env file not found. Create a .env file with your GITHUB_TOKEN." >&2
-#    exit 1
-#fi
 
 # assign command-line arguments to variables
 if [ $# -ne 3 ]; then
@@ -171,7 +180,7 @@ do
 done < numbers.txt
 
 # Clean up files
-if ! rm title_*.png body_*.jpg numbers.txt engine.bin numbers.graphql 2>/dev/null; then
+if ! rm title_*.png body_*.jpg numbers.txt engine.bin 2>/dev/null; then
   echo "Failed to clean up temporary files" >&2
 fi
 
