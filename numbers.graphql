@@ -1,7 +1,7 @@
 {
   "query": "query {
     repository(owner: \"omigroup\", name: \"gltf-extensions\") {
-      discussions(first: 4, orderBy: { field: CREATED_AT, direction: DESC }) {
+      discussions(first: 12, orderBy: { field: CREATED_AT, direction: DESC }) {
         totalCount
         nodes {
           id

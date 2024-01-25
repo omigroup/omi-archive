@@ -68,7 +68,7 @@ QUERY_ALL=$(cat <<EOF
 {
   "query": "query {
     repository(owner: \"$owner\", name: \"$repo\") {
-      discussions(first: 4, orderBy: { field: CREATED_AT, direction: DESC }) {
+      discussions(first: 12, orderBy: { field: CREATED_AT, direction: DESC }) {
         totalCount
         nodes {
           id
