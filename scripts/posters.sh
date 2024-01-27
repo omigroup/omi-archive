@@ -10,11 +10,6 @@ if [ -f .env ]; then
     source .env
 fi
 
-# If GITHUB_TOKEN is not set, check if OMI_SECRET is set as a GitHub action secret
-if [ -z "$GITHUB_TOKEN" ] && [ -n "$OMI_SECRET" ]; then
-    GITHUB_TOKEN="$OMI_SECRET"
-fi
-
 # Check if the GITHUB_TOKEN is still empty
 if [ -z "$GITHUB_TOKEN" ]; then
     echo "Error: GITHUB_TOKEN is not set. Please provide your GitHub personal access token." >&2
