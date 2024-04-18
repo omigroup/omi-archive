@@ -1,2 +1,6 @@
 omigroup/pdf/258.pdf
+package.json
+package-lock.json
+node_modules/
+env/
 .env

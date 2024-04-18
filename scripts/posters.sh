@@ -18,7 +18,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
 fi
 
 # Check if package dependencies are installed
-packages=("capture-website" "jq" "pup")
+packages=("capture-website" "jq")
 
 for package in "${packages[@]}"; do
     if ! command -v "$package" &> /dev/null; then
@@ -33,12 +33,6 @@ for package in "${packages[@]}"; do
             "jq")
                 if ! sudo apt-get install jq -y; then
                     echo "Error: Failed to install jq" >&2
-                    exit 1
-                fi
-                ;;
-            "pup")
-                if ! pip install pup; then
-                    echo "Error: Failed to install pup" >&2
                     exit 1
                 fi
                 ;;
@@ -63,7 +57,7 @@ QUERY_ALL=$(cat <<EOF
 {
   "query": "query {
     repository(owner: \"$owner\", name: \"$repo\") {
-      discussions(first: 12, orderBy: { field: CREATED_AT, direction: DESC }) {
+      discussions(first: $num, orderBy: { field: CREATED_AT, direction: DESC }) {
         totalCount
         nodes {
           id
@@ -140,8 +134,8 @@ do
     continue
   fi
 
-  # get the title of the discussion using curl and pup
-  if ! title=$(curl -s "https://github.com/$owner/$repo/discussions/$number" | pup 'span.js-issue-title.markdown-title text{}' | tr -s '[:space:]' ' ' 2>/dev/null); then
+  # get the title of the discussion using curl
+  if ! title=$(curl -s "https://github.com/$owner/$repo/discussions/$number" | grep -oP '(?<=<meta name="description" content=")[^"]*' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' 2>/dev/null); then
     echo "Failed to get title for discussion $number" >&2
     continue
   fi
