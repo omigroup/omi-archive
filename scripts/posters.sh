@@ -6,9 +6,9 @@ set -x
 # Example: bash script.sh omigroup gltf-extensions
 
 # Try loading the GITHUB_TOKEN from the .env file
-if [ -f .env ]; then
-    source .env
-fi
+#if [ -f .env ]; then
+#    source .env
+#fi
 
 # Check if the GITHUB_TOKEN is still empty
 if [ -z "$GITHUB_TOKEN" ]; then
