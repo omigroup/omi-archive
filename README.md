@@ -79,7 +79,13 @@ The output is markdown containing a title, high level short summary, and then ea
 Save the modelfile
 `ollama create dolphin-summary -f ./modelfile`
 
-Summarize each of the transcripts
+List models (just do double check)
+`ollama list`
+
+Summarize an individual transcript
+`ollama run dolphin-summary "I have a transcript from one of the Open Metaverse Interoperability (OMI) group meetings. Can you summarize it? Here is the transcript: $(cat file.txt)"`
+
+Summarize all of the transcripts in omigroup recordings (optional)
 ```bash
 #!/bin/bash
 
