@@ -1,0 +1,26 @@
+# Open Metaverse Interoperability Group Meeting Summary
+
+The Open Metaverse Interoperability (OMI) group held their 121st meeting to discuss various topics related to the metaverse and virtual worlds. The main points discussed were:
+
+- Introduction and focus of OMI: The group is focused on bridging virtual worlds, designing protocols for identity, social graphs, inventory, and more. They are excited about showcasing augmented or cross-reality (XR) and planning a big Metaverse festival in October 2024.
+
+## Action Items
+
+1. Get in touch with Evo to find out if they know anyone from the virtual burners who participated in the 2020 multiverse initiative.
+2. Set a date range for the Metaverse Festival, with a preference for mid-October next year (2024).
+3. Research online communities that bring together XR developers from different projects to share their work on in-world events.
+4. Decide whether to host an event in a virtual world or use WebXR for more interoperability.
+
+## Topics Discussed by Timeline
+
+1. Virtual Burners and 2020 Multiverse Initiative: The group wants to learn from the virtual burners' experience with their online event during the pandemic. They plan to collaborate with them, create content for OMI, and share it on various platforms like YouTube, Twitter, Reddit, Discord, Mastodon, etc.
+2. Metaverse Festival Date: The group prefers mid-October next year (2024) for the festival, but they are open to suggestions. They want to avoid summer months when people travel and have difficulty attending events.
+3. Online Communities for XR Developers: The group is interested in finding other online communities that bring together developers from different projects to share their work on in-world events. They suggest reaching out to the Metatraversal group, which has hosted multi-platform events virtually.
+4. Virtual Worlds vs. WebXR: The group discusses whether to host an event in a virtual world (OpenSim) or use WebXR for more interoperability. They believe that WebXR may be more aligned with OMI's goals due to its focus on the web and compatibility with various platforms.
+
+## Notes
+
+- OpenSim is an open source virtual world platform that allows users to host their own servers, teleport between different worlds, and create content for other virtual worlds. It is not VR capable at this time but has potential for future interoperability.
+- WebXR monthly meetups and M3 are examples of online communities where developers from different projects come together to share their work on in-world events.
+- Metatraversal is another group that hosts multi-platform events virtually, showcasing various worlds collectively and hopping between them.
+

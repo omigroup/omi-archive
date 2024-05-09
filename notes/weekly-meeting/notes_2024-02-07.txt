@@ -1,0 +1,34 @@
+# Section 1: Overall Summary
+The Open Metaverse Interoperability (OMI) group held their 145th weekly meeting on February 7th, 2024. The main topics discussed were the Apple Vision Pro headset, WebXR experiences, and the migration of their Discord server. They also touched upon the W3C mailing list, backlog refinement, and branding for the group.
+
+# Section 2: Action Items
+1. Migrate to a new Discord server
+2. Create a style guide for OMI's branding
+3. Set up a channel for transcriptions of weekly meetings
+4. Investigate alternative payment methods for Open Collective
+5. Plan the backlog refinement session for the following week
+6. Create flyers and posters to promote upcoming events and meetings
+7. Update the website with links to the new Discord server and W3C mailing list
+
+# Section 3: Topics by Timeline
+1. Apple Vision Pro headset usage and challenges
+2. WebXR Awards nominations and experiences
+3. Migration of the Discord server
+4. W3C mailing list and potential merging with OMI's communication channels
+5. Backlog refinement session for upcoming tasks and projects
+6. Branding and style guide creation for OMI
+7. Payment method alternatives for Open Collective
+8. Weekly meeting transcriptions and documentation
+9. General channel placement in the Discord server
+
+# Section 4: Notes
+- Apple Vision Pro headset usage and challenges discussed, with a focus on WebXR experiences
+- Nominations for the WebXR Awards and the importance of community involvement
+- Migration to a new Discord server, including setting up channels and branding
+- W3C mailing list and potential merging with OMI's communication channels
+- Backlog refinement session planning for upcoming tasks and projects
+- Branding and style guide creation for OMI
+- Payment method alternatives for Open Collective
+- Weekly meeting transcriptions and documentation
+- General channel placement in the Discord server
+

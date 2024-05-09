@@ -1,0 +1,26 @@
+# Open Metaverse Interoperability (OMI) Meeting Summary
+
+## Overall Summary
+- OMI is a collective of builders, researchers, and human beings working together to design and promote protocols for an open and interoperable metaverse.
+- The group focuses on collaboration, incremental and iterative work with intent, creating something cooperative and sustainable, fostering innovation, empowering implementers, and championing diversity and freedom of choice.
+- Discussion centered around the importance of measuring success by the number of collaborators and implementing protocols rather than just creating them.
+
+## Action Items
+1. Organize a Google sheet to manage logistics for the World Hop event on May 19th, including time slots, world hosts, RSVPs, and capacity limits.
+2. Set up a meeting with the media team to discuss access and delegation of roles.
+3. Implement a starboard system in OMI Discord to promote content and ideas.
+
+## Topics Discussed by Timeline
+1. Introduction and welcome (0-5 minutes)
+2. Recap of OMI's core values and focus on collaboration, incremental work, sustainability, innovation, empowering implementers, and championing diversity (5-15 minutes)
+3. Discussion on measuring success by the number of collaborators and implementing protocols rather than just creating them (15-20 minutes)
+4. Planning for the World Hop event on May 19th, including time slots, world hosts, RSVPs, capacity limits, and potential VR-specific sections (20-35 minutes)
+5. Media team access and delegation of roles (35-40 minutes)
+6. Starboard system implementation in OMI Discord to promote content and ideas (40-45 minutes)
+
+## Notes
+- World Hop event on May 19th, with two time slots: noon PST and either 4 or 5 p.m. PST.
+- Capacity limit of 20 people per section due to performance considerations.
+- RSVP system for the World Hop event to keep track of participants.
+- Starboard system in OMI Discord to promote content and ideas, with one star for champions and two stars for non-champions.
+

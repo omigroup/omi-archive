@@ -1,0 +1,41 @@
+# Section 1: Overall Summary
+* OMI group meeting, July 12th, 2023
+* Discussion on Open Collective and fiscal sponsorship
+* Updates on GitHub Copilot business accounts for dedicated OMI volunteers
+* Proposal to create a grant or align with a grant that could help Boombox Heads as a case study
+* Demos of Godot GLTF export settings dialog and Hyper-Fi world prototype
+
+# Section 2: Action Items
+1. Set up GitHub Copilot business accounts for dedicated OMI volunteers
+2. Create a proposal for a grant or collaboration with Boombox Heads
+3. Continue working on the Godot GLTF export settings dialog and Hyper-Fi world prototype
+4. Improve community engagement and incentivize contributions through grants and hackathons
+5. Document ideas discussed during the meeting, including the OMI experiment idea
+6. Create a more visual representation of interconnected notes for easier understanding
+7. Add music or ambience to the Hyper-Fi world prototype
+8. Continue working on co-working space inspiration for collaboration visualization
+9. Improve the agenda creation process in advance for demos
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and recap of OMI group's purpose and goals
+2. Updates on Open Collective and fiscal sponsorship status
+3. Discussion on GitHub Copilot business accounts for dedicated OMI volunteers
+4. Proposal to create a grant or align with a grant that could help Boombox Heads as a case study
+5. Demos of Godot GLTF export settings dialog and Hyper-Fi world prototype
+6. Continued work on the OMI experiment idea and visual representation of notes
+7. Discussion on community engagement and incentivizing contributions through grants and hackathons
+8. Ideas for co-working space inspiration for collaboration visualization
+9. Improvement in agenda creation process for demos
+
+# Section 4: Notes
+* Boombox Heads working on an open source project, funded by art sales
+* Need to find ways to raise funding for research and development
+* Discussion on types of grants that could be pursued
+* Proposal to create a grant or align with a grant that could help Boombox Heads as a case study
+* Idea to incentivize contributions through grants and hackathons
+* Documentation of ideas discussed during the meeting, including the OMI experiment idea
+* Continued work on the Godot GLTF export settings dialog and Hyper-Fi world prototype
+* Discussion on community engagement and incentivizing contributions through grants and hackathons
+* Ideas for co-working space inspiration for collaboration visualization
+* Improvement in agenda creation process for demos
+

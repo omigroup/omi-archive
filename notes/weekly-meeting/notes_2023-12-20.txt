@@ -1,0 +1,24 @@
+## Section 1: Overall Summary and Key Points
+
+The Open Metaverse Interoperability (OMI) group held a meeting to discuss their progress and future plans. The group acknowledged that there has been less hype around the metaverse recently, but they remain committed to promoting interoperability and open standards. They discussed the importance of showcasing the benefits of open metaverse interoperability through content creation and collaboration with other organizations.
+
+The group also touched on the challenges of managing finances for their organization and explored potential partnerships with other groups, such as the Linux Foundation Europe. They emphasized the need to maintain a balance between being open source advocates and working with commercial entities that can support their goals.
+
+## Section 2: Action Items Discussed
+
+1. Create a list of people at W3C who have signed up to be part of OMI over the last two and a half years, unify streams of supporters, and update their W3C presence.
+2. Pump out short blogs recapping the origin story of OMI, announcing new Discord or Matrix servers, and discussing plans for a Metaverse conference in 2024.
+3. Explore potential partnerships with other organizations to manage finances and provide European representation.
+4. Collaborate with other standards bodies, such as OMA3, to create a map of existing technologies within the organization and promote interoperability.
+5. Continue hosting weekly meetings and encourage participation from all members.
+
+## Section 3: Timeline-Based Outline
+
+1. Introduction and agenda review (0:00 - 2:45)
+2. Discussion on current state of the metaverse and challenges faced by OMI (2:45 - 8:15)
+3. Exploration of potential partnerships with other organizations, such as Linux Foundation Europe (8:15 - 16:00)
+4. Discussion on managing finances for OMI and the importance of open source advocacy (16:00 - 23:00)
+5. Collaboration with other standards bodies, such as OMA3, to promote interoperability (23:00 - 28:45)
+6. Recap of action items and future plans for OMI (28:45 - 31:00)
+7. Closing remarks and next steps (31:00 - 32:00)
+

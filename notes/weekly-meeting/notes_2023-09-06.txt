@@ -1,0 +1,32 @@
+# Section 1: Overall Summary and Key Points
+The OMI group held a weekly meeting, discussing various topics related to their work on interoperability in the metaverse. The main focus was on creating a festival that would showcase the group's progress and involve the community in monthly events. They also discussed the importance of openness and collaboration with other standards groups.
+
+# Section 2: Action Items Discussed
+1. Create a thread in OMI Experiments for brainstorming event ideas.
+2. Start planning monthly events, such as hackathons or workshops, to build community engagement.
+3. Identify prominent personalities or academics who could contribute to the festival and its events.
+4. Explore different virtual platforms that can be used for the festival and its events.
+5. Continue collaborating with other standards groups to promote interoperability in the metaverse.
+
+# Section 3: Timeline of Topics Discussed
+1. Shout outs and fresh voices in the group.
+2. Open Collective approval and onboarding process.
+3. Election conversation and accountability within the group.
+4. Increasing capacity and engaging more people in the group's work.
+5. Promoting open protocols and standards.
+6. Showcasing implementations of OMI protocols.
+7. Mapping efforts and interoperability between virtual worlds.
+8. Public-facing blog or website to keep the community informed.
+9. Incremental progress and milestones for ongoing projects.
+10. Virtual hackathons and events as part of the festival.
+11. Choosing a venue for the festival and its events.
+12. Collaborating with other virtual platforms and communities.
+13. Promoting the festival and its events to a wider audience.
+
+# Section 4: Notes
+- The group discussed the importance of openness and collaboration with other standards groups, such as Microsoft's Metaverse Standards Forum (MSF).
+- They emphasized the need for incremental progress and milestones in their ongoing projects to showcase their work.
+- The group brainstormed ideas for monthly events, such as hackathons or workshops, to build community engagement and promote interoperability in the metaverse.
+- They explored different virtual platforms that could be used for the festival and its events, including OpenSimulator, Hyperfire, and WebXR-based platforms.
+- The group also discussed the possibility of incorporating live broadcasts from individual groups into the main event to showcase their work.
+

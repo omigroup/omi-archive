@@ -1,0 +1,31 @@
+# Summary
+The OMI group meeting focused on updates from members and their projects. Key points included:
+- HoverFit VR fitness project launched on HeyVR.io
+- RP1 team working on Metaverse project with 100,000 simultaneous users in a space
+- MagicML artificial intelligence development environment for building agents
+- Vergent digital services company building AI agents using MagicML
+- OMI's plans to host an Open Metaverse conference and collaborate with groups like M3
+- Backlog grooming sessions to manage tasks and ensure completion
+- Exploration of bolder standards for the Open Metaverse
+
+# Action Items
+1. Schedule backlog grooming sessions for managing tasks effectively
+2. Encourage members to contribute exploratory content on bolder standards for the Open Metaverse
+3. Plan and organize an Open Metaverse conference with other standards bodies
+4. Collaborate with groups like M3 to create high-quality content and provide a great space for builders
+
+# Timeline of Topics Discussed
+1. Updates from members on their projects (HoverFit, RP1, MagicML, Vergent)
+2. OMI's plans for the year (conference, collaboration with M3)
+3. Backlog grooming sessions to manage tasks effectively
+4. Exploration of bolder standards for the Open Metaverse
+
+# Notes
+- HoverFit VR fitness project launched on HeyVR.io
+- RP1 team working on Metaverse project with 100,000 simultaneous users in a space
+- MagicML artificial intelligence development environment for building agents
+- Vergent digital services company building AI agents using MagicML
+- OMI's plans to host an Open Metaverse conference and collaborate with groups like M3
+- Backlog grooming sessions to manage tasks effectively
+- Exploration of bolder standards for the Open Metaverse
+

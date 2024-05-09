@@ -1,0 +1,21 @@
+# Summary
+The OMI group discussed the recording and transcription of their meetings using various tools such as Fireflies and MeSeek. They also talked about the future of OMI, electing new chairs, and updating members on recent progress. The group decided to take notes during the meeting and share them in the hack MD.
+
+# Action Items
+1. Try different transcription tools for recording meetings.
+2. Discuss the future of OMI and potential elections for new chairs.
+3. Share updates from Robert with the group.
+4. Take notes during the meeting and share them in the hack MD.
+
+# Topics Discussed
+- Recording and transcribing meetings using Fireflies, MeSeek, and other tools.
+- Future of OMI and potential elections for new chairs.
+- Updates from Robert.
+- Sharing notes in the hack MD.
+
+# Notes
+- The group decided to try different transcription tools for recording their meetings.
+- They discussed the future of OMI and whether or not to restructure it.
+- Updates from Robert were shared with the group.
+- Members took notes during the meeting and shared them in the hack MD.
+

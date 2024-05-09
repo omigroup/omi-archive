@@ -1,0 +1,23 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group held a meeting discussing various topics related to interoperability in the metaverse. They discussed the incorporation of MSF into a non-profit industry consortium, the need for faster browsing through past meeting notes, and the importance of knowledge spaces for organizing information. The group also talked about using GitHub discussions for their meetings, creating content in virtual worlds, and exploring the use of AI for collaboration. They discussed the design of virtual working environments and the psychology behind them, as well as the need for a whiteboard or infinite canvas for designing these virtual spaces.
+
+# Action Items
+1. Create a knowledge space 2.0 version using spatial software.
+2. Investigate the Obsidian Canvas and its potential integration with GitHub discussions.
+3. Explore the use of AI for collaboration in virtual worlds.
+4. Set up a whiteboard or infinite canvas for designing virtual spaces.
+5. Continue exploring different ways to represent information spatially.
+6. Attend the GLTF extensions meetup every Thursday at 5:30 p.m. East.
+
+# Timeline of Topics Discussed
+1. Incorporation of MSF into a non-profit industry consortium.
+2. Faster browsing through past meeting notes.
+3. Importance of knowledge spaces for organizing information.
+4. Using GitHub discussions for meetings.
+5. Creating content in virtual worlds.
+6. Exploring the use of AI for collaboration in virtual worlds.
+7. Design of virtual working environments and the psychology behind them.
+8. Need for a whiteboard or infinite canvas for designing virtual spaces.
+9. Different ways to represent information spatially.
+10. Attending the GLTF extensions meetup every Thursday at 5:30 p.m. East.
+

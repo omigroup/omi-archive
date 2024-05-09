@@ -1,0 +1,21 @@
+# Summary
+The 127th weekly meeting of the Open Metaverse Interoperability (OMI) group focused on bridging virtual worlds and engaging the general public, as well as hardcore gamers and builders, by designing and promoting protocols for identity, social graphs, inventory and more. The group discussed various topics such as the Vendor Traversal, feedback on the demo day, planning future events, and potential collaborations with other organizations like OMF.
+
+# Action Items
+1. Keyframe to share some of the VR spaces that he thought would be good for their demo days.
+2. Collaboration between OMI and OMF to explore potential areas of collaboration.
+3. Planning a monthly event where participants can showcase their progress on various projects related to metaverse interoperability.
+4. Creating an FAQ page on the website to address common questions about terminology and concepts.
+5. Establishing a weekly meeting for the media group to discuss promotional strategies and access to social media accounts.
+6. Identifying opportunities to collaborate with organizations like MSF Metaverse Standards Forum.
+7. Keyframe to share his Tar 3D model of his character.
+
+# Topic Outline
+1. Vendor Traversal: Discussion on the Vendor Traversal event and feedback from participants.
+2. Demo Day Planning: Planning for future demo days, including themes, structure, and collaboration with other groups.
+3. Collaboration with OMF: Exploring potential areas of collaboration between OMI and OMF.
+4. FAQ Page Creation: Discussion on creating an FAQ page on the website to address common questions about terminology and concepts.
+5. Media Group Meeting: Establishing a weekly meeting for the media group to discuss promotional strategies and access to social media accounts.
+6. Collaboration with MSF Metaverse Standards Forum: Identifying opportunities to collaborate with organizations like MSF Metaverse Standards Forum.
+7. Miscellaneous Topics: Discussion on various miscellaneous topics, including fostering kittens, sharing Tar 3D models of characters, and other non-OMI related topics.
+

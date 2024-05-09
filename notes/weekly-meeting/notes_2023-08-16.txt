@@ -1,0 +1,30 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group meeting discussed various topics related to metaverse standards, interoperable vehicles, and virtual events. The group agreed on the importance of collaboration between different organizations in the metaverse space. They also emphasized the need for visualization tools like TLDraw and Miro to enhance communication and documentation within the community.
+
+# Action Items
+1. Call for nominations and volunteers for the next election.
+2. Set a date range for the parade.
+3. Record more working group meetings, including GLTF extensions group meetings.
+4. Create templates for virtual events and expo booths.
+5. Establish a process to commission art for the parade float.
+6. Explore the possibility of hosting metaverse salons as an alternative to conferences.
+7. Organize a demo day showcasing in-world demonstrations.
+8. Create a virtual education demo highlighting the potential applications of the technology.
+9. Collaborate with other organizations in the metaverse space.
+10. Consider using ecosystem maps for planning virtual events and expo booths.
+
+# Timeline of Topics Discussed
+- Introduction and overview of OMI group's focus areas.
+- Call for nominations and volunteers for the next election.
+- Discussion on the process of having multiple chairs in the group.
+- Proposal to record more working group meetings, including GLTF extensions group meetings.
+- Idea of using Sketchfab as a platform for showcasing metaverse content.
+- Discussion on the timeline and logistics of the parade idea.
+- Presentation of templates for virtual events and expo booths.
+- Collaboration between OMI and other organizations in the metaverse space.
+- Exploration of using ecosystem maps for planning virtual events and expo booths.
+- Discussion on the importance of visualization tools like TLDraw and Miro.
+- Idea of hosting metaverse salons as an alternative to conferences.
+- Organizing a demo day showcasing in-world demonstrations.
+- Creation of a virtual education demo highlighting the potential applications of the technology.
+

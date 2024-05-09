@@ -1,0 +1,38 @@
+**Section 1: Overall Summary**
+- Discussion on audio and physics extensions in OMI group meeting
+- Booleans versus string enums for iskinematic property
+- Implementation specifics of physics extensions
+- Joints as a separate extension or part of the base spec
+- Differences between Microsoft and OME specs
+- Static bodies and their representation across engines
+- Grouping events in static bodies
+- Audio MIME types and their discussion
+
+**Section 2: Action Items**
+1. Review and merge PR for Wave audio extension
+2. Update GLTF readme with new audio MIME type
+3. Create a PR against the Kronos audio repository for Cager Audio
+4. Link to OMI discussion for joints and iskinematic property
+5. Discuss and decide on static bodies representation in future specs
+6. Translate Wikipedia page to Simple English
+
+**Section 3: Timeline of Topics Discussed**
+1. Booleans versus string enums for iskinematic property
+2. Implementation specifics of physics extensions
+3. Joints as a separate extension or part of the base spec
+4. Differences between Microsoft and OME specs
+5. Static bodies and their representation across engines
+6. Grouping events in static bodies
+7. Audio MIME types and their discussion
+8. Review and merge PR for Wave audio extension
+9. Update GLTF readme with new audio MIME type
+10. Create a PR against the Kronos audio repository for Cager Audio
+11. Link to OMI discussion for joints and iskinematic property
+12. Discuss and decide on static bodies representation in future specs
+13. Translate Wikipedia page to Simple English
+
+**Section 4: Notes**
+- Aaron's character controller implementation using kinematic and fixed body types
+- IndieBio's Oh My Champion role and its purpose
+- Simple English translation of the GLTF Wikipedia page
+

@@ -1,0 +1,35 @@
+# Section 1: Overall Summary and Key Points
+- The meeting was about the Open Metaverse Interoperability (OMI) group's experiences at Evo's VR panel and discussing ways to improve outreach and collaboration.
+- Participants discussed the need for a clear mission statement, utilizing platforms like Spaces or X for meetings, creating working groups, and finding ways to share content effectively.
+- They also touched on the importance of strengthening ties with other organizations such as M3 and MSF, and the potential use of AI tools for audio generation in KHR audio.
+- The group discussed using W3C's mailing list and wiki for sharing information and software development resources related to the metaverse.
+- They mentioned the need for a structured work plan for content initiatives and the possibility of creating a virtual world museum wiki.
+
+# Section 2: Action Items Discussed
+1. Create a clear mission statement for OMI.
+2. Utilize platforms like Spaces or X for meetings.
+3. Establish working groups with specific goals and objectives.
+4. Strengthen ties with other organizations such as M3 and MSF.
+5. Explore the potential use of AI tools for audio generation in KHR audio.
+6. Develop a structured work plan for content initiatives.
+7. Create a virtual world museum wiki using W3C's mailing list and wiki functionality.
+
+# Section 3: Timeline-Based Outline
+1. Evo's VR panel experience and marketing insights.
+2. Discussion on the need for a clear mission statement.
+3. Utilizing platforms like Spaces or X for meetings.
+4. Creating working groups with specific goals and objectives.
+5. Strengthening ties with other organizations such as M3 and MSF.
+6. Exploring the potential use of AI tools for audio generation in KHR audio.
+7. Developing a structured work plan for content initiatives.
+8. Creating a virtual world museum wiki using W3C's mailing list and wiki functionality.
+9. Recap of 2023 and emailing the W3C groups.
+10. Research on a wiki for Metaverse software development.
+
+# Section 4: Notes
+- The group discussed the importance of outreach and collaboration to attract more people to join their efforts in the metaverse.
+- They mentioned the need for a clear mission statement, which should be clearly defined on the website and whatnot.
+- Participants shared their experiences at Evo's VR panel and how gaming is changing everything.
+- The group discussed the potential use of AI tools for audio generation in KHR audio and its benefits for Foley and other sound effects.
+- They touched on the possibility of creating a virtual world museum wiki using W3C's mailing list and wiki functionality.
+

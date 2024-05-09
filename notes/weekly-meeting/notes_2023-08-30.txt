@@ -1,0 +1,26 @@
+# Open Metaverse Interoperability Group Meeting Summary
+The 122nd weekly meeting of the Open Metaverse Interoperability (OMI) group took place on August 30th. The main topics discussed were:
+- Transcription and summarization of past meetings using Firefly's AI, with transcriptions available for all past Domi calls.
+- Updates on working groups, specifically GLTF, with a focus on increasing participation and collaboration.
+- Discussion about the Metaverse Festival, including brainstorming ideas for a name and branding.
+
+## Action Items:
+1. Continue to work on increasing participation in the GLTF working group by organizing virtual events and collaborating with other communities.
+2. Finalize the name and branding for the Metaverse Festival and start developing flyers, stickers, and other promotional materials.
+3. Encourage all sorts of communities to participate in the Metaverse Festival by providing open-source resources and guidelines.
+4. Set up a vote on the proposed names for the Metaverse Festival in the voting channel.
+5. Explore the possibility of organizing a Plugfest event to accelerate testing of protocols.
+
+## Timeline of Topics Discussed:
+1. Transcription and summarization of past meetings using Firefly's AI.
+2. Updates on working groups, specifically GLTF.
+3. Discussion about the Metaverse Festival, including brainstorming ideas for a name and branding.
+4. Finalizing action items and next steps for each topic discussed.
+
+## Notes:
+- The group is focused on bringing virtual worlds to everyday people by designing and promoting protocols for identity, social graphs, inventory, and more.
+- Members include businesses and individuals with a grassroots focus towards this common goal.
+- GLTF working group needs more participation and collaboration to move forward.
+- Metaverse Festival aims to bring communities together through virtual events and collaborations.
+- The group is open to exploring new ideas and partnerships to accelerate progress in the metaverse space.
+

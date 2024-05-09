@@ -1,0 +1,18 @@
+## Summary
+The OMI group meeting begins with Aaron welcoming everyone and starting the recording. He asks for introductions from any newcomers. The group discusses using OMIbot instead of Craig bot in recent meetings. They decide to continue using OMIbot as it has been working well.
+
+## Action Items
+- Continue using OMIbot in future meetings
+
+## Topics Discussed
+1. Introduction and welcome (Aaron)
+2. Recording start (Aaron)
+3. Newcomer introductions (Aaron)
+4. Use of OMIbot vs Craig bot (Group discussion)
+5. Decision to continue using OMIbot in future meetings (Group decision)
+
+## Notes
+- Aaron recognizes everyone present at the meeting
+- The group has been using OMIbot for about two months
+- There is no preference expressed regarding which bot to use, but it seems that Craig bot was recently used
+

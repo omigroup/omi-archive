@@ -1,0 +1,36 @@
+# Section 1: Overall Summary
+The Open Metaverse Interoperability (OMI) group held a meeting discussing the upcoming festival, which aims to bring together various virtual worlds through protocols for identity, social graphs, inventory, and more. The group discussed the need for a budget and fundraising efforts, as well as the importance of open source licensing and community engagement. They also touched on the balance between commercial and community aspects in the event.
+
+# Section 2: Action Items
+1. Create a single page summarizing the festival ideas and goals.
+2. Develop a sponsorship deck with participation layers for nonprofit organizations and companies.
+3. Organize monthly live build sessions to engage the community and transfer skill sets across worlds.
+4. Collaborate with other creator groups in different virtual worlds for community building and skill sharing.
+5. Reach out to Burning Man's BRCVR team, Athena, Doug Jacobson, and Brian Kral for potential partnerships.
+6. Explore the possibility of a cross-world parade experience using open standards like GLTF and VRM.
+7. Create an Open Metaverse YouTube playlist to showcase relevant videos and highlight community members.
+
+# Section 3: Topic Outline
+1. Introduction and meeting overview (0:00 - 2:45)
+2. Festival ideas and goals (2:45 - 18:00)
+   a. MSF discussion on GLTF physics (18:00 - 19:30)
+   b. Funding ideas and collaboration with other groups (19:30 - 27:00)
+   c. Balancing commercial and community aspects in the event (27:00 - 34:00)
+3. Discussion on open source licensing and community engagement (34:00 - 45:00)
+4. Collaboration with other virtual worlds and communities (45:00 - 51:00)
+5. Monthly live build sessions for skill sharing and community building (51:00 - 56:00)
+6. Sponsorship deck development and outreach to potential partners (56:00 - 1:03:00)
+7. Cross-world parade experience using open standards (1:03:00 - 1:08:00)
+8. Open Metaverse YouTube playlist creation (1:08:00 - 1:12:00)
+9. Closing remarks and next steps (1:12:00 - 1:15:00)
+
+# Section 4: Notes
+- Jin's mic disconnected during the meeting, but he was able to participate in the chat.
+- The group discussed the importance of open source licensing and community engagement for the upcoming festival.
+- They also touched on the balance between commercial and community aspects in the event, emphasizing the need for collaboration with other virtual worlds and communities.
+- Monthly live build sessions were proposed to engage the community and transfer skill sets across worlds.
+- The group agreed to create a single page summarizing the festival ideas and goals, as well as developing a sponsorship deck with participation layers for nonprofit organizations and companies.
+- Collaboration with Burning Man's BRCVR team, Athena, Doug Jacobson, and Brian Kral was discussed for potential partnerships.
+- The possibility of a cross-world parade experience using open standards like GLTF and VRM was explored.
+- An Open Metaverse YouTube playlist was created to showcase relevant videos and highlight community members.
+

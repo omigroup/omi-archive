@@ -1,0 +1,35 @@
+# Section 1: Overall Summary and Key Points
+
+The OMI group met on January 11th to discuss updates on KHR audio and other topics related to GLTF extensions. The main focus of the meeting was on updating the language in the KHR audio pull requests, ensuring that all values are within double precision. They also discussed the possibility of using Godot as the recommended engine for building and implementing OMI KHR audio.
+
+# Section 2: Action Items
+
+1. Review the PRs related to clarifying spec details in KHR audio and adding property summary tables.
+2. Update the code to not write certain values if they are the default value.
+3. Discuss with Kronos about scheduling a meeting for further discussions on OMI working group topics.
+4. Continue working on tools to combine rigs in Godot, such as the one used for merging outfits onto different models.
+5. Consider implementing a tool that locks the scaling of bones when adjusting proportions in the binding pose workflow.
+6. Attend the VR Godot meeting scheduled for 20 minutes from now.
+
+# Section 3: Timeline-Based Topics Discussion
+
+1. Updates on KHR audio pull requests and language changes.
+2. Discussion on using Godot as the recommended engine for OMI KHR audio.
+3. Review of PRs related to clarifying spec details in KHR audio and adding property summary tables.
+4. Bind pose workflow and its feasibility as a workflow.
+5. Discussion with Kronos about scheduling a meeting for further discussions on OMI working group topics.
+6. Tools for combining rigs in Godot, such as the one used for merging outfits onto different models.
+7. Consider implementing a tool that locks the scaling of bones when adjusting proportions in the binding pose workflow.
+8. Attend the VR Godot meeting scheduled for 20 minutes from now.
+
+# Section 4: Notes and Additional Information
+
+1. The OMI group is working on updating the language in the KHR audio pull requests to ensure that all values are within double precision.
+2. They discussed the possibility of using Godot as the recommended engine for building and implementing OMI KHR audio.
+3. The group reviewed PRs related to clarifying spec details in KHR audio and adding property summary tables.
+4. Bind pose workflow was discussed, with concerns about its feasibility as a workflow.
+5. Tools for combining rigs in Godot were mentioned, such as the one used for merging outfits onto different models.
+6. The group considered implementing a tool that locks the scaling of bones when adjusting proportions in the binding pose workflow.
+7. They discussed scheduling a meeting with Kronos for further discussions on OMI working group topics.
+8. The VR Godot meeting was scheduled for 20 minutes from now.
+

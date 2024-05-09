@@ -1,0 +1,36 @@
+# Section 1: Overall Summary and Key Points
+The OMI group had a productive meeting discussing various topics related to the Open Metaverse Interoperability. The main focus was on improving collaboration and communication within the group. They discussed the importance of using open source tools and plugins for their website, as well as exploring ways to attract more diverse voices to the group. Additionally, they touched upon the potential of using portals in virtual spaces for better collaboration and discussed the possibility of creating a speaker's form for community members interested in participating in events or interviews.
+
+# Section 2: Action Items Discussed
+1. Schedule a presentation on WordPress features and capabilities.
+2. Create a speaker's form for community members interested in participating in events or interviews.
+3. Continue exploring ways to attract more diverse voices to the group.
+4. Investigate using portals in virtual spaces for better collaboration.
+5. Update all readmes with the time change in the Americas.
+6. Consider scheduling a demo on WordPress features and capabilities.
+7. Look into creating an internal press list for community members interested in interviews or events.
+8. Discuss the possibility of opening up guest blog access to the website.
+9. Explore ways to improve the way they run these meetings.
+10. Encourage other group members to take a stab at moderating future calls.
+
+# Section 3: Timeline-Based Topics Outline
+1. Opening and introductions (5 minutes)
+2. MSF delegates updates (4 minutes)
+3. UX research updates (10 minutes)
+4. Scripting group updates (5 minutes)
+5. Developer hour discussion (5 minutes)
+6. GLTF extensions updates (10 minutes)
+7. Media and events updates (15 minutes)
+8. M3 Avatar group check-in (5 minutes)
+9. Website group updates (5 minutes)
+10. Closing remarks and next steps (5 minutes)
+
+# Section 4: Notes
+- Discussed the importance of using open source tools for their website.
+- Explored ways to attract more diverse voices to the group.
+- Investigated using portals in virtual spaces for better collaboration.
+- Discussed the possibility of creating a speaker's form for community members interested in participating in events or interviews.
+- Considered scheduling a demo on WordPress features and capabilities.
+- Looked into creating an internal press list for community members interested in interviews or events.
+- Discussed the possibility of opening up guest blog access to the website.
+

@@ -1,0 +1,30 @@
+# Summary
+The OMI group discussed various topics related to KHR Animation Pointer and its potential use cases in audio, scientific applications, storytelling, camera control, FOV changing, historical recreations, and customized previews. They also touched upon the possibility of connecting physics to animation and the integration of GLTF with interactivity graphs. The group discussed the idea of creating a vehicle extension that allows for more flexibility in terms of vehicle design and control schemes.
+
+# Action Items
+1. Investigate the use of KHR Animation Pointer in audio and scientific applications.
+2. Explore the possibility of connecting physics to animation.
+3. Research the integration of GLTF with interactivity graphs.
+4. Develop a vehicle extension that allows for more flexibility in terms of vehicle design and control schemes.
+5. Collaborate with other platforms to learn from their experiences with vehicles on different platforms.
+6. Consider adding support for hovercrafts in the vehicle extension.
+7. Investigate the possibility of using physics engines like Bullet Physics for vehicle simulations.
+8. Experiment with different control schemes for vehicles, such as Space Engineer-style input.
+9. Continue exploring the potential of GLTF customization previews.
+10. Discuss the integration of GLTF with trigger volumes and other physics concepts.
+
+# Topics Discussed
+1. KHR Animation Pointer use cases
+2. Audio and scientific applications
+3. Storytelling, camera control, FOV changing
+4. Historical recreations
+5. Customized previews
+6. Vehicle extension development
+7. Integration of GLTF with interactivity graphs
+8. Connecting physics to animation
+9. Collaboration with other platforms
+10. Hovercraft support in the vehicle extension
+11. Bullet Physics for vehicle simulations
+12. Experimenting with different control schemes
+13. GLTF customization previews and trigger volumes
+

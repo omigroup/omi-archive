@@ -1,0 +1,30 @@
+# Section 1: Overall Summary
+The Open Metaverse Interoperability (OMI) group held their weekly meeting, discussing various topics related to their mission of promoting open and interoperable metaverses. They discussed the potential use of Discourse for communication, the need for a new Discord server, and the importance of maintaining brand identity. The group also touched on the possibility of hosting an OMI meeting in the Metaverse and the benefits of using virtual worlds for collaboration. Additionally, they shared updates on demos, projects, and upcoming events such as CES.
+
+# Section 2: Action Items
+1. Set up a new Discord server for testing next week.
+2. Explore different options for communication platforms, including Discourse and Reddit.
+3. Continue working on the OMI website and documentation.
+4. Encourage members to share their demos and projects.
+5. Plan for an OMI meeting in the Metaverse.
+6. Attend CES and explore potential collaborations with other groups.
+7. Discuss publicity strategies and amplify member contributions on social media.
+
+# Section 3: Topic Outline
+1. Introduction to OMI and its mission (0-5 minutes)
+2. Discussion on communication platforms (5-10 minutes)
+3. Decision on a new Discord server (10-15 minutes)
+4. Exploration of virtual worlds for collaboration (15-20 minutes)
+5. Updates on demos, projects, and upcoming events (20-25 minutes)
+6. Publicity strategies and social media amplification (25-30 minutes)
+7. Closing remarks and next steps (30-35 minutes)
+
+# Section 4: Notes
+1. OMI is a collective focused on promoting open and interoperable metaverses.
+2. The group operates in a weekly fashion, with working groups meeting at different intervals.
+3. Discourse was suggested as a potential communication platform for the group.
+4. A new Discord server is being considered to improve brand identity and accessibility.
+5. Virtual worlds may be used for collaboration, but the benefits need to be explored further.
+6. Demos, projects, and upcoming events were shared during the meeting.
+7. Publicity strategies and social media amplification were discussed as a way to increase visibility and engagement.
+

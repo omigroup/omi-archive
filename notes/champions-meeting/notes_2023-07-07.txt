@@ -1,0 +1,23 @@
+# Summary
+The OMI group had a meeting to discuss and improve their documentation, focusing on creating a new welcome screen for their GitHub page. They also discussed the need to update their Open Collective account and transition from a C6 to a C3 fiscal sponsorship. The group decided to create a simpler landing page with clear instructions on how to get involved with OMI's protocols and integrations.
+
+# Action Items
+1. Update GitHub welcome screen with new design and content.
+2. Create a new Open Collective account for OMI.
+3. Transition from C6 to C3 fiscal sponsorship.
+4. Improve documentation and make it more user-friendly.
+5. Update the Open Collective account monthly receipts.
+
+# Topics Discussed
+1. Welcome screen design and content.
+2. Open Collective account update and transition.
+3. C6 to C3 fiscal sponsorship transition.
+4. Documentation improvement and user-friendliness.
+5. Monthly receipts for the Open Collective account.
+
+# Notes
+1. OMI group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more.
+2. The group aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
+3. OMI is always seeking implementers and collaborators in their working groups.
+4. The group encourages people to get involved with their community or otherwise contribute.
+

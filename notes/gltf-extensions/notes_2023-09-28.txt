@@ -1,0 +1,24 @@
+# Summary
+The meeting focused on discussing the Open Metaverse Interoperability (OMI) group's progress on the audio emitter and addressing comments in a pull request. The team discussed technical corrections, such as updating the schema to include WAV support, and agreed that adding both OGG and WAV would be beneficial for compatibility. They also discussed the upcoming OMI Demo Day, which will showcase various extensions and efforts for standardization and interoperability in the metaverse.
+
+# Action Items
+1. Update the schema to include WAV support.
+2. Add both OGG and WAV to the list of supported MIME types.
+3. Research and discuss the benefits and drawbacks of adding OGG and WAV support.
+4. Plan and prepare for the OMI Demo Day, focusing on showcasing extensions and efforts for standardization and interoperability in the metaverse.
+5. Explore alternative methods for hosting meetings with less friction, such as using a URL instead of Discord.
+6. Create a presentation for the OMI Demo Day, highlighting various extensions and efforts for standardization and interoperability in the metaverse.
+7. Prepare an animated example showcasing audio interoperability in the metaverse.
+8. Commit to creating at least a small booth or presentation for the OMI Demo Day if unable to attend in person.
+
+# Topic Timeline
+1. Discussion on the progress of the audio emitter and addressing comments in a pull request.
+2. Technical corrections, such as updating the schema to include WAV support.
+3. Adding both OGG and WAV to the list of supported MIME types.
+4. Research and discussion on the benefits and drawbacks of adding OGG and WAV support.
+5. Planning for the upcoming OMI Demo Day, focusing on showcasing extensions and efforts for standardization and interoperability in the metaverse.
+6. Exploring alternative methods for hosting meetings with less friction.
+7. Creating a presentation for the OMI Demo Day.
+8. Preparing an animated example showcasing audio interoperability in the metaverse.
+9. Commitment to creating at least a small booth or presentation for the OMI Demo Day if unable to attend in person.
+

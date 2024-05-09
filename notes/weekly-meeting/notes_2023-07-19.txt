@@ -1,0 +1,34 @@
+# Section 1: Overall Summary
+Open Metaverse Interoperability (OMI) group meeting summary. The main topics discussed were the Open Collective, MSF POG status, payments, GitHub Copilot licenses, grants for interoperability research, raising awareness about OMI, potential collaborations with other groups, and ideas for future events and conferences.
+
+# Section 2: Action Items
+1. Follow up with Open Collective regarding the conversion to a 501c3 provisional sponsor.
+2. Coordinate with FHIR to ensure payments are made annually for tools.
+3. Organize hackathons, open demos, and other events to raise awareness about OMI.
+4. Collaborate with other groups such as XR Women, AWE, Hyper-Fi, and others to align forces and build momentum.
+5. Plan a large event in October 2024 that combines virtual and physical components, focusing on digital citizenship and public spheres.
+6. Encourage members to create videos showcasing their work using OMI protocols.
+7. Implement OMI protocols within personal projects and platforms to demonstrate the benefits of interoperability.
+8. Continue experimenting with different tools and APIs for building assets in virtual worlds.
+9. Create a page on the website outlining the upcoming events, including the large event in October 2024.
+
+# Section 3: Timeline of Topics Discussed
+1. Open Collective conversion to a 501c3 provisional sponsor
+2. MSF POG status approval
+3. Payments for tools and services
+4. GitHub Copilot licenses
+5. Grants for interoperability research
+6. Raising awareness about OMI through events and collaborations
+7. Planning a large event in October 2024
+8. Encouraging members to create videos showcasing their work using OMI protocols
+9. Implementing OMI protocols within personal projects and platforms
+10. Experimenting with different tools and APIs for building assets in virtual worlds
+
+# Section 4: Notes
+- Discussed the possibility of organizing a hackathon or open demo day showcase to raise awareness about OMI.
+- Considered associating events with larger conferences to build momentum and reach wider audiences.
+- Idea for a large event in October 2024, focusing on digital citizenship and public spheres, with both virtual and physical components.
+- Encouraged members to create videos showcasing their work using OMI protocols.
+- Discussed the importance of implementing OMI protocols within personal projects and platforms to demonstrate the benefits of interoperability.
+- Emphasized the need for experimentation with different tools and APIs for building assets in virtual worlds.
+

@@ -1,0 +1,32 @@
+# Summary
+The 135th meeting of the Open Metaverse Interoperability (OMI) group focused on various topics including Twitter Spaces for outreach, Mastodon server research, casual meetups, Agile stand-up sessions, and the creation of an "Awesomeness" page to showcase members' projects. The group also discussed the need for a more formal structure and the importance of maintaining connections with other organizations in the metaverse space.
+
+# Action Items
+1. Research servers for Mastodon that could be hosted on for greater discoverability.
+2. Investigate Twitter Spaces for outreach purposes, coordinating efforts to host a general conversation together.
+3. Start an Agile stand-up session for members to share their progress and hold it before or after the OMI meeting.
+4. Create an "Awesomeness" page on the website to showcase members' projects.
+5. Clean up the Discord channel by archiving inactive channels and considering a new server setup.
+6. Migrate the current Discord server to a new one, keeping AngelXR's Discord channel separate from OMI's.
+7. Explore the possibility of creating a metaverse events calendar or improving existing ones.
+8. Continue researching other organizations in the metaverse space and maintaining connections with them.
+9. Share interesting findings and updates on personal projects within the group.
+
+# Topic Outline
+1. Twitter Spaces for outreach
+   - Coordinate efforts to host a general conversation together.
+   - Organize the conversation around OMI's focus.
+2. Mastodon server research
+   - Investigate other servers that could be hosted on for greater discoverability.
+3. Casual meetups and Agile stand-up sessions
+   - Start an Agile stand-up session for members to share their progress.
+4. "Awesomeness" page creation
+   - Showcase members' projects on the website.
+5. Discord channel cleanup
+   - Archive inactive channels.
+   - Consider a new server setup.
+6. Migrating the current Discord server to a new one.
+7. Metaverse events calendar exploration.
+8. Continued research and connection with other organizations.
+9. Sharing interesting findings and updates on personal projects within the group.
+

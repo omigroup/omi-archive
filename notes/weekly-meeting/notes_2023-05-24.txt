@@ -1,0 +1,23 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group met to discuss various topics related to the metaverse and their ongoing work. They discussed the importance of having a diverse community working on the metaverse, including those with non-IT backgrounds. The group also talked about the upcoming board election for the Metaverse Standards Forum (MSF), and how OMI can contribute to this process.
+
+# Action Items
+1. Update the agenda for the next meeting.
+2. Share the GLTF physics standard comparison document with relevant groups and forums.
+3. Schedule an interview between Ivo and Erin.
+4. Continue working on improving interoperability in the metaverse.
+5. Encourage community members to engage with MSF's GitHub page.
+6. Prepare content for AWE, including a slide about OMI and potentially a portal crawl video.
+
+# Topic Outline
+1. Introduction of new members: IndieBio and Christian from India.
+2. Updates on the board election for MSF.
+3. Discussion on the Open Collective transition.
+4. Presentation of the GLTF physics standard comparison document by Aaron, IndieBio, and Lauren.
+5. Suggestions for improving the presentation and distribution of the document.
+6. Encouragement to engage with MSF's GitHub page.
+7. Discussion on the importance of interoperability in the metaverse.
+8. Sharing content for AWE, including a slide about OMI and potentially a portal crawl video.
+9. Scheduling an interview between Ivo and Erin.
+10. Closing remarks and encouragement to continue working together.
+

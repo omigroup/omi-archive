@@ -1,0 +1,20 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group held their 126th meeting, discussing various topics related to the metaverse and open standards. They emphasized the importance of collaboration and shared goals, while acknowledging the challenges of maintaining momentum in a rapidly evolving field. The group also discussed the need for adopters and implementers to contribute to the development of open standards.
+
+# Action Items
+1. Plan an event for this Saturday, possibly inviting Nova to present an update on his work.
+2. Create a process for cross-posting content from members' blogs, YouTube channels, and other platforms.
+3. Update the OMI website to link to the demo day and add media meetings to the Discord calendar.
+4. Establish a media work group that meets once a month to discuss and coordinate content creation efforts.
+
+# Topics Discussed
+1. Introduction of new members and reintroduction of familiar faces.
+2. Progress in the metaverse, including advancements in technology and adoption of open standards.
+3. Importance of managing expectations and celebrating small accomplishments.
+4. Role of hobbyists, tinkerers, and individuals in contributing to the development of open standards.
+5. Idea of having watch parties for events like MetaConnect and Babylon GA sessions discussing GLTF extensions.
+6. Utilizing platforms like HyperFi for hosting virtual events and movie nights.
+7. Encouraging members to share their content on OMI's media channels, such as YouTube playlists and blog posts.
+8. Simplifying the process of cross-posting content from member platforms.
+9. Establishing an FAQ section on the OMI website or GitHub for answering common questions about contributing content.
+

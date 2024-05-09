@@ -1,0 +1,26 @@
+# Summary
+The OMI GLTF working group met to discuss the development of their own spec alongside Microsoft's. The main points of discussion were the importance of open standards, the need for collaboration and feedback from different engines, and the challenges of implementing interoperable formats. They also discussed strategies for moving faster in working groups and ensuring progress.
+
+# Action Items
+1. Continue working on the audio specification.
+2. Open an issue to discuss the naming convention for KHR physics extensions.
+3. Attend Kronos meetings to influence decisions.
+4. Implement a testing technique similar to UFBX's verification procedure for GLTF files.
+5. Plan to have a great September for progress in the group.
+
+# Topics Discussed
+1. Importance of open standards and interoperability.
+2. Collaboration between different engines and the need for feedback.
+3. Challenges of implementing interoperable formats.
+4. Strategies for moving faster in working groups and ensuring progress.
+5. Implementing a testing technique similar to UFBX's verification procedure for GLTF files.
+6. Planning for great September progress in the group.
+
+# Notes
+1. Discussion about triggers and their implementation in different engines.
+2. IndieBio's comment on Unity packages as a specific example of assets being sucked into proprietary formats.
+3. The need to document historical reasoning behind decisions made in the past.
+4. Implementing guns in GLTF files using audio emitters.
+5. KHR Audio extension naming convention and its inconsistencies with other extensions.
+6. Discussion about static bodies in physics and their implementation in different engines.
+

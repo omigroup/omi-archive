@@ -1,0 +1,31 @@
+# Section 1: Overall Summary
+The OMI group held their weekly meeting to discuss updates and contribution opportunities for current projects and goals. The main topics discussed were the possibility of adding a second meeting in a different time zone to accommodate members from other regions, working group check-ins, media strategy, website organization, and Discord channel separation. The group also shared ideas on visualizing their knowledge using Obsidian and a 3D data storytelling tool.
+
+# Section 2: Action Items
+1. Test out the idea of adding a second meeting in a different time zone to accommodate members from other regions.
+2. Work on revamping the website and improving its organization.
+3. Determine the minimum bar of organization needed before pushing for membership.
+4. Start publishing tech magazine articles and reposting content from group members on social media channels.
+5. Create accounts on various social media platforms to increase visibility and reach.
+6. Continue discussing ideas on visualizing their knowledge using Obsidian and a 3D data storytelling tool.
+7. Improve the website's learning pages and introduce introductory pages for different working groups.
+8. Separate the Discord channels between OMI and AngelXR to avoid confusion and dilution of the brand.
+9. Start sharing content on social media channels by posting it in the OMI-media channel.
+10. Encourage members to provide feedback and suggestions through GitHub or other communication channels.
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and purpose of the meeting.
+2. Testing out a new day for the meeting (Monday).
+3. Possibility of adding a second meeting in a different time zone.
+4. Working group check-ins.
+5. Media strategy and website organization.
+6. Discussion on visualizing their knowledge using Obsidian and a 3D data storytelling tool.
+7. Sharing ideas and experiences from the group.
+8. Closing remarks and next steps.
+
+# Section 4: Notes
+- The group is focused on building the metaverse, bridging between virtual worlds and real worlds, and promoting protocols for identity, sociographs, inventory, etc.
+- Members include businesses, startups, individuals, and tinkerers working towards a common goal.
+- The meeting serves as a platform for people to discuss updates and contribution opportunities for current projects and goals.
+- The group is open to new members and encourages participation from all interested parties.
+

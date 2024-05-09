@@ -1,0 +1,33 @@
+# Summary
+The OMI group meeting focused on updating the Open Metaverse Interoperability (OMI) audio specification and addressing inconsistencies in the documentation. The team discussed the use of Blender for audio implementation, bundling audio with GLTF exports, and the need for a global emitter property on nodes. They also touched upon the differences between 2D and 3D audio, as well as the potential addition of an animation specification to support audio behavior animations. The meeting concluded with action items for Aaron to create a Blender plugin using sound strips and update the OMI audio PR in the glTF repo.
+
+# Action Items
+1. Create a Blender plugin using sound strips to bundle arbitrary sound files with GLTF exports.
+2. Update the OMI audio PR in the glTF repo.
+
+# Topic Outline
+- Blender for audio implementation
+  - Sound Strips feature in Blender
+  - Link to documentation and source information
+- Bundling audio with GLTF exports
+  - Existing implementation by HumbleTim
+  - Action step: Bundle audio with exported GLTF in Blender
+- Global emitter property on nodes
+  - Allowing global emitters on nodes
+  - Differences between positional and global emitters
+  - Use cases for non-HRTF positional sources
+- 2D vs. 3D audio
+  - Definition of 0D audio
+  - Background music use case
+- Animation specification for GLTF
+  - Potential addition to support audio behavior animations
+  - Need for a global emitter property on nodes
+
+# Notes
+- Discussion on the use of Blender for audio implementation in OMI
+- Updating the OMI audio PR in the glTF repo
+- Addressing inconsistencies in the documentation
+- Potential addition of an animation specification to support audio behavior animations
+- Need for a global emitter property on nodes
+- Differences between positional and global emitters
+

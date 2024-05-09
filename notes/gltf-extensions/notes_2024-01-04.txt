@@ -1,0 +1,31 @@
+# Summary
+The OMI group meeting discussed improvements to the KHR audio specification, focusing on clarifying cone angle properties and default values for various parameters. The group agreed on making changes to the specification and creating a PR against the existing Kronos repo. They also decided to propose a rename of "KHR Audio" to "KHR Audio Emitter" in a separate PR.
+
+# Action Items
+1. Create a PR with the proposed changes to the KHR audio specification.
+2. Propose a rename of "KHR Audio" to "KHR Audio Emitter" in a separate PR.
+3. Continue discussions on the naming front and submit the PRs accordingly.
+4. Ensure compatibility between existing implementations and the proposed changes.
+
+# Timeline Outline
+1. Discussion on cone angle properties (0:00 - 25:00)
+   - Clarification of inner and outer angles
+   - Improving notation for better understanding
+   - Default values for gain, loop, ref distance, and cone angle
+2. Review of existing implementations and potential issues (25:00 - 37:00)
+   - Precision loss in GLTF JSON properties
+   - Compatibility with Godot and Blender
+3. Proposal to rename "KHR Audio" to "KHR Audio Emitter" (37:00 - 42:00)
+   - Separate PR for the rename
+   - Discussion on naming front
+4. Finalizing PRs and submitting them to Kronos repo (42:00 - 51:00)
+   - Merging changes in the OMI extensions repo
+   - Ensuring compatibility with existing implementations
+
+# Notes
+- Precision loss in GLTF JSON properties due to floating point precision issues.
+- Compatibility concerns with Godot and Blender implementations.
+- Proposal to rename "KHR Audio" to "KHR Audio Emitter".
+- Separate PR for the rename, with discussion on naming front.
+- Finalizing PRs and submitting them to Kronos repo.
+

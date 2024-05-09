@@ -1,0 +1,33 @@
+**Section 1: Overall Summary and Key Points**
+
+* The meeting focused on the Open Metaverse Interoperability (OMI) group's progress, challenges, and future plans.
+* Discussions included audio recordings, file storage, XMP handling in Godot, and the development of KHR physics implementation.
+* The team is working on improving the OMI archive system to ensure accessibility and stability.
+* They are also exploring the integration of OMI with other tools like Blender and Qt.
+* The meeting concluded with a discussion about vehicle systems and the potential for legged vehicles in OMI.
+
+**Section 2: Action Items**
+
+1. Update the OMI archive system to ensure accessibility and stability.
+2. Work on the KHR physics implementation, focusing on adding filtering and completing the code.
+3. Continue researching and developing vehicle systems within OMI, including legged vehicles.
+4. Explore the integration of OMI with other tools like Blender and Qt.
+5. Address any issues or bugs related to the kiddos' support of physics in OMI.
+6. Investigate the use of joints for vehicle systems in OMI.
+7. Update the team on progress made before the next meeting.
+
+**Section 3: Timeline-Based Topics Discussion**
+
+1. Audio recordings and storage: Discussed the challenges of storing audio files, including file size limitations and accessibility issues. Decided to keep MP3 as the primary format for now, with potential extensions for other formats like OGG and Wave.
+2. XMP handling in Godot: Discussed the implementation of XMP handling within Godot, focusing on user-friendly tools and compatibility with different rendering pipelines.
+3. KHR physics implementation: Discussed the progress made on implementing KHR physics, including the need for filtering and completing the code.
+4. Vehicle systems in OMI: Explored the development of vehicle systems within OMI, focusing on general-purpose vehicles and potential extensions for legged vehicles.
+5. Integration with other tools: Discussed the potential integration of OMI with other tools like Blender and Qt.
+6. Updates and progress: Encouraged team members to update each other on their progress before the next meeting.
+
+**Section 4: Notes**
+
+* The team is working on improving the OMI archive system to ensure accessibility and stability.
+* They are also exploring the integration of OMI with other tools like Blender and Qt.
+* The meeting concluded with a discussion about vehicle systems and the potential for legged vehicles in OMI.
+

@@ -1,0 +1,32 @@
+# Section 1: Overall Summary
+The meeting discusses the need to clean up the OMI group's backlog, as well as various topics related to project management and organization. The main focus is on improving the consistency and usability of their GitHub repositories and projects board for newcomers. They also touch upon the importance of following processes and the challenges of coordinating a distributed team.
+
+# Section 2: Action Items
+1. Clean up dead tickets in the backlog to make room for newcomers' contributions.
+2. Create meeting notes for future reference.
+3. Explore using milestones for better organization within subgroups.
+4. Investigate WordPress capabilities and present them to the team.
+5. Discuss and decide on a consistent time for meetings, taking into account both American Pacific and European time zones.
+6. Continue working on tasks related to project management and organization.
+7. Audit existing bots for security purposes.
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and purpose of the meeting.
+2. Burning the Backlog concept and its benefits.
+3. Challenges with current backlog system and processes.
+4. Importance of following processes and the impact of not doing so.
+5. Updating GitHub repositories and projects board for better consistency and usability.
+6. Exploring the use of milestones within subgroups.
+7. Investigating WordPress capabilities and their potential benefits.
+8. Discussing a consistent time for meetings, considering both American Pacific and European time zones.
+9. Continuing work on tasks related to project management and organization.
+10. Auditing existing bots for security purposes.
+
+# Section 4: Notes
+- Sindhu's different interpretation of the onboarding experience.
+- Possible MSF affiliation to website.
+- Discussion about the UX research group and its role within OMI.
+- Exploring the formation of a streaming team.
+- Addressing the issue of Survivor's Bias in decision-making processes.
+- Closing dead tickets in the backlog for newcomers to contribute.
+

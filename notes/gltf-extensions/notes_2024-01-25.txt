@@ -1,0 +1,19 @@
+## Summary
+The OMI group met to discuss the GLTF extensions and their progress on the physics specification. The main topics of discussion were compound triggers, kinematic Boolean, and joints. They agreed that more opinions are needed to reach a consensus on these issues. The meeting also covered the importance of having an agenda for future meetings and inviting relevant stakeholders to participate in discussions.
+
+## Action Items
+1. Invite Alexei Medvedev (Kronos GOTF lead) and Alexei Knyazev (interactivity lead) to the next meeting.
+2. Create a definitive list of last issues to resolve before the end of the meeting.
+3. Share the Jitsi link for the Godot VR meetup in the GLTF extensions room.
+4. Prepare an agenda for future meetings to reduce friction and ensure everyone is on the same page.
+5. Continue working on the physics specification and discuss any updates or feedback during the next meeting.
+
+## Topic Outline
+1. Compound triggers: Discuss the advantages of allowing a compound trigger in the GLTF extensions.
+2. Kinematic Boolean: Address concerns about the kinematic Boolean and its impact on interactivity.
+3. Joints: Evaluate the scope of joints in the physics specification and consider potential organizational changes.
+4. Audio Editor: Discuss the proposed rename for the KHR Audio Editor extension.
+5. Meeting Agenda: Create a definitive agenda for future meetings to streamline discussions and ensure everyone is prepared.
+6. Stakeholder Involvement: Invite relevant stakeholders, such as Alexei Medvedev and Alexei Knyazev, to participate in discussions.
+7. Godot VR Meetup: Share the Jitsi link for the upcoming Godot VR meetup in the GLTF extensions room.
+

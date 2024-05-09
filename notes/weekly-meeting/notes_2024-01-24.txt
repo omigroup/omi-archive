@@ -1,0 +1,37 @@
+## Meeting Summary
+- OMI group meeting
+- Discussion on interoperability in the Open Metaverse
+
+### Key Points
+1. Importance of interoperability for the Open Metaverse
+2. Updates on ongoing projects and initiatives
+3. Collaboration with other metaverse groups
+4. Addressing challenges and potential solutions
+5. Next steps and action items
+
+### Action Items
+- Continue working on interoperability protocols
+- Schedule a follow-up meeting to discuss progress
+- Reach out to other metaverse groups for collaboration
+
+### Topic Outline
+1. Introduction (5 mins)
+   - Welcome and introductions
+   - Overview of OMI group goals and objectives
+2. Interoperability in the Open Metaverse (30 mins)
+   - Importance of interoperability for the Open Metaverse
+   - Challenges faced by developers and users
+   - Potential solutions and best practices
+3. Ongoing Projects and Initiatives (45 mins)
+   - Updates on current projects and initiatives
+   - Discussion on progress and challenges
+   - Collaboration with other metaverse groups
+4. Addressing Challenges and Solutions (60 mins)
+   - Identifying key challenges in interoperability
+   - Brainstorming potential solutions and best practices
+   - Discussing the impact of these solutions on the Open Metaverse
+5. Next Steps and Action Items (15 mins)
+   - Recap of key points from the meeting
+   - Assigning action items to group members
+   - Scheduling a follow-up meeting to discuss progress
+

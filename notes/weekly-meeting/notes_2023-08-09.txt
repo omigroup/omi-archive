@@ -1,0 +1,28 @@
+# OMI Meeting Summary
+The Open Metaverse Interoperability (OMI) group held its 119th consecutive weekly meeting. The main topics discussed were the metaverse festival, the election process for new chairs, merging the W3C page with Discord, and using Fireflies to transcribe meetings.
+
+## Action Items
+- Plan a metaverse festival with mobile parades and OMI protocols integration
+- Hold a call for nominations for new chairs
+- Merge the W3C page with Discord to create a unified entry point for OMI
+- Use Fireflies to transcribe meetings, generate blog posts, and streamline content creation efforts
+
+## Meeting Outline
+1. Introduction of new members and their backgrounds in the metaverse space
+2. Action items for the week: planning the metaverse festival, discussing the election process, merging the W3C page with Discord, and using Fireflies to transcribe meetings
+3. Discussion on the metaverse festival concept and integration of OMI protocols
+4. Updates on the Open Collective process and the need for a new fiscal sponsor
+5. Call for nominations for new chairs and discussion on the election process
+6. Merging the W3C page with Discord to create a unified entry point for OMI
+7. Presentation of Fireflies as an AI meeting note tool and its potential benefits for OMI
+8. Vote on purchasing a Fireflies Pro subscription for OMI
+9. Discussion on using Magic API in OMI personality and building a new OMI bot
+10. Festival planning, including vehicle design and GLTF physics integration
+
+## Notes
+- The metaverse festival will feature mobile parades and integrate OMI protocols
+- A call for nominations for new chairs has been initiated
+- Fireflies can be used to transcribe meetings, generate blog posts, and streamline content creation efforts
+- Magic API can be integrated into OMI personality and used for building a new OMI bot
+- Vehicle design and GLTF physics integration will be discussed in the next meeting
+

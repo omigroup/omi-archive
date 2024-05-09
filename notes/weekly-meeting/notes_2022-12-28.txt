@@ -1,0 +1,25 @@
+# Summary
+The OMI group held their weekly meeting discussing various updates and demos. The main topics included the Metaverse Standards Forum (MSF) delegates update, working group updates, and demos. They also discussed the upcoming Open Metaverse conference and encouraged community members to contribute content for it. The team showcased a WebXR golf game demo and an early version of a social space using stable diffusion in a WebXR room.
+
+# Action Items
+1. Participate in the OMI working groups and provide updates on progress.
+2. Share announcements and demos with the community through various channels, including social media and blog posts.
+3. Collaborate on content creation for the Open Metaverse conference.
+4. Continue exploring options for building interoperable virtual worlds.
+5. Support the OMI community by providing resources and guidance.
+6. Attend the upcoming Open Metaverse conference in person or virtually.
+7. Follow up with Liam about the open source project around GLTF extensions and the GLT short code space.
+8. Participate in the Protab Events channel for event-related discussions.
+9. Share ideas for building together within the OMI community.
+10. Help with the development of WebXR on Linux platforms.
+
+# Timeline of Topics Discussed
+1. Metaverse Standards Forum (MSF) delegates update
+2. Working group updates: UX research, scripting, OMI developer hour, GLTF extensions, media group, M3 Avatar Interop group, website group, OMC
+3. Open Metaverse conference updates and ticket prices
+4. Booth at the physical part of the Open Metaverse conference in LA
+5. Demos: WebXR golf game, Simulacra social space using stable diffusion in a WebXR room
+6. Collaboration on content creation for the Open Metaverse conference
+7. Exploring options for building interoperable virtual worlds
+8. Supporting the OMI community and providing resources
+

@@ -1,0 +1,30 @@
+# Open Metaverse Interoperability Group Meeting Summary
+## Overall Summary
+The 137th meeting of the Open Metaverse Interoperability (OMI) group took place on December 13, 2023. The group discussed various topics such as the last meeting for the year, moving to a new Discord server, setting up a Matrix server, creating an "awesomeness" page to showcase members' work, and organizing their communities within W3C guidelines.
+
+## Action Items
+1. Move to a new Discord server over a period of time (month or more).
+2. Set up a Matrix server to bridge with Discord.
+3. Create an "awesomeness" page showcasing members' work.
+4. Clean up the current Discord server and improve its interface.
+5. Organize their communities within W3C guidelines.
+
+## Topic Outline
+1. Last meeting for the year (December 27, 2023) and resuming on January 3, 2024.
+2. Moving to a new Discord server:
+   - Clean up and improve interface.
+   - Facilitate people to find the new server.
+3. Setting up a Matrix server:
+   - Bridge with Discord for wider audience participation.
+   - Decision made in addition to Discord.
+4. Creating an "awesomeness" page:
+   - Showcase members' work.
+   - Encourage representation from all members.
+5. Organizing communities within W3C guidelines:
+   - No specific guidelines provided by W3C.
+
+## Notes
+- Discord is essential for accessibility and avoiding esoteric meetings.
+- Confusion with the current Discord server's logo and name.
+- Cleanup and maintenance needed for a smoother experience.
+

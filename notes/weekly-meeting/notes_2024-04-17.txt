@@ -1,0 +1,31 @@
+# Open Metaverse Interoperability Group Meeting Summary
+
+The Open Metaverse Interoperability (OMI) group met to discuss various topics related to their work. Here are the key points from the meeting:
+
+- The group discussed the progress made on OMI Physics Gravity, which allows users to specify custom gravity directions and shapes inside of their GLTF scenes. They also talked about the possibility of creating a demo for it.
+- Jimmy shared his idea for a simple lightning talk sign-up form to collect information about people who would like to be interviewed or share their knowledge with the group. The form includes fields for email, web link, area of knowledge, and suggestions for other participants.
+- The group discussed the possibility of hosting a more organic and indie-focused version of the Building the Open Metaverse podcast, similar to Ted Talks or Petra Kutscher talks. They also considered the idea of organizing a hackathon to practice through these questions and improve their skills.
+- Aaron shared his progress on developing tooling for generating transcripts from audio recordings and using language models to create blog posts. He mentioned that he is working on making it compatible with WordPress.
+- The group discussed the possibility of aligning with the wearables group at MSF by sharing ideas and collaborating on projects.
+
+## Action Items:
+
+1. Create a demo for OMI Physics Gravity.
+2. Finalize the lightning talk sign-up form and gather feedback from the group.
+3. Explore options for hosting an organic and indie-focused version of the Building the Open Metaverse podcast.
+4. Organize a hackathon to practice through questions related to their work.
+5. Collaborate with the wearables group at MSF on aligning ideas and projects.
+
+## Timeline Outline:
+
+1. OMI Physics Gravity demo discussion
+2. Lightning talk sign-up form feedback and finalization
+3. Organic and indie-focused podcast idea exploration
+4. Hackathon planning for skill improvement
+5. Collaboration with wearables group at MSF
+
+## Notes:
+
+- The group celebrated their third anniversary on the W3C page.
+- Aaron is working on developing tooling for generating transcripts and blog posts from audio recordings.
+

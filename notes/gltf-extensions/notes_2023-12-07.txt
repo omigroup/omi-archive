@@ -1,0 +1,36 @@
+# Section 1: Overall Summary and Key Points
+
+The meeting discussed three issues related to the physics extension in GLTF. The first issue was about static body representation, which is related to the Owen physics spec's kinematic Boolean. The second issue was about trigger object grouping, and the third issue was about tapered capsules and cones. The main concerns were data loss when exporting and importing scenes with static bodies, the need for explicit flags for triggers in some engines, and the potential complexity of implementing certain shapes as convex hulls.
+
+# Section 2: Action Items
+
+1. Investigate the impact of having a static body type on performance and data loss when exporting and importing scenes.
+2. Explore alternative solutions for representing trigger objects in GLTF, such as using explicit flags or grouping collision shapes.
+3. Evaluate the feasibility of implementing tapered capsules and cones as convex hulls in GLTF.
+4. Consider the potential benefits and drawbacks of adding these features to the GLTF specification.
+5. Discuss with other interested parties at Kronos about their opinions on these issues.
+6. Prepare a response for the discussion points raised during the meeting.
+7. Address any concerns or issues related to the new version of Blender and its impact on workflows.
+8. Explore potential solutions for showing bone orientations in GLTF files, such as using axes or modifying existing features.
+9. Investigate how to add all the bots that were done during the meeting.
+
+# Section 3: Timeline of Topics Discussed
+
+1. Introduction and overview of the meeting's topics.
+2. Static body representation and its impact on performance and data loss.
+3. Trigger object grouping and its implications for scripting engines.
+4. Tapered capsules and cones as GLTF features and their potential complexity.
+5. Discussion about the new version of Blender and its impact on workflows.
+6. Addressing concerns related to bone export in GLTF files.
+7. Exploring solutions for showing bone orientations in GLTF files.
+8. Investigating how to add all the bots that were done during the meeting.
+9. Closing remarks and next steps.
+
+# Section 4: Notes
+
+1. The static body representation issue is related to the Owen physics spec's kinematic Boolean.
+2. Trigger object grouping is a feature in some engines, but not all.
+3. Tapered capsules and cones are less common features that can be emulated as convex hulls.
+4. The new version of Blender has added icospheres to represent bones, which have been buggy and difficult to see.
+5. Bone export in GLTF files has changed in recent versions of Blender, with spheres now being rendered by default.
+

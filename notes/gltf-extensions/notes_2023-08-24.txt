@@ -1,0 +1,22 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group meeting discussed various topics related to VR, avatars, and interoperability between different platforms. Key points included:
+- Discussion on using Simply Gone plugin for optimizing LODs in Unity and Godot.
+- Comparison of Blender with other tools like O3DE and Roblox Studio.
+- Exploration of the potential use of USD in the metaverse, specifically in relation to character interoperability.
+- Discussion on creating an AI Omi-chan to assist with documentation and collaboration efforts.
+- Review of action items and progress made since previous meetings.
+
+# Action Items
+1. Sync up KHR audio with the Kronos PR.
+2. Add examples for GLTF extensions.
+3. Explore the possibilities for incorporating live data into documents.
+4. Create a booth for the OMI group at an upcoming event.
+
+# Topic Outline
+1. Simply Gone plugin and LOD optimization in Unity and Godot.
+2. Comparison of Blender with other tools like O3DE and Roblox Studio.
+3. Exploration of the potential use of USD in the metaverse, specifically in relation to character interoperability.
+4. Discussion on creating an AI Omi-chan to assist with documentation and collaboration efforts.
+5. Review of action items and progress made since previous meetings.
+6. Creating a booth for the OMI group at an upcoming event.
+

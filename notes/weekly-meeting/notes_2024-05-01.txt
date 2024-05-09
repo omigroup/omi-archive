@@ -1,0 +1,39 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group held their meeting discussing various topics related to metaverse interoperability and open protocols. They discussed the possibility of collaborating with other organizations, such as MSF and an open metaverse research group. The team also talked about ongoing conversations, working group check-ins, and demos. They mentioned the importance of gamifying their work and creating a bounty board to incentivize integration. Additionally, they discussed the need for better organization and management of their resources, including raw meeting recordings.
+
+# Action Items
+1. Reach out to Mike Lowry from the open metaverse research group (OMRG) to explore collaboration opportunities.
+2. Plan a hackathon to practice end-to-end production and editing of content.
+3. Schedule a date for a small, intimate group meeting in VR or Discord.
+4. Write three GitHub discussions to explore potential collaborative learning using the virtual museum.
+5. Create a bounty board to incentivize integration of OMI extensions.
+6. Improve organization and management of raw meeting recordings.
+7. Prepare for lightning talks by transcribing recorded meetings or interviews into textual format.
+8. Plan a date for the Virtual Worlds Museum hackathon.
+9. Collaborate with Gary to help build hubs for the museum.
+10. Create an exhibit of discontinued virtual platforms, such as alt spaces and Mozilla hubs.
+
+# Timeline Outline
+1. Introduction and overview of OMI
+2. Discussion on collaboration opportunities with MSF and OMRG
+3. Working group check-ins: media, GLTF extensions, MSF working group
+4. Demos and ongoing conversations
+5. Lightning talk prep hackathon planning
+6. Virtual Worlds Museum update
+7. Closing comments and next steps
+
+# Notes
+- Discussed the possibility of collaborating with other organizations like MSF and OMRG
+- Talked about ongoing conversations, working group check-ins, and demos
+- Emphasized the importance of gamifying their work and creating a bounty board to incentivize integration
+- Discussed the need for better organization and management of raw meeting recordings
+- Planned a hackathon to practice end-to-end production and editing of content
+- Scheduled a date for a small, intimate group meeting in VR or Discord
+- Wrote three GitHub discussions to explore potential collaborative learning using the virtual museum
+- Created a bounty board to incentivize integration of OMI extensions
+- Improved organization and management of raw meeting recordings
+- Prepared for lightning talks by transcribing recorded meetings or interviews into textual format
+- Planned a date for the Virtual Worlds Museum hackathon
+- Collaborated with Gary to help build hubs for the museum
+- Created an exhibit of discontinued virtual platforms, such as alt spaces and Mozilla hubs
+

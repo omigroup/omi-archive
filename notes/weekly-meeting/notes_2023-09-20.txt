@@ -1,0 +1,21 @@
+# Summary
+The Open Metaverse Interoperability (OMI) group held their meeting number 125, where they discussed various topics related to the metaverse and interoperability. They talked about the upcoming MetaTroversal portal crawl, encouraging members to get involved or support it. The group also touched on ways to make more connections with potential implementers and emphasized the importance of having implementers for their protocols to advance.
+
+# Action Items
+1. Encourage people to attend the upcoming MetaTroversal portal crawl.
+2. Create a coherent paragraph about OMI's goals and why people should get involved.
+3. Identify five speakers for the Demo Day on September 30th, focusing on interoperable physics.
+4. Organize a campfire chat after the Demo Day for further discussion.
+5. Set up a virtual world with a campfire to serve as a home for future discussions related to interoperable physics.
+6. Explore using HyperFi and Hubs for their meetings and events.
+
+# Topics Discussed
+1. MetaTroversal portal crawl
+2. Encouraging implementers
+3. Working group updates (GLTF, OMI Media Group)
+4. Festival name and date (Omifest on September 30th, 2023)
+5. Mini events for the festival
+6. Demo Day planning (interoperable physics focus)
+7. Campfire chat after the Demo Day
+8. Virtual world setup with a campfire for future discussions
+

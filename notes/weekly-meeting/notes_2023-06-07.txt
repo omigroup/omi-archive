@@ -1,0 +1,28 @@
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+## Overall Summary
+The meeting focused on discussing potential grants to pursue, reacquiring responses, WebXR work on Linux, and updates on working groups. The group also discussed the possibility of partnering with other bodies for specific projects.
+
+## Action Items
+- Reapply for a response
+- Pursue potential grants
+- Collaborate with other bodies for specific projects
+
+## Topic Outline
+1. Introduction and Welcome (5 minutes)
+   - Recording started, happy Wednesday
+   - Discussing reacquiring responses and pursuing grants
+2. Grants and Partnerships (30 minutes)
+   - WebXR work on Linux
+   - Collaboration with Microsoft on physics body and colliders
+   - Updates on working groups
+3. Demos and General Conversation (15 minutes)
+   - Discussion on the OMI account's tweet
+4. Closing Remarks (5 minutes)
+   - Recap of key points discussed
+
+## Notes
+- Dr. Mark Oshmore organizing a private workshop for generative media making in the UK
+- Future Artists and Immersive Artists group involvement with the speaker
+- Possibility of a physical event in the future
+- GLTF group's diligent work on finding common ground for potentially competing standards with Microsoft
+

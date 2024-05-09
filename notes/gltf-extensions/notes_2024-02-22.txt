@@ -1,0 +1,17 @@
+## Summary
+The OMI group discussed integrating concepts like seats and spawn points into Bevy, a game engine. They considered creating a separate crate for these features or including them in the base crate. The group also discussed the possibility of having an "OMI miscreants" crate for small features that don't fit other broad categories.
+
+## Action Items
+- Create a third party crate for spawn point and seat concepts
+- Consider creating an "OMI miscreants" crate for small, non-categorized features
+
+## Topics Discussed
+1. Integrating seats and spawn points into Bevy
+2. Creating a separate crate or including them in the base crate
+3. Providing helper functions within the library
+
+## Notes
+- Spawn points can be easily integrated by creating a component for them and adding it to the scene
+- Seats can also be integrated similarly, with a component for each seat
+- Multiple implementations of these features can be supported through third-party libraries
+

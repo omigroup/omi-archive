@@ -1,0 +1,31 @@
+# Summary
+The 129th meeting of the Open Metaverse Interoperability (OMI) group focused on discussing various topics, including updates from M3 and Magic, a pervasive game project proposal, and election processes for OMI chairs. Key points discussed include:
+- Updates from M3, such as their open source character studio and ongoing projects.
+- The introduction of Magic, an AI development environment that allows users to create task and coordination agents.
+- A proposal for a pervasive game project focused on urban interventions and rewarding curiosity.
+- Discussion on the election process for OMI chairs, including nominations, voting, and eligibility requirements.
+- The importance of merging different communities and improving communication within OMI.
+- Strategic conversations about collaborating with other organizations like OMF and the Linux Foundation.
+- The need to update public-facing content and improve engagement with members.
+- The possibility of changing meeting cadence or abolishing working groups entirely through a vote.
+- The importance of fluidity in OMI processes and encouraging suggestions for improvement.
+
+# Action Items
+1. Create an event for nominations on the Discord server, ending one week before the election date.
+2. Update public-facing content to reflect changes in OMI leadership.
+3. Merge different communities within OMI to improve engagement and communication.
+4. Hold strategic conversations with other organizations like OMF and the Linux Foundation.
+5. Design a flyer for the upcoming OMI event on October 30th.
+
+# Timeline of Topics Discussed
+1. Updates from M3
+2. Introduction to Magic
+3. Proposal for pervasive game project
+4. Election process for OMI chairs
+5. Merging different communities within OMI
+6. Strategic conversations with other organizations
+7. Updating public-facing content and improving engagement
+8. Changing meeting cadence or abolishing working groups through a vote
+9. Encouraging suggestions for improvement in OMI processes
+10. Designing a flyer for the upcoming OMI event on October 30th
+

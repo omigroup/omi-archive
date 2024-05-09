@@ -1,0 +1,18 @@
+## Summary
+The OMI group meeting focused on discussing a demo and a new website mock-up. The demo was created by Mr. Metaverse but needed some fixing before being shown to the group. It was suggested that they have a general catch-up while TommyCost sets up his demo. The new website mock-up, created by MTV, was also discussed, with the group agreeing that it should be voted on as a communal feedback step rather than a blocker.
+
+## Action items
+1. Fix the demo before showing it to the group.
+2. Vote on the new website mock-up as a communal feedback step.
+3. Decide whether to show the demo this week or next week.
+
+## Topics discussed
+- Demo created by Mr. Metaverse, needs fixing
+- General catch-up while TommyCost sets up his demo
+- New website mock-up created by MTV, should be voted on as a communal feedback step
+- Decision to show the demo this week or next week
+
+## Notes
+- Mr. Metaverse's demo may be broken and needs fixing before showing it to the group
+- The new website mock-up should be voted on as a communal feedback step, not as a blocker
+

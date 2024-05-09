@@ -1,0 +1,27 @@
+# Open Metaverse Interoperability (OMI) Meeting Summary
+## Introduction
+The meeting started with introductions from the attendees, discussing their backgrounds and interests in the metaverse. The group emphasized the importance of collaboration and interoperability among different platforms and technologies.
+
+## Action Items
+- Create a plan to improve communication and marketing efforts for OMI.
+- Schedule regular meetings for the media group and other subgroups.
+- Set up a process for submitting proposed protocols or specifications.
+- Encourage more people to participate in the GLTF extensions group.
+- Split the weekly meeting into two parts: one for technical discussions and another for community building and touchy-feely topics.
+
+## Topics Discussed
+1. **Scope of OMI**: The group discussed the broad scope of OMI, including standards for various aspects of the metaverse such as avatars, networking, and asset interoperability. They acknowledged the need to communicate this clearly to potential members and collaborators.
+2. **GLTF Extensions Group**: Aaron shared his experience with discussing GLTF extensions with Ash from Hyperfi. The group agreed on the importance of having a forum for people to share their concerns and suggestions about implementing these extensions.
+3. **Media Strategy**: Medical Act discussed the need for a more coordinated media strategy, including identifying social media platforms to use and scheduling regular meetings for the media group.
+4. **Demo Sharing**: IndieBio shared a demo of his project, which allows users to scan their physical spaces and create multiplayer environments in WebGL or HoloLens. The group provided feedback on potential uses and improvements for this technology.
+5. **Future Meetings**: The group agreed to schedule regular meetings for the media group and other subgroups, as well as splitting the weekly meeting into two parts: one for technical discussions and another for community building and touchy-feely topics.
+
+## Notes
+- OMI is a collaborative gathering of people who believe in an interoperable and open metaverse.
+- The group aims to create standards for various aspects of the metaverse, including avatars, networking, and asset interoperability.
+- Communication and marketing efforts need improvement to attract more members and collaborators.
+- Regular meetings should be scheduled for the media group and other subgroups.
+- A process should be set up for submitting proposed protocols or specifications.
+- The GLTF extensions group needs a forum for people to share their concerns and suggestions about implementing these extensions.
+- A more coordinated media strategy is needed, including identifying social media platforms to use and scheduling regular meetings for the media group.
+

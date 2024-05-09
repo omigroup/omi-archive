@@ -1,0 +1,45 @@
+**Section 1: Overall Summary**
+- Discussion about adding a UID extension to GLTF files to preserve node identities during import and export processes in game engines.
+- Concerns raised about the need for industry-wide adoption of such an extension, as well as potential conflicts with existing standards like KHR XMP JSON-LD.
+- Discussion on the benefits of having a UID system in place, including improved workflow efficiency and better data preservation between applications.
+- Concerns about the complexity of implementing such an extension across different game engines and DCC tools.
+- Suggestion to create an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+- Discussion on the need for more diverse voices in the group to ensure a well-rounded standard is developed.
+
+**Section 2: Action Items**
+1. Continue discussing the UID extension proposal and its potential benefits and drawbacks.
+2. Explore the possibility of creating an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+3. Reach out to industry experts in audio design for input on developing a PBR-style system for audio materials.
+4. Encourage more diverse voices and perspectives within the group to ensure a well-rounded standard is developed.
+5. Investigate the feasibility of inter-extension dependencies in Kronos for future extensions.
+6. Consider the possibility of procedurally generating audio properties based on material definitions in game engines.
+7. Explore potential collaborations with Pixar or other industry leaders to develop a standardized approach to audio materials and interactions.
+8. Continue discussing the UID extension proposal and its potential benefits and drawbacks.
+
+**Section 3: Timeline of Topics Discussed**
+1. Introduction and overview of the meeting agenda.
+2. Discussion on the need for a UID extension in GLTF files to preserve node identities during import and export processes in game engines.
+3. Concerns raised about potential conflicts with existing standards like KHR XMP JSON-LD.
+4. Benefits of having a UID system in place, including improved workflow efficiency and better data preservation between applications.
+5. Complexity of implementing such an extension across different game engines and DCC tools.
+6. Suggestion to create an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+7. Reach out to industry experts in audio design for input on developing a PBR-style system for audio materials.
+8. Encourage more diverse voices and perspectives within the group to ensure a well-rounded standard is developed.
+9. Investigate the feasibility of inter-extension dependencies in Kronos for future extensions.
+10. Consider the possibility of procedurally generating audio properties based on material definitions in game engines.
+11. Explore potential collaborations with Pixar or other industry leaders to develop a standardized approach to audio materials and interactions.
+12. Continued discussion on the UID extension proposal and its potential benefits and drawbacks.
+
+**Section 4: Notes**
+- Discussion on the need for a UID extension in GLTF files to preserve node identities during import and export processes in game engines.
+- Concerns raised about potential conflicts with existing standards like KHR XMP JSON-LD.
+- Benefits of having a UID system in place, including improved workflow efficiency and better data preservation between applications.
+- Complexity of implementing such an extension across different game engines and DCC tools.
+- Suggestion to create an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+- Reach out to industry experts in audio design for input on developing a PBR-style system for audio materials.
+- Encourage more diverse voices and perspectives within the group to ensure a well-rounded standard is developed.
+- Investigate the feasibility of inter-extension dependencies in Kronos for future extensions.
+- Consider the possibility of procedurally generating audio properties based on material definitions in game engines.
+- Explore potential collaborations with Pixar or other industry leaders to develop a standardized approach to audio materials and interactions.
+- Continued discussion on the UID extension proposal and its potential benefits and drawbacks.
+

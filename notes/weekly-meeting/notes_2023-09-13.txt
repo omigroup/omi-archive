@@ -1,0 +1,16 @@
+## Summary
+The Open Metaverse Interoperability (OMI) group discussed the importance of interoperability in the 3D web and the need for virtual conferences during COVID-19. They mentioned that the 3D web consortium has been around for 25 years but never had a virtual conference until forced to do so during the pandemic.
+
+## Action Items
+- Supplement meeting notes with recording or screenshots
+- Explore options for future virtual conferences
+
+## Topics Discussed
+1. Importance of interoperability in the 3D web
+2. The 3D web consortium's history and lack of virtual conferences
+3. Virtual conferences during COVID-19
+
+## Notes
+- Consider using PowerPoint for presentations
+- Explore options for future virtual conferences, including video conferencing and other formats
+

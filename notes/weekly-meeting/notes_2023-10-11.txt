@@ -1,0 +1,27 @@
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+The 128th meeting of the OMI group took place on October 11th. The group discussed various topics including working group check-ins, a monthly show and tell event, weekly game nights, collaboration with other organizations, and academic findings. They also shared interesting discoveries from the past week such as Gaussian Splatting in Unity and a hyperfi world called Mario Kart.
+
+## Action Items:
+1. Plan a strategy for sharing content on social media using the official OMI account.
+2. Collaborate with other organizations to strengthen collaboration efforts.
+3. Reach out to potential partners for sponsoring hackathons.
+4. Share interesting discoveries and findings from the past week in the next meeting.
+
+## Topic Outline:
+1. Working Group Check-Ins
+   - GLTF group progress
+   - Media group updates
+2. Monthly Show and Tell Event
+   - Keyframe's crowdfunded launch on October 30th
+   - Virtual venue for the event
+3. Weekly Game Nights
+   - Discussion of a weekly get-together in the virtual world
+4. Collaboration with Other Organizations
+   - Strengthening collaboration efforts with Linux Foundation and OpenMetaverse Foundation
+5. Academic Findings
+   - Research groups working on urban transformation and recycling
+   - Extended reality engagement for 15-minute cities
+6. Interesting Discoveries from the Past Week
+   - Gaussian Splatting in Unity
+   - Hyperfi world called Mario Kart
+

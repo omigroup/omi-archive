@@ -1,0 +1,10 @@
+# OMI Group Meeting Summary
+## Overall Summary
+The OMI group discussed the progress on interoperability standards, updates on the latest developments in metaverse platforms, and potential collaborations with other organizations. They also identified action items for future meetings.
+
+## Action Items
+1. Conduct a survey to gather feedback from developers on current interoperability standards.
+2. Reach out to other industry groups to explore potential partnerships.
+3. Schedule a meeting with the Metaverse Standards Forum (MSF) to discuss collaboration opportunities.
+4. Create a roadmap for future OMI
+

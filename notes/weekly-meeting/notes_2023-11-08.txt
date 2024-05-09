@@ -1,0 +1,31 @@
+# Section 1: Overall Summary and Key Points
+- Open Metaverse Interoperability (OMI) group meeting on November 8th
+- Focused on bridging virtual worlds through protocols for identity, social graphs, inventory, etc.
+- Members include businesses and individuals working towards a common goal
+- Discussion topics: visualizing information, meeting times, media team collaboration, working groups, game nights, Shanghai Metaverse Summit presentation
+
+# Section 2: Action Items
+1. Prototype visualizing the OMI information using two to three weeks of notes
+2. Schedule media team meetings after Wednesday calls for 15 minutes
+3. Update the readme with current meeting times and active working groups
+4. Collaborate on creating content related to interoperability in various formats (articles, videos)
+5. Support community members doing good work by amplifying their content
+6. Discuss the concept of metaverse and its definition during future meetings
+
+# Section 3: Timeline-based Outline
+1. Welcome and introductions
+2. Visualizing OMI information
+3. Meeting times and media team collaboration
+4. Working group check-ins (GLTF, MSF)
+5. Game nights and experiments label
+6. Shanghai Metaverse Summit presentation
+7. Discussion on the definition of metaverse
+8. Closing remarks
+
+# Section 4: Notes
+- OMI AI working group proposal incubating inside OMI experiments
+- OMI personality extension for adding a personality to VRMs or GLTFs
+- Friday demo day at 5 PM local time
+- Possible collaboration with other platforms and companies on interoperability content
+- Importance of amplifying community members' work
+

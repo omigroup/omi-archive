@@ -1,0 +1,33 @@
+# Open Metaverse Interoperability Group Meeting Summary
+The Open Metaverse Interoperability (OMI) group held a meeting to discuss their progress and plans for the future. The group is focused on building an open metaverse by promoting and helping bolster connections between various platforms, including on-chain, off-chain, proprietary, and web-based systems. They work together to create protocols, host events, share findings, and support each other in their efforts to build the open metaverse.
+
+## Key Points:
+1. The group is nearing the end of 2023 and will resume checking in with working groups next week.
+2. The meeting focused on demos and open exploration due to uncertain turnout during a holiday week.
+3. OMI members introduced themselves, sharing their backgrounds and projects related to the open metaverse.
+4. The group discussed the importance of interoperability between different platforms and formats.
+5. They emphasized the need for accountability and collaboration among members to continue making progress in building the open metaverse.
+
+## Action Items:
+1. Continue working on demos and open exploration during future meetings.
+2. Encourage new members to introduce themselves and share their projects related to the open metaverse.
+3. Strengthen collaboration among members by sharing findings, protocols, and supporting each other in their efforts.
+4. Explore ways to make content interoperable across different platforms and formats.
+5. Consider working on smart cities or other projects that can benefit from the group's expertise in building the open metaverse.
+
+## Timeline of Topics Discussed:
+1. Introduction and welcome to new members.
+2. Review of the group's progress and plans for the future.
+3. Demos and open exploration.
+4. Introductions from OMI members.
+5. Importance of interoperability between different platforms and formats.
+6. Accountability and collaboration among members.
+7. Exploration of smart cities or other projects related to the open metaverse.
+
+## Notes:
+1. The group is focused on building an open metaverse by promoting connections between various platforms.
+2. They work together to create protocols, host events, share findings, and support each other in their efforts.
+3. OMI members emphasized the need for interoperability between different platforms and formats.
+4. The group discussed ways to make content interoperable across different platforms and formats.
+5. They encouraged new members to introduce themselves and share their projects related to the open metaverse.
+

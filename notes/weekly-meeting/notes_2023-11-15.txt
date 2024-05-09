@@ -1,0 +1,22 @@
+# Summary
+The 133rd meeting of the Open Metaverse Interoperability (OMI) group focused on discussing updates and contribution opportunities. The main topics covered were changing the day of the meeting, GLTF working group updates, media strategy, and events. Participants shared their reasons for being involved in OMI and discussed ways to improve the group's effectiveness.
+
+# Action Items
+1. Update the calendar with the new meeting time on Mondays at 4 PM UTC.
+2. Create a standard pitch for GLTF explaining its purpose and benefits.
+3. Establish regular meetings for the Prozacal channel working group.
+4. Develop a project page for the Teleport Protocol.
+5. Explore ways to encourage more participation in building events and virtual worlds.
+6. Consider hosting monthly sessions as a regular occurrence.
+
+# Topics Discussed by Timeline
+1. Changing the meeting day: The group decided to change the meeting day from Wednesday to Monday at 4 PM UTC.
+2. GLTF working group updates: Not much progress has been made recently, but more people are encouraged to join and contribute.
+3. Media strategy: Discussed the importance of sharing accomplishments and energizing the community through events and media.
+4. Events: Participants shared their reasons for being involved in OMI and discussed ways to improve the group's effectiveness in organizing events and virtual worlds.
+5. Prozacal channel working group: Established regular meetings for this group.
+6. Teleport Protocol project page: Developed a project page for the Teleport Protocol.
+7. Standard pitch for GLTF: Created a standard pitch explaining its purpose and benefits.
+8. Encouraging participation in building events and virtual worlds: Explored ways to encourage more participation in these areas.
+9. Monthly sessions: Considered hosting monthly sessions as a regular occurrence.
+

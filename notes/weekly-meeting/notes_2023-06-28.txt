@@ -1,0 +1,15 @@
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+The OMI group discussed mapping the metaverse into a 3D resource and creating an inventory of all the places that fit as a description. Keyframe is working on this project with Stephen Van Loon on data visualization. The goal is to create a prototype map useful across the industry, focusing on R&D in the next few months.
+
+## Action Items:
+- Create a database structure for the metaverse inventory.
+- Populate the database with existing data and gather new information.
+- Establish a procedure for people to contribute to editing and maintaining the database.
+- Share the project on GitHub for collaboration and participation.
+
+## Topics Discussed:
+1. Mapping the Metaverse: Keyframe is working on mapping the metaverse into a 3D resource, with Stephen Van Loon handling data visualization. The goal is to create a prototype map useful across the industry.
+2. Inventory of Open Metaverse Platforms: The group discussed creating an inventory of all open metaverse platforms, focusing on curation and including active communities.
+3. Data Visualization and Organization: The group discussed using AI to summarize data from various sources and organizing it in a database structure. They also discussed the importance of limiting sprawl by selecting specific categories for each field.
+4. Collaboration and Participation: The group emphasized the need for collaboration and participation through GitHub, with Keyframe sharing his experience on how to participate in the project.
+

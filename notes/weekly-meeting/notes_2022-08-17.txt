@@ -1,0 +1,30 @@
+## Meeting Summary
+- OMI group members discuss interoperability issues within the metaverse.
+- Delegates are praised for their active participation and engagement.
+
+### Key Points
+1. Discussion on the challenges of achieving interoperability between different metaverses.
+2. Emphasis on the importance of collaboration and communication among developers, companies, and users.
+3. Recognition of the need to establish standards and guidelines for interoperability.
+4. Acknowledgment of the ongoing efforts by various organizations in this field.
+5. Encouragement for continued engagement and participation from all stakeholders.
+
+### Action Items
+- Establish a working group to develop interoperability standards and guidelines.
+- Organize regular meetings with representatives from different metaverses.
+- Create an online platform for sharing resources, best practices, and updates on interoperability progress.
+
+### Timeline of Topics Discussed
+1. Introduction and welcome (5 minutes)
+2. Overview of the OMI group's mission and goals (10 minutes)
+3. Challenges in achieving metaverse interoperability (20 minutes)
+4. Collaboration and communication among stakeholders (15 minutes)
+5. Establishing standards and guidelines for interoperability (10 minutes)
+6. Ongoing efforts by organizations in this field (10 minutes)
+7. Conclusion and next steps (5 minutes)
+
+### Notes
+- Delegates are encouraged to share their experiences and insights on interoperability challenges.
+- The importance of user feedback and input is emphasized.
+- Discussion on potential partnerships with other organizations working on similar projects.
+

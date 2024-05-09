@@ -1,0 +1,28 @@
+# Section 1: Overall Summary and Key Points
+- Meeting of the Open Metaverse Interoperability (OMI) group
+- Discussion on various topics including Webby Awards, Linux Foundation survey, potential partnerships, hackathons, and more.
+- Focus on collaboration, sharing ideas, and exploring new opportunities within the metaverse community.
+
+# Section 2: Action Items
+1. Explore ways to link up with the Linux Foundation for funding and collaborations.
+2. Investigate the possibility of hosting a hackathon to practice interview skills and lightning talks.
+3. Collaborate with existing initiatives like Keyframe's Virtual Worlds Museum and the Spatial Web IEEE group.
+4. Discuss potential ways to share information morsels in a more interactive and visual manner.
+5. Consider using RSS feeds as a way to represent collections of recent feed items in a 3D environment.
+6. Continue exploring new ideas and opportunities within the metaverse community.
+
+# Section 3: Timeline-Based Topics Discussed
+1. Webby Awards in the Metaverse category
+2. Linux Foundation survey for open source projects
+3. Potential partnerships with industrial partners
+4. Collaboration with Keyframe's Virtual Worlds Museum and Spatial Web IEEE group
+5. Exploring ways to share information morsels in a more interactive and visual manner
+6. Discussion on hackathons, lightning talks, and interview skills
+7. Ideas for creating a guided camera experience for exploring 3D environments
+8. Sharing ideas and opportunities within the metaverse community
+
+# Section 4: Notes
+- Interesting quote from the meeting: "We don't feel ownership over something that we have to do something; we're about connecting different groups together and sharing ideas across groups."
+- Discussion on using RSS feeds as a way to represent collections of recent feed items in a 3D environment.
+- Exploration of creating a guided camera experience for exploring 3D environments.
+
