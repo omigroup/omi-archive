@@ -1,0 +1,2387 @@
+
+------------------------------
+
+# backlog-refinement Tuesday
+
+------------------------------
+
+# OMI Group Meeting Summary
+## Overall Summary
+The OMI group discussed the progress made on interoperability standards, the need for a unified approach to virtual world development, and the importance of collaboration between different platforms. They also touched upon the challenges faced in implementing these standards and the potential benefits they could bring to the metaverse ecosystem.
+
+## Action Items
+- Continue working on developing interoperability standards
+- Explore ways to encourage collaboration between different platforms
+- Identify and address any technical or legal challenges that may arise during implementation
+
+## Topics Discussed
+1. **Interoperability Standards Progress**
+   - Discussion of the progress made on developing interoperability standards for virtual worlds
+   - Highlighting the importance of a unified approach to virtual world development
+2. **Challenges in Implementation**
+   - Identifying and addressing technical challenges that may arise during implementation
+   - Addressing legal concerns related to intellectual property rights and data privacy
+3. **Collaboration between Platforms**
+   - Discussion of the need for collaboration between different platforms to ensure a seamless user experience
+   - Exploring ways to encourage platform-to-platform communication and cooperation
+4. **Potential Benefits of Interoperability**
+   - Highlighting the potential benefits that interoperability could bring to the metaverse ecosystem, such as increased user engagement and adoption
+   - Discussing the importance of standardization for long-term success in the virtual world market
+5. **Future Directions**
+   - Brainstorming ideas for future directions and initiatives related to interoperability standards and collaboration between platforms
+   - Encouraging open dialogue and collaboration among members of the OMI group
+
+## Notes
+- The need for a unified approach to virtual world development was emphasized throughout the meeting.
+- Participants expressed concerns about potential legal challenges, such as intellectual property rights and data privacy issues.
+- Members discussed the importance of standardization in ensuring long-term success in the virtual world market.
+
+
+------------------------------
+
+# backlog-refinement 2022-11-01
+
+------------------------------
+
+# Section 1: Overall Summary
+The meeting discusses the need to clean up the OMI group's backlog, as well as various topics related to project management and organization. The main focus is on improving the consistency and usability of their GitHub repositories and projects board for newcomers. They also touch upon the importance of following processes and the challenges of coordinating a distributed team.
+
+# Section 2: Action Items
+1. Clean up dead tickets in the backlog to make room for newcomers' contributions.
+2. Create meeting notes for future reference.
+3. Explore using milestones for better organization within subgroups.
+4. Investigate WordPress capabilities and present them to the team.
+5. Discuss and decide on a consistent time for meetings, taking into account both American Pacific and European time zones.
+6. Continue working on tasks related to project management and organization.
+7. Audit existing bots for security purposes.
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and purpose of the meeting.
+2. Burning the Backlog concept and its benefits.
+3. Challenges with current backlog system and processes.
+4. Importance of following processes and the impact of not doing so.
+5. Updating GitHub repositories and projects board for better consistency and usability.
+6. Exploring the use of milestones within subgroups.
+7. Investigating WordPress capabilities and their potential benefits.
+8. Discussing a consistent time for meetings, considering both American Pacific and European time zones.
+9. Continuing work on tasks related to project management and organization.
+10. Auditing existing bots for security purposes.
+
+# Section 4: Notes
+- Sindhu's different interpretation of the onboarding experience.
+- Possible MSF affiliation to website.
+- Discussion about the UX research group and its role within OMI.
+- Exploring the formation of a streaming team.
+- Addressing the issue of Survivor's Bias in decision-making processes.
+- Closing dead tickets in the backlog for newcomers to contribute.
+
+
+------------------------------
+
+# weekly-meeting 2023-06-14
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+The 111th consecutive weekly meeting of the OMI group was held. The group discussed their mission to create protocols for a unified metaverse and encourage adoption of these standards by other influencers and standards bodies. They also emphasized the importance of building bridges between different communities and groups in order to achieve their vision.
+
+## Key Points:
+- OMI is a collective of people from various backgrounds, including indies, entrepreneurs, and open sourcers.
+- Their goal is to create protocols for a unified metaverse, allowing users to flow freely across different platforms without having to switch avatars or walled gardens.
+- They encourage other influencers and standards bodies to adopt their standards and get involved in the co-creation process.
+- OMI sees themselves as a "people's Metaverse Standards body," welcoming individuals who may not be part of larger companies or groups.
+- The group discussed the importance of engaging with other communities, such as MSF, through real-time communication and attendance at events.
+- They emphasized the need for presence and representation to ensure that requests and interests are heard and evangelized effectively.
+
+## Action Items:
+1. Encourage engagement with other communities, such as MSF, through real-time communication and attendance at events.
+2. Continue building bridges between different groups and communities in the metaverse space.
+3. Promote presence and representation to ensure that requests and interests are heard and evangelized effectively.
+
+## Topics Discussed:
+1. Introduction of new or returning members
+2. OMI's mission and goals
+3. Engagement with other communities, such as MSF
+4. Importance of building bridges between different groups and communities
+5. Presence and representation in the metaverse space
+6. Upcoming events and meetings
+7. Introductions for new members
+
+## Notes:
+- OMI is open to individuals who may not be part of larger companies or groups, making it a "people's Metaverse Standards body."
+- The group emphasized the importance of engaging with other communities through real-time communication and attendance at events.
+- They discussed the need for presence and representation in the metaverse space to ensure that requests and interests are heard and evangelized effectively.
+
+
+------------------------------
+
+# weekly-meeting 2024-01-31
+
+------------------------------
+
+# Summary
+The OMI group discussed the need for a one-pager document that highlights their work and goals. They agreed on the importance of having a clear and concise message about what they do and what they don't do. The group also talked about the possibility of linking to an Awesomeness directory to provide more information about projects involved in OMI.
+
+# Action Items
+1. Finalize the one-pager document with a focus on highlighting their work and goals.
+2. Link to the Awesomeness directory for more information about projects involved in OMI.
+3. Continue working on the publicity team and organizing larger events and meetups.
+4. Discuss the possibility of using Twitter spaces as an outreach avenue to promote workshops and attract new participants.
+5. Create a new Discord server for OMI, separate from AngelXR, after discussing it with Mr. Meda.
+6. Schedule weekly or monthly Twitter spaces to promote workshops and engage with potential participants.
+7. Continue networking and finding partners and opportunities for the museum project and figuring out what to talk about at AWE.
+8. Send an application to attend AWE in June.
+
+# Timeline of Topics Discussed
+1. One-pager document and its focus on highlighting their work and goals.
+2. Linking to the Awesomeness directory for more information about projects involved in OMI.
+3. Publicity team and organizing larger events and meetups.
+4. Using Twitter spaces as an outreach avenue to promote workshops and attract new participants.
+5. Creating a new Discord server for OMI, separate from AngelXR, after discussing it with Mr. Meda.
+6. Scheduling weekly or monthly Twitter spaces to promote workshops and engage with potential participants.
+7. Continuing networking and finding partners and opportunities for the museum project and figuring out what to talk about at AWE.
+8. Sending an application to attend AWE in June.
+
+# Notes
+- The group discussed the need for a one-pager document that highlights their work and goals, with a focus on what they do and what they don't do.
+- They agreed on the importance of having a clear and concise message about OMI.
+- Linking to the Awesomeness directory was suggested as a way to provide more information about projects involved in OMI.
+- The group talked about the possibility of using Twitter spaces as an outreach avenue to promote workshops and attract new participants.
+- They discussed creating a new Discord server for OMI, separate from AngelXR, after discussing it with Mr. Meda.
+- Scheduling weekly or monthly Twitter spaces to promote workshops and engage with potential participants was suggested.
+- The group continued networking and finding partners and opportunities for the museum project and figuring out what to talk about at AWE.
+- An application to attend AWE in June was encouraged, and a check-in from Keyframe about their recent experiences was shared.
+
+
+------------------------------
+
+# weekly-meeting 2024-01-24
+
+------------------------------
+
+## Meeting Summary
+- OMI group meeting
+- Discussion on interoperability in the Open Metaverse
+
+### Key Points
+1. Importance of interoperability for the Open Metaverse
+2. Updates on ongoing projects and initiatives
+3. Collaboration with other metaverse groups
+4. Addressing challenges and potential solutions
+5. Next steps and action items
+
+### Action Items
+- Continue working on interoperability protocols
+- Schedule a follow-up meeting to discuss progress
+- Reach out to other metaverse groups for collaboration
+
+### Topic Outline
+1. Introduction (5 mins)
+   - Welcome and introductions
+   - Overview of OMI group goals and objectives
+2. Interoperability in the Open Metaverse (30 mins)
+   - Importance of interoperability for the Open Metaverse
+   - Challenges faced by developers and users
+   - Potential solutions and best practices
+3. Ongoing Projects and Initiatives (45 mins)
+   - Updates on current projects and initiatives
+   - Discussion on progress and challenges
+   - Collaboration with other metaverse groups
+4. Addressing Challenges and Solutions (60 mins)
+   - Identifying key challenges in interoperability
+   - Brainstorming potential solutions and best practices
+   - Discussing the impact of these solutions on the Open Metaverse
+5. Next Steps and Action Items (15 mins)
+   - Recap of key points from the meeting
+   - Assigning action items to group members
+   - Scheduling a follow-up meeting to discuss progress
+
+
+------------------------------
+
+# weekly-meeting 2024-01-10
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+- The meeting was about the Open Metaverse Interoperability (OMI) group's experiences at Evo's VR panel and discussing ways to improve outreach and collaboration.
+- Participants discussed the need for a clear mission statement, utilizing platforms like Spaces or X for meetings, creating working groups, and finding ways to share content effectively.
+- They also touched on the importance of strengthening ties with other organizations such as M3 and MSF, and the potential use of AI tools for audio generation in KHR audio.
+- The group discussed using W3C's mailing list and wiki for sharing information and software development resources related to the metaverse.
+- They mentioned the need for a structured work plan for content initiatives and the possibility of creating a virtual world museum wiki.
+
+# Section 2: Action Items Discussed
+1. Create a clear mission statement for OMI.
+2. Utilize platforms like Spaces or X for meetings.
+3. Establish working groups with specific goals and objectives.
+4. Strengthen ties with other organizations such as M3 and MSF.
+5. Explore the potential use of AI tools for audio generation in KHR audio.
+6. Develop a structured work plan for content initiatives.
+7. Create a virtual world museum wiki using W3C's mailing list and wiki functionality.
+
+# Section 3: Timeline-Based Outline
+1. Evo's VR panel experience and marketing insights.
+2. Discussion on the need for a clear mission statement.
+3. Utilizing platforms like Spaces or X for meetings.
+4. Creating working groups with specific goals and objectives.
+5. Strengthening ties with other organizations such as M3 and MSF.
+6. Exploring the potential use of AI tools for audio generation in KHR audio.
+7. Developing a structured work plan for content initiatives.
+8. Creating a virtual world museum wiki using W3C's mailing list and wiki functionality.
+9. Recap of 2023 and emailing the W3C groups.
+10. Research on a wiki for Metaverse software development.
+
+# Section 4: Notes
+- The group discussed the importance of outreach and collaboration to attract more people to join their efforts in the metaverse.
+- They mentioned the need for a clear mission statement, which should be clearly defined on the website and whatnot.
+- Participants shared their experiences at Evo's VR panel and how gaming is changing everything.
+- The group discussed the potential use of AI tools for audio generation in KHR audio and its benefits for Foley and other sound effects.
+- They touched on the possibility of creating a virtual world museum wiki using W3C's mailing list and wiki functionality.
+
+
+------------------------------
+
+# weekly-meeting Wednesday
+
+------------------------------
+
+
+------------------------------
+
+# weekly-meeting 2023-11-08_1
+
+------------------------------
+
+# Summary
+The OMI group discussed the importance of amplifying the voices of the open metaverse community and raising awareness of open metaverse interoperability. They also talked about using social media channels to share content from their community members and collaborating with other groups for events. The group decided to have regular sync meetings every week to discuss progress and ideas.
+
+# Action Items
+1. Create a shared YouTube playlist for the OMI community.
+2. Retweet existing content from the OMI handle on social media platforms.
+3. Share access to the OMI Twitter account with group members.
+4. Use HackMD or Google Docs for collaborative note-taking during meetings.
+5. Organize events, such as demo days and collaborations with other groups, to raise awareness of open metaverse interoperability.
+6. Continue regular sync meetings every week.
+
+# Timeline Outline
+1. Introduction and goals of the OMI group.
+2. Discussion on amplifying community voices and raising awareness.
+3. Social media strategies for sharing content.
+4. Collaboration with other groups for events.
+5. Regular sync meetings every week.
+6. Conclusion and next steps.
+
+# Notes
+- Use HackMD or Google Docs for collaborative note-taking during meetings.
+- Share access to the OMI Twitter account with group members.
+- Organize events, such as demo days and collaborations with other groups, to raise awareness of open metaverse interoperability.
+
+
+------------------------------
+
+# weekly-meeting 2023-11-08
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+- Open Metaverse Interoperability (OMI) group meeting on November 8th
+- Focused on bridging virtual worlds through protocols for identity, social graphs, inventory, etc.
+- Members include businesses and individuals working towards a common goal
+- Discussion topics: visualizing information, meeting times, media team collaboration, working groups, game nights, Shanghai Metaverse Summit presentation
+
+# Section 2: Action Items
+1. Prototype visualizing the OMI information using two to three weeks of notes
+2. Schedule media team meetings after Wednesday calls for 15 minutes
+3. Update the readme with current meeting times and active working groups
+4. Collaborate on creating content related to interoperability in various formats (articles, videos)
+5. Support community members doing good work by amplifying their content
+6. Discuss the concept of metaverse and its definition during future meetings
+
+# Section 3: Timeline-based Outline
+1. Welcome and introductions
+2. Visualizing OMI information
+3. Meeting times and media team collaboration
+4. Working group check-ins (GLTF, MSF)
+5. Game nights and experiments label
+6. Shanghai Metaverse Summit presentation
+7. Discussion on the definition of metaverse
+8. Closing remarks
+
+# Section 4: Notes
+- OMI AI working group proposal incubating inside OMI experiments
+- OMI personality extension for adding a personality to VRMs or GLTFs
+- Friday demo day at 5 PM local time
+- Possible collaboration with other platforms and companies on interoperability content
+- Importance of amplifying community members' work
+
+
+------------------------------
+
+# weekly-meeting 2024-03-13
+
+------------------------------
+
+## Summary
+The OMI group discussed their experiences with the Glide bot, catching up on recent developments, and the challenges of navigating legal frameworks in different jurisdictions. They also touched upon the importance of finding an institution that supports their work without being too associated with them.
+
+## Action Items
+- Find a physical sponsor or someone who can support the OMI group's work.
+
+## Topics Discussed
+1. Glide bot updates and experiences
+2. Catching up on recent developments in the OMI group
+3. Legal challenges in different jurisdictions (EU, US)
+4. Finding an institution that supports the OMI group's work without being too associated with them
+
+## Notes
+- Glide bot updates and experiences: Clied was away, but the bot hasn't moved.
+- Catching up on recent developments: The speaker has been away for a couple of weeks.
+- Legal challenges in different jurisdictions: EU laws may be more flexible than US federal 501c3 laws.
+- Finding an institution that supports the OMI group's work: Speaker suggests finding an innovation park in the Azores as a potential sponsor.
+
+
+------------------------------
+
+# weekly-meeting 2023-06-07
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+## Overall Summary
+The meeting focused on discussing potential grants to pursue, reacquiring responses, WebXR work on Linux, and updates on working groups. The group also discussed the possibility of partnering with other bodies for specific projects.
+
+## Action Items
+- Reapply for a response
+- Pursue potential grants
+- Collaborate with other bodies for specific projects
+
+## Topic Outline
+1. Introduction and Welcome (5 minutes)
+   - Recording started, happy Wednesday
+   - Discussing reacquiring responses and pursuing grants
+2. Grants and Partnerships (30 minutes)
+   - WebXR work on Linux
+   - Collaboration with Microsoft on physics body and colliders
+   - Updates on working groups
+3. Demos and General Conversation (15 minutes)
+   - Discussion on the OMI account's tweet
+4. Closing Remarks (5 minutes)
+   - Recap of key points discussed
+
+## Notes
+- Dr. Mark Oshmore organizing a private workshop for generative media making in the UK
+- Future Artists and Immersive Artists group involvement with the speaker
+- Possibility of a physical event in the future
+- GLTF group's diligent work on finding common ground for potentially competing standards with Microsoft
+
+
+------------------------------
+
+# weekly-meeting 2022-12-14
+
+------------------------------
+
+## Summary
+The OMI group meeting begins with Aaron welcoming everyone and starting the recording. He asks for introductions from any newcomers. The group discusses using OMIbot instead of Craig bot in recent meetings. They decide to continue using OMIbot as it has been working well.
+
+## Action Items
+- Continue using OMIbot in future meetings
+
+## Topics Discussed
+1. Introduction and welcome (Aaron)
+2. Recording start (Aaron)
+3. Newcomer introductions (Aaron)
+4. Use of OMIbot vs Craig bot (Group discussion)
+5. Decision to continue using OMIbot in future meetings (Group decision)
+
+## Notes
+- Aaron recognizes everyone present at the meeting
+- The group has been using OMIbot for about two months
+- There is no preference expressed regarding which bot to use, but it seems that Craig bot was recently used
+
+
+------------------------------
+
+# weekly-meeting 2024-04-17
+
+------------------------------
+
+# Open Metaverse Interoperability Group Meeting Summary
+
+The Open Metaverse Interoperability (OMI) group met to discuss various topics related to their work. Here are the key points from the meeting:
+
+- The group discussed the progress made on OMI Physics Gravity, which allows users to specify custom gravity directions and shapes inside of their GLTF scenes. They also talked about the possibility of creating a demo for it.
+- Jimmy shared his idea for a simple lightning talk sign-up form to collect information about people who would like to be interviewed or share their knowledge with the group. The form includes fields for email, web link, area of knowledge, and suggestions for other participants.
+- The group discussed the possibility of hosting a more organic and indie-focused version of the Building the Open Metaverse podcast, similar to Ted Talks or Petra Kutscher talks. They also considered the idea of organizing a hackathon to practice through these questions and improve their skills.
+- Aaron shared his progress on developing tooling for generating transcripts from audio recordings and using language models to create blog posts. He mentioned that he is working on making it compatible with WordPress.
+- The group discussed the possibility of aligning with the wearables group at MSF by sharing ideas and collaborating on projects.
+
+## Action Items:
+
+1. Create a demo for OMI Physics Gravity.
+2. Finalize the lightning talk sign-up form and gather feedback from the group.
+3. Explore options for hosting an organic and indie-focused version of the Building the Open Metaverse podcast.
+4. Organize a hackathon to practice through questions related to their work.
+5. Collaborate with the wearables group at MSF on aligning ideas and projects.
+
+## Timeline Outline:
+
+1. OMI Physics Gravity demo discussion
+2. Lightning talk sign-up form feedback and finalization
+3. Organic and indie-focused podcast idea exploration
+4. Hackathon planning for skill improvement
+5. Collaboration with wearables group at MSF
+
+## Notes:
+
+- The group celebrated their third anniversary on the W3C page.
+- Aaron is working on developing tooling for generating transcripts and blog posts from audio recordings.
+
+
+------------------------------
+
+# weekly-meeting 2023-08-09
+
+------------------------------
+
+# OMI Meeting Summary
+The Open Metaverse Interoperability (OMI) group held its 119th consecutive weekly meeting. The main topics discussed were the metaverse festival, the election process for new chairs, merging the W3C page with Discord, and using Fireflies to transcribe meetings.
+
+## Action Items
+- Plan a metaverse festival with mobile parades and OMI protocols integration
+- Hold a call for nominations for new chairs
+- Merge the W3C page with Discord to create a unified entry point for OMI
+- Use Fireflies to transcribe meetings, generate blog posts, and streamline content creation efforts
+
+## Meeting Outline
+1. Introduction of new members and their backgrounds in the metaverse space
+2. Action items for the week: planning the metaverse festival, discussing the election process, merging the W3C page with Discord, and using Fireflies to transcribe meetings
+3. Discussion on the metaverse festival concept and integration of OMI protocols
+4. Updates on the Open Collective process and the need for a new fiscal sponsor
+5. Call for nominations for new chairs and discussion on the election process
+6. Merging the W3C page with Discord to create a unified entry point for OMI
+7. Presentation of Fireflies as an AI meeting note tool and its potential benefits for OMI
+8. Vote on purchasing a Fireflies Pro subscription for OMI
+9. Discussion on using Magic API in OMI personality and building a new OMI bot
+10. Festival planning, including vehicle design and GLTF physics integration
+
+## Notes
+- The metaverse festival will feature mobile parades and integrate OMI protocols
+- A call for nominations for new chairs has been initiated
+- Fireflies can be used to transcribe meetings, generate blog posts, and streamline content creation efforts
+- Magic API can be integrated into OMI personality and used for building a new OMI bot
+- Vehicle design and GLTF physics integration will be discussed in the next meeting
+
+
+------------------------------
+
+# weekly-meeting 2022-11-02
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+The OMI group had a productive meeting discussing various topics related to the Open Metaverse Interoperability. The main focus was on improving collaboration and communication within the group. They discussed the importance of using open source tools and plugins for their website, as well as exploring ways to attract more diverse voices to the group. Additionally, they touched upon the potential of using portals in virtual spaces for better collaboration and discussed the possibility of creating a speaker's form for community members interested in participating in events or interviews.
+
+# Section 2: Action Items Discussed
+1. Schedule a presentation on WordPress features and capabilities.
+2. Create a speaker's form for community members interested in participating in events or interviews.
+3. Continue exploring ways to attract more diverse voices to the group.
+4. Investigate using portals in virtual spaces for better collaboration.
+5. Update all readmes with the time change in the Americas.
+6. Consider scheduling a demo on WordPress features and capabilities.
+7. Look into creating an internal press list for community members interested in interviews or events.
+8. Discuss the possibility of opening up guest blog access to the website.
+9. Explore ways to improve the way they run these meetings.
+10. Encourage other group members to take a stab at moderating future calls.
+
+# Section 3: Timeline-Based Topics Outline
+1. Opening and introductions (5 minutes)
+2. MSF delegates updates (4 minutes)
+3. UX research updates (10 minutes)
+4. Scripting group updates (5 minutes)
+5. Developer hour discussion (5 minutes)
+6. GLTF extensions updates (10 minutes)
+7. Media and events updates (15 minutes)
+8. M3 Avatar group check-in (5 minutes)
+9. Website group updates (5 minutes)
+10. Closing remarks and next steps (5 minutes)
+
+# Section 4: Notes
+- Discussed the importance of using open source tools for their website.
+- Explored ways to attract more diverse voices to the group.
+- Investigated using portals in virtual spaces for better collaboration.
+- Discussed the possibility of creating a speaker's form for community members interested in participating in events or interviews.
+- Considered scheduling a demo on WordPress features and capabilities.
+- Looked into creating an internal press list for community members interested in interviews or events.
+- Discussed the possibility of opening up guest blog access to the website.
+
+
+------------------------------
+
+# weekly-meeting 2023-08-02
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+- OMI group meeting number 118 on August 2nd
+- Discussion about interoperable open protocols and standards for a more open metaverse
+- Idea of a metaverse festival to generate awareness and build community within other metaverse communities
+- Updates from various groups, including VKit, MSF, GLTF, Avatar Interop Group, and Media Group
+- Discussion about the challenges of making notes and documentation more accessible
+- Suggestion to create a one-pager for building parade floats
+- Concerns about the sustainability and community building aspects of metaverse projects and platforms
+- Proposal for an open collective fiscal sponsorship
+- Idea of hosting an Open Metaverse Conference or event
+
+# Section 2: Action Items Discussed
+1. Create a one-pager for building parade floats
+2. Reach out to other groups, such as OMF, for collaboration opportunities
+3. Organize the next media meetup and share availability with others
+4. Explore the possibility of hosting an Open Metaverse Conference or event
+5. Continue working on making notes and documentation more accessible
+6. Investigate funding ideas to help people fund their metaverse-related projects
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and welcome
+2. General discussion about the OMI group's goals and objectives
+3. Idea of a metaverse festival for generating awareness and building community
+4. Updates from various groups, including VKit, MSF, GLTF, Avatar Interop Group, and Media Group
+5. Discussion about the challenges of making notes and documentation more accessible
+6. Suggestion to create a one-pager for building parade floats
+7. Concerns about the sustainability and community building aspects of metaverse projects and platforms
+8. Proposal for an open collective fiscal sponsorship
+9. Idea of hosting an Open Metaverse Conference or event
+10. Closing remarks and next steps
+
+# Section 4: Notes and Additional Information
+- Discussion about the potential impact of the OMI group's work on mainstream audiences
+- Suggestion to create a tutorial world for learning how to build parade floats
+- Proposal for an open collective fiscal sponsorship to enable collaboration with other groups
+- Idea of hosting an Open Metaverse Conference or event to celebrate the arts and build community
+
+
+------------------------------
+
+# weekly-meeting 2023-11-27
+
+------------------------------
+
+# Summary
+The 135th meeting of the Open Metaverse Interoperability (OMI) group focused on various topics including Twitter Spaces for outreach, Mastodon server research, casual meetups, Agile stand-up sessions, and the creation of an "Awesomeness" page to showcase members' projects. The group also discussed the need for a more formal structure and the importance of maintaining connections with other organizations in the metaverse space.
+
+# Action Items
+1. Research servers for Mastodon that could be hosted on for greater discoverability.
+2. Investigate Twitter Spaces for outreach purposes, coordinating efforts to host a general conversation together.
+3. Start an Agile stand-up session for members to share their progress and hold it before or after the OMI meeting.
+4. Create an "Awesomeness" page on the website to showcase members' projects.
+5. Clean up the Discord channel by archiving inactive channels and considering a new server setup.
+6. Migrate the current Discord server to a new one, keeping AngelXR's Discord channel separate from OMI's.
+7. Explore the possibility of creating a metaverse events calendar or improving existing ones.
+8. Continue researching other organizations in the metaverse space and maintaining connections with them.
+9. Share interesting findings and updates on personal projects within the group.
+
+# Topic Outline
+1. Twitter Spaces for outreach
+   - Coordinate efforts to host a general conversation together.
+   - Organize the conversation around OMI's focus.
+2. Mastodon server research
+   - Investigate other servers that could be hosted on for greater discoverability.
+3. Casual meetups and Agile stand-up sessions
+   - Start an Agile stand-up session for members to share their progress.
+4. "Awesomeness" page creation
+   - Showcase members' projects on the website.
+5. Discord channel cleanup
+   - Archive inactive channels.
+   - Consider a new server setup.
+6. Migrating the current Discord server to a new one.
+7. Metaverse events calendar exploration.
+8. Continued research and connection with other organizations.
+9. Sharing interesting findings and updates on personal projects within the group.
+
+
+------------------------------
+
+# weekly-meeting 2022-12-28
+
+------------------------------
+
+# Summary
+The OMI group held their weekly meeting discussing various updates and demos. The main topics included the Metaverse Standards Forum (MSF) delegates update, working group updates, and demos. They also discussed the upcoming Open Metaverse conference and encouraged community members to contribute content for it. The team showcased a WebXR golf game demo and an early version of a social space using stable diffusion in a WebXR room.
+
+# Action Items
+1. Participate in the OMI working groups and provide updates on progress.
+2. Share announcements and demos with the community through various channels, including social media and blog posts.
+3. Collaborate on content creation for the Open Metaverse conference.
+4. Continue exploring options for building interoperable virtual worlds.
+5. Support the OMI community by providing resources and guidance.
+6. Attend the upcoming Open Metaverse conference in person or virtually.
+7. Follow up with Liam about the open source project around GLTF extensions and the GLT short code space.
+8. Participate in the Protab Events channel for event-related discussions.
+9. Share ideas for building together within the OMI community.
+10. Help with the development of WebXR on Linux platforms.
+
+# Timeline of Topics Discussed
+1. Metaverse Standards Forum (MSF) delegates update
+2. Working group updates: UX research, scripting, OMI developer hour, GLTF extensions, media group, M3 Avatar Interop group, website group, OMC
+3. Open Metaverse conference updates and ticket prices
+4. Booth at the physical part of the Open Metaverse conference in LA
+5. Demos: WebXR golf game, Simulacra social space using stable diffusion in a WebXR room
+6. Collaboration on content creation for the Open Metaverse conference
+7. Exploring options for building interoperable virtual worlds
+8. Supporting the OMI community and providing resources
+
+
+------------------------------
+
+# weekly-meeting 2023-06-21
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+
+## Overall Summary
+The OMI group meeting focused on the importance of intentionality and consistency in setting direction. The group discussed their approach to alignment sessions, ensuring that new members are aware of previous discussions and decisions. They emphasized the need for open communication and collaboration among team members. The group also touched upon their ongoing efforts to pursue grants and champion specific initiatives within the metaverse space.
+
+## Action Items
+1. Continue discussing and refining the group's approach to alignment sessions.
+2. Explore potential grant opportunities and initiatives to support within the metaverse space.
+3. Encourage team members to share their ideas, even if they may seem unrelated or redundant.
+4. Foster a culture of open communication and collaboration among team members.
+
+## Topics Discussed by Timeline
+1. Importance of intentionality and consistency in setting direction (0:00 - 3:25)
+2. Challenges of aligning new team members with previous discussions and decisions (3:25 - 6:40)
+3. Approach to alignment sessions and the role of documentation (6:40 - 10:00)
+4. Encouraging open communication and collaboration among team members (10:00 - 12:00)
+5. Ongoing efforts to pursue grants and champion specific initiatives within the metaverse space (12:00 - 16:30)
+
+## Notes
+- The group prioritizes being intentional and consistent in setting direction.
+- They emphasize the importance of open communication and collaboration among team members.
+- The group is currently exploring potential grant opportunities and initiatives to support within the metaverse space.
+
+
+------------------------------
+
+# weekly-meeting 2023-12-06
+
+------------------------------
+
+## Section 1: Overall Summary and Key Points
+The OMI group meeting discussed various topics related to the Open Metaverse Interoperability (OMI) project. The main focus was on coordinating efforts, improving communication, and increasing engagement with the community. Some key points from the discussion include:
+
+- Reviving the backlog of tasks and projects for better organization and collaboration.
+- Unifying the OMI community by creating a new Discord server and reaching out to other standards groups.
+- Exploring the use of Matrix as an alternative communication platform, with the potential to bridge different channels like Discord, IRC, and Telegram.
+- Highlighting the importance of clear and concise communication in order to attract more contributors and increase adoption of OMI protocols.
+- Discussing the possibility of merging resources with other standards bodies to create a stronger foundation for future collaboration.
+
+## Section 2: Action Items
+1. Revive the backlog of tasks and projects for better organization and collaboration.
+2. Unify the OMI community by creating a new Discord server and reaching out to other standards groups.
+3. Explore the use of Matrix as an alternative communication platform, with the potential to bridge different channels like Discord, IRC, and Telegram.
+4. Highlight the importance of clear and concise communication in order to attract more contributors and increase adoption of OMI protocols.
+5. Discuss the possibility of merging resources with other standards bodies to create a stronger foundation for future collaboration.
+
+## Section 3: Timeline-Based Outline
+1. Introduction and overview of OMI (10 minutes)
+2. Reviving the backlog of tasks and projects (15 minutes)
+3. Unifying the OMI community through Discord and Matrix (20 minutes)
+4. Exploring alternative communication platforms like Matrix (10 minutes)
+5. Highlighting the importance of clear and concise communication (10 minutes)
+6. Discussing potential collaboration with other standards bodies (15 minutes)
+7. Closing thoughts and next steps (10 minutes)
+
+## Section 4: Notes
+- The OMI group is focused on creating a unified, open metaverse through interoperability protocols.
+- The community consists of individuals, companies, and open source projects working together to achieve common goals.
+- The group has been active for over 136 consecutive weeks, with many members contributing their expertise and ideas.
+- OMI is committed to being a neutral ground for all participants, regardless of their background or affiliation.
+- The group recognizes the importance of clear communication and collaboration in order to attract more contributors and increase adoption of their protocols.
+- OMI is open to exploring alternative communication platforms like Matrix to improve connectivity and engagement with the community.
+- The group is interested in potential collaborations with other standards bodies, with a focus on resource merging and increased interoperability.
+
+
+------------------------------
+
+# weekly-meeting 2023-12-27
+
+------------------------------
+
+# Open Metaverse Interoperability Group Meeting Summary
+The Open Metaverse Interoperability (OMI) group held a meeting to discuss their progress and plans for the future. The group is focused on building an open metaverse by promoting and helping bolster connections between various platforms, including on-chain, off-chain, proprietary, and web-based systems. They work together to create protocols, host events, share findings, and support each other in their efforts to build the open metaverse.
+
+## Key Points:
+1. The group is nearing the end of 2023 and will resume checking in with working groups next week.
+2. The meeting focused on demos and open exploration due to uncertain turnout during a holiday week.
+3. OMI members introduced themselves, sharing their backgrounds and projects related to the open metaverse.
+4. The group discussed the importance of interoperability between different platforms and formats.
+5. They emphasized the need for accountability and collaboration among members to continue making progress in building the open metaverse.
+
+## Action Items:
+1. Continue working on demos and open exploration during future meetings.
+2. Encourage new members to introduce themselves and share their projects related to the open metaverse.
+3. Strengthen collaboration among members by sharing findings, protocols, and supporting each other in their efforts.
+4. Explore ways to make content interoperable across different platforms and formats.
+5. Consider working on smart cities or other projects that can benefit from the group's expertise in building the open metaverse.
+
+## Timeline of Topics Discussed:
+1. Introduction and welcome to new members.
+2. Review of the group's progress and plans for the future.
+3. Demos and open exploration.
+4. Introductions from OMI members.
+5. Importance of interoperability between different platforms and formats.
+6. Accountability and collaboration among members.
+7. Exploration of smart cities or other projects related to the open metaverse.
+
+## Notes:
+1. The group is focused on building an open metaverse by promoting connections between various platforms.
+2. They work together to create protocols, host events, share findings, and support each other in their efforts.
+3. OMI members emphasized the need for interoperability between different platforms and formats.
+4. The group discussed ways to make content interoperable across different platforms and formats.
+5. They encouraged new members to introduce themselves and share their projects related to the open metaverse.
+
+
+------------------------------
+
+# weekly-meeting 2023-06-28
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+The OMI group discussed mapping the metaverse into a 3D resource and creating an inventory of all the places that fit as a description. Keyframe is working on this project with Stephen Van Loon on data visualization. The goal is to create a prototype map useful across the industry, focusing on R&D in the next few months.
+
+## Action Items:
+- Create a database structure for the metaverse inventory.
+- Populate the database with existing data and gather new information.
+- Establish a procedure for people to contribute to editing and maintaining the database.
+- Share the project on GitHub for collaboration and participation.
+
+## Topics Discussed:
+1. Mapping the Metaverse: Keyframe is working on mapping the metaverse into a 3D resource, with Stephen Van Loon handling data visualization. The goal is to create a prototype map useful across the industry.
+2. Inventory of Open Metaverse Platforms: The group discussed creating an inventory of all open metaverse platforms, focusing on curation and including active communities.
+3. Data Visualization and Organization: The group discussed using AI to summarize data from various sources and organizing it in a database structure. They also discussed the importance of limiting sprawl by selecting specific categories for each field.
+4. Collaboration and Participation: The group emphasized the need for collaboration and participation through GitHub, with Keyframe sharing his experience on how to participate in the project.
+
+
+------------------------------
+
+# weekly-meeting 2023-05-10
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group held a meeting to discuss their community's goals, progress, and challenges. They discussed the importance of open source collaboration, licensing, and attribution for media content. The group also touched on the need for clear working agreements and conflict resolution processes. They agreed to continue working on a collaborative agreement and to bring it to a meeting next week for a vote.
+
+# Action Items
+1. Finish the open collective application.
+2. Develop a collaborative agreement for OMI's community members.
+3. Discuss and finalize licensing, attribution, and mediation processes.
+4. Explore new opportunities for funding and partnerships with institutions, foundations, and universities.
+5. Continue working on the Miro board to capture all notes and discussions.
+6. Share any relevant links or resources for further reference.
+7. Schedule a meeting next week to discuss progress and make decisions on action items.
+
+# Timeline of Topics Discussed
+1. Introduction and community updates.
+2. Media team's progress and goals.
+3. Open Collective documentation and nonprofit status.
+4. Licensing, attribution, and media content usage.
+5. Working agreements for collaboration and publishing.
+6. Conflict resolution processes and mediation.
+7. Exploring new opportunities for funding and partnerships.
+8. Finalizing the collaborative agreement and next steps.
+
+# Notes
+- The group is working on an open collective application to achieve nonprofit status.
+- They are developing a collaborative agreement that covers licensing, attribution, and mediation processes.
+- The media team is focusing on creating more content and improving publishing efforts.
+- The group discussed the importance of clear working agreements for collaboration and publishing.
+- They agreed to continue working on the Miro board to capture all notes and discussions.
+- The group shared relevant links and resources for further reference.
+- They scheduled a meeting next week to discuss progress and make decisions on action items.
+
+
+------------------------------
+
+# weekly-meeting 2023-10-04
+
+------------------------------
+
+# Summary
+The 127th weekly meeting of the Open Metaverse Interoperability (OMI) group focused on bridging virtual worlds and engaging the general public, as well as hardcore gamers and builders, by designing and promoting protocols for identity, social graphs, inventory and more. The group discussed various topics such as the Vendor Traversal, feedback on the demo day, planning future events, and potential collaborations with other organizations like OMF.
+
+# Action Items
+1. Keyframe to share some of the VR spaces that he thought would be good for their demo days.
+2. Collaboration between OMI and OMF to explore potential areas of collaboration.
+3. Planning a monthly event where participants can showcase their progress on various projects related to metaverse interoperability.
+4. Creating an FAQ page on the website to address common questions about terminology and concepts.
+5. Establishing a weekly meeting for the media group to discuss promotional strategies and access to social media accounts.
+6. Identifying opportunities to collaborate with organizations like MSF Metaverse Standards Forum.
+7. Keyframe to share his Tar 3D model of his character.
+
+# Topic Outline
+1. Vendor Traversal: Discussion on the Vendor Traversal event and feedback from participants.
+2. Demo Day Planning: Planning for future demo days, including themes, structure, and collaboration with other groups.
+3. Collaboration with OMF: Exploring potential areas of collaboration between OMI and OMF.
+4. FAQ Page Creation: Discussion on creating an FAQ page on the website to address common questions about terminology and concepts.
+5. Media Group Meeting: Establishing a weekly meeting for the media group to discuss promotional strategies and access to social media accounts.
+6. Collaboration with MSF Metaverse Standards Forum: Identifying opportunities to collaborate with organizations like MSF Metaverse Standards Forum.
+7. Miscellaneous Topics: Discussion on various miscellaneous topics, including fostering kittens, sharing Tar 3D models of characters, and other non-OMI related topics.
+
+
+------------------------------
+
+# weekly-meeting 2024-02-07
+
+------------------------------
+
+# Section 1: Overall Summary
+The Open Metaverse Interoperability (OMI) group held their 145th weekly meeting on February 7th, 2024. The main topics discussed were the Apple Vision Pro headset, WebXR experiences, and the migration of their Discord server. They also touched upon the W3C mailing list, backlog refinement, and branding for the group.
+
+# Section 2: Action Items
+1. Migrate to a new Discord server
+2. Create a style guide for OMI's branding
+3. Set up a channel for transcriptions of weekly meetings
+4. Investigate alternative payment methods for Open Collective
+5. Plan the backlog refinement session for the following week
+6. Create flyers and posters to promote upcoming events and meetings
+7. Update the website with links to the new Discord server and W3C mailing list
+
+# Section 3: Topics by Timeline
+1. Apple Vision Pro headset usage and challenges
+2. WebXR Awards nominations and experiences
+3. Migration of the Discord server
+4. W3C mailing list and potential merging with OMI's communication channels
+5. Backlog refinement session for upcoming tasks and projects
+6. Branding and style guide creation for OMI
+7. Payment method alternatives for Open Collective
+8. Weekly meeting transcriptions and documentation
+9. General channel placement in the Discord server
+
+# Section 4: Notes
+- Apple Vision Pro headset usage and challenges discussed, with a focus on WebXR experiences
+- Nominations for the WebXR Awards and the importance of community involvement
+- Migration to a new Discord server, including setting up channels and branding
+- W3C mailing list and potential merging with OMI's communication channels
+- Backlog refinement session planning for upcoming tasks and projects
+- Branding and style guide creation for OMI
+- Payment method alternatives for Open Collective
+- Weekly meeting transcriptions and documentation
+- General channel placement in the Discord server
+
+
+------------------------------
+
+# weekly-meeting 2023-05-17
+
+------------------------------
+
+# Section 1: Overall Summary
+- OMI group meeting with focus on interoperability in the metaverse
+- Discussion about ARQs, voxels, architectural builds, and avatar role-playing games
+- Working groups aim to make the metaverse open, interoperable, and one
+
+
+------------------------------
+
+# weekly-meeting 2023-03-01
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group meeting focused on discussing the group's values, goals, and ongoing projects. The group discussed their core values, such as collaboration, innovation, and sustainability, and how they can be applied to their work in the metaverse. They also talked about the importance of fostering a safe and inclusive environment for members.
+
+The meeting included a recap of recent discussions and action items, with a focus on exploring fiscal sponsorship options through Open Collective and 501c3 status. The group discussed ways to improve communication and collaboration within the community, such as creating a more structured process for addressing issues and providing guidance on moderation.
+
+The meeting concluded with a discussion about upcoming events, including OMI 100 and the possibility of hosting workshops or panels at future gatherings. The group encouraged members to contribute assets and ideas to the project and expressed their appreciation for everyone's involvement in the community.
+
+# Action Items
+- Explore fiscal sponsorship options through Open Collective and 501c3 status
+- Improve communication and collaboration within the community
+- Address issues related to moderation and safety
+- Plan upcoming events, such as OMI 100 and workshops/panels
+- Encourage members to contribute assets and ideas to the project
+
+# Timeline of Topics Discussed
+1. Recap of recent discussions and action items
+2. Core values and their application in the metaverse
+3. Fiscal sponsorship options through Open Collective and 501c3 status
+4. Improving communication and collaboration within the community
+5. Addressing issues related to moderation and safety
+6. Planning upcoming events, such as OMI 100 and workshops/panels
+7. Encouraging members to contribute assets and ideas to the project
+
+# Notes
+- The group is focused on fostering a safe and inclusive environment for members
+- They are exploring fiscal sponsorship options through Open Collective and 501c3 status
+- Communication and collaboration within the community can be improved by creating a more structured process for addressing issues and providing guidance on moderation
+- Upcoming events, such as OMI 100 and workshops/panels, are being planned
+- Members are encouraged to contribute assets and ideas to the project
+
+
+------------------------------
+
+# weekly-meeting 2023-10-18
+
+------------------------------
+
+# Summary
+The 129th meeting of the Open Metaverse Interoperability (OMI) group focused on discussing various topics, including updates from M3 and Magic, a pervasive game project proposal, and election processes for OMI chairs. Key points discussed include:
+- Updates from M3, such as their open source character studio and ongoing projects.
+- The introduction of Magic, an AI development environment that allows users to create task and coordination agents.
+- A proposal for a pervasive game project focused on urban interventions and rewarding curiosity.
+- Discussion on the election process for OMI chairs, including nominations, voting, and eligibility requirements.
+- The importance of merging different communities and improving communication within OMI.
+- Strategic conversations about collaborating with other organizations like OMF and the Linux Foundation.
+- The need to update public-facing content and improve engagement with members.
+- The possibility of changing meeting cadence or abolishing working groups entirely through a vote.
+- The importance of fluidity in OMI processes and encouraging suggestions for improvement.
+
+# Action Items
+1. Create an event for nominations on the Discord server, ending one week before the election date.
+2. Update public-facing content to reflect changes in OMI leadership.
+3. Merge different communities within OMI to improve engagement and communication.
+4. Hold strategic conversations with other organizations like OMF and the Linux Foundation.
+5. Design a flyer for the upcoming OMI event on October 30th.
+
+# Timeline of Topics Discussed
+1. Updates from M3
+2. Introduction to Magic
+3. Proposal for pervasive game project
+4. Election process for OMI chairs
+5. Merging different communities within OMI
+6. Strategic conversations with other organizations
+7. Updating public-facing content and improving engagement
+8. Changing meeting cadence or abolishing working groups through a vote
+9. Encouraging suggestions for improvement in OMI processes
+10. Designing a flyer for the upcoming OMI event on October 30th
+
+
+------------------------------
+
+# weekly-meeting 2023-05-24
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group met to discuss various topics related to the metaverse and their ongoing work. They discussed the importance of having a diverse community working on the metaverse, including those with non-IT backgrounds. The group also talked about the upcoming board election for the Metaverse Standards Forum (MSF), and how OMI can contribute to this process.
+
+# Action Items
+1. Update the agenda for the next meeting.
+2. Share the GLTF physics standard comparison document with relevant groups and forums.
+3. Schedule an interview between Ivo and Erin.
+4. Continue working on improving interoperability in the metaverse.
+5. Encourage community members to engage with MSF's GitHub page.
+6. Prepare content for AWE, including a slide about OMI and potentially a portal crawl video.
+
+# Topic Outline
+1. Introduction of new members: IndieBio and Christian from India.
+2. Updates on the board election for MSF.
+3. Discussion on the Open Collective transition.
+4. Presentation of the GLTF physics standard comparison document by Aaron, IndieBio, and Lauren.
+5. Suggestions for improving the presentation and distribution of the document.
+6. Encouragement to engage with MSF's GitHub page.
+7. Discussion on the importance of interoperability in the metaverse.
+8. Sharing content for AWE, including a slide about OMI and potentially a portal crawl video.
+9. Scheduling an interview between Ivo and Erin.
+10. Closing remarks and encouragement to continue working together.
+
+
+------------------------------
+
+# weekly-meeting 2023-11-20
+
+------------------------------
+
+# Section 1: Overall Summary
+The OMI group held their weekly meeting to discuss updates and contribution opportunities for current projects and goals. The main topics discussed were the possibility of adding a second meeting in a different time zone to accommodate members from other regions, working group check-ins, media strategy, website organization, and Discord channel separation. The group also shared ideas on visualizing their knowledge using Obsidian and a 3D data storytelling tool.
+
+# Section 2: Action Items
+1. Test out the idea of adding a second meeting in a different time zone to accommodate members from other regions.
+2. Work on revamping the website and improving its organization.
+3. Determine the minimum bar of organization needed before pushing for membership.
+4. Start publishing tech magazine articles and reposting content from group members on social media channels.
+5. Create accounts on various social media platforms to increase visibility and reach.
+6. Continue discussing ideas on visualizing their knowledge using Obsidian and a 3D data storytelling tool.
+7. Improve the website's learning pages and introduce introductory pages for different working groups.
+8. Separate the Discord channels between OMI and AngelXR to avoid confusion and dilution of the brand.
+9. Start sharing content on social media channels by posting it in the OMI-media channel.
+10. Encourage members to provide feedback and suggestions through GitHub or other communication channels.
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and purpose of the meeting.
+2. Testing out a new day for the meeting (Monday).
+3. Possibility of adding a second meeting in a different time zone.
+4. Working group check-ins.
+5. Media strategy and website organization.
+6. Discussion on visualizing their knowledge using Obsidian and a 3D data storytelling tool.
+7. Sharing ideas and experiences from the group.
+8. Closing remarks and next steps.
+
+# Section 4: Notes
+- The group is focused on building the metaverse, bridging between virtual worlds and real worlds, and promoting protocols for identity, sociographs, inventory, etc.
+- Members include businesses, startups, individuals, and tinkerers working towards a common goal.
+- The meeting serves as a platform for people to discuss updates and contribution opportunities for current projects and goals.
+- The group is open to new members and encourages participation from all interested parties.
+
+
+------------------------------
+
+# weekly-meeting 2023-10-11
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Group Meeting Summary
+The 128th meeting of the OMI group took place on October 11th. The group discussed various topics including working group check-ins, a monthly show and tell event, weekly game nights, collaboration with other organizations, and academic findings. They also shared interesting discoveries from the past week such as Gaussian Splatting in Unity and a hyperfi world called Mario Kart.
+
+## Action Items:
+1. Plan a strategy for sharing content on social media using the official OMI account.
+2. Collaborate with other organizations to strengthen collaboration efforts.
+3. Reach out to potential partners for sponsoring hackathons.
+4. Share interesting discoveries and findings from the past week in the next meeting.
+
+## Topic Outline:
+1. Working Group Check-Ins
+   - GLTF group progress
+   - Media group updates
+2. Monthly Show and Tell Event
+   - Keyframe's crowdfunded launch on October 30th
+   - Virtual venue for the event
+3. Weekly Game Nights
+   - Discussion of a weekly get-together in the virtual world
+4. Collaboration with Other Organizations
+   - Strengthening collaboration efforts with Linux Foundation and OpenMetaverse Foundation
+5. Academic Findings
+   - Research groups working on urban transformation and recycling
+   - Extended reality engagement for 15-minute cities
+6. Interesting Discoveries from the Past Week
+   - Gaussian Splatting in Unity
+   - Hyperfi world called Mario Kart
+
+
+------------------------------
+
+# weekly-meeting 2023-08-16
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group meeting discussed various topics related to metaverse standards, interoperable vehicles, and virtual events. The group agreed on the importance of collaboration between different organizations in the metaverse space. They also emphasized the need for visualization tools like TLDraw and Miro to enhance communication and documentation within the community.
+
+# Action Items
+1. Call for nominations and volunteers for the next election.
+2. Set a date range for the parade.
+3. Record more working group meetings, including GLTF extensions group meetings.
+4. Create templates for virtual events and expo booths.
+5. Establish a process to commission art for the parade float.
+6. Explore the possibility of hosting metaverse salons as an alternative to conferences.
+7. Organize a demo day showcasing in-world demonstrations.
+8. Create a virtual education demo highlighting the potential applications of the technology.
+9. Collaborate with other organizations in the metaverse space.
+10. Consider using ecosystem maps for planning virtual events and expo booths.
+
+# Timeline of Topics Discussed
+- Introduction and overview of OMI group's focus areas.
+- Call for nominations and volunteers for the next election.
+- Discussion on the process of having multiple chairs in the group.
+- Proposal to record more working group meetings, including GLTF extensions group meetings.
+- Idea of using Sketchfab as a platform for showcasing metaverse content.
+- Discussion on the timeline and logistics of the parade idea.
+- Presentation of templates for virtual events and expo booths.
+- Collaboration between OMI and other organizations in the metaverse space.
+- Exploration of using ecosystem maps for planning virtual events and expo booths.
+- Discussion on the importance of visualization tools like TLDraw and Miro.
+- Idea of hosting metaverse salons as an alternative to conferences.
+- Organizing a demo day showcasing in-world demonstrations.
+- Creation of a virtual education demo highlighting the potential applications of the technology.
+
+
+------------------------------
+
+# weekly-meeting 2023-12-13
+
+------------------------------
+
+# Open Metaverse Interoperability Group Meeting Summary
+## Overall Summary
+The 137th meeting of the Open Metaverse Interoperability (OMI) group took place on December 13, 2023. The group discussed various topics such as the last meeting for the year, moving to a new Discord server, setting up a Matrix server, creating an "awesomeness" page to showcase members' work, and organizing their communities within W3C guidelines.
+
+## Action Items
+1. Move to a new Discord server over a period of time (month or more).
+2. Set up a Matrix server to bridge with Discord.
+3. Create an "awesomeness" page showcasing members' work.
+4. Clean up the current Discord server and improve its interface.
+5. Organize their communities within W3C guidelines.
+
+## Topic Outline
+1. Last meeting for the year (December 27, 2023) and resuming on January 3, 2024.
+2. Moving to a new Discord server:
+   - Clean up and improve interface.
+   - Facilitate people to find the new server.
+3. Setting up a Matrix server:
+   - Bridge with Discord for wider audience participation.
+   - Decision made in addition to Discord.
+4. Creating an "awesomeness" page:
+   - Showcase members' work.
+   - Encourage representation from all members.
+5. Organizing communities within W3C guidelines:
+   - No specific guidelines provided by W3C.
+
+## Notes
+- Discord is essential for accessibility and avoiding esoteric meetings.
+- Confusion with the current Discord server's logo and name.
+- Cleanup and maintenance needed for a smoother experience.
+
+
+------------------------------
+
+# weekly-meeting 2023-07-26
+
+------------------------------
+
+# Section 1: Overall Summary
+The Open Metaverse Interoperability (OMI) group held a meeting discussing the upcoming festival, which aims to bring together various virtual worlds through protocols for identity, social graphs, inventory, and more. The group discussed the need for a budget and fundraising efforts, as well as the importance of open source licensing and community engagement. They also touched on the balance between commercial and community aspects in the event.
+
+# Section 2: Action Items
+1. Create a single page summarizing the festival ideas and goals.
+2. Develop a sponsorship deck with participation layers for nonprofit organizations and companies.
+3. Organize monthly live build sessions to engage the community and transfer skill sets across worlds.
+4. Collaborate with other creator groups in different virtual worlds for community building and skill sharing.
+5. Reach out to Burning Man's BRCVR team, Athena, Doug Jacobson, and Brian Kral for potential partnerships.
+6. Explore the possibility of a cross-world parade experience using open standards like GLTF and VRM.
+7. Create an Open Metaverse YouTube playlist to showcase relevant videos and highlight community members.
+
+# Section 3: Topic Outline
+1. Introduction and meeting overview (0:00 - 2:45)
+2. Festival ideas and goals (2:45 - 18:00)
+   a. MSF discussion on GLTF physics (18:00 - 19:30)
+   b. Funding ideas and collaboration with other groups (19:30 - 27:00)
+   c. Balancing commercial and community aspects in the event (27:00 - 34:00)
+3. Discussion on open source licensing and community engagement (34:00 - 45:00)
+4. Collaboration with other virtual worlds and communities (45:00 - 51:00)
+5. Monthly live build sessions for skill sharing and community building (51:00 - 56:00)
+6. Sponsorship deck development and outreach to potential partners (56:00 - 1:03:00)
+7. Cross-world parade experience using open standards (1:03:00 - 1:08:00)
+8. Open Metaverse YouTube playlist creation (1:08:00 - 1:12:00)
+9. Closing remarks and next steps (1:12:00 - 1:15:00)
+
+# Section 4: Notes
+- Jin's mic disconnected during the meeting, but he was able to participate in the chat.
+- The group discussed the importance of open source licensing and community engagement for the upcoming festival.
+- They also touched on the balance between commercial and community aspects in the event, emphasizing the need for collaboration with other virtual worlds and communities.
+- Monthly live build sessions were proposed to engage the community and transfer skill sets across worlds.
+- The group agreed to create a single page summarizing the festival ideas and goals, as well as developing a sponsorship deck with participation layers for nonprofit organizations and companies.
+- Collaboration with Burning Man's BRCVR team, Athena, Doug Jacobson, and Brian Kral was discussed for potential partnerships.
+- The possibility of a cross-world parade experience using open standards like GLTF and VRM was explored.
+- An Open Metaverse YouTube playlist was created to showcase relevant videos and highlight community members.
+
+
+------------------------------
+
+# weekly-meeting 2024-01-17
+
+------------------------------
+
+# Summary
+The OMI group meeting focused on updates from members and their projects. Key points included:
+- HoverFit VR fitness project launched on HeyVR.io
+- RP1 team working on Metaverse project with 100,000 simultaneous users in a space
+- MagicML artificial intelligence development environment for building agents
+- Vergent digital services company building AI agents using MagicML
+- OMI's plans to host an Open Metaverse conference and collaborate with groups like M3
+- Backlog grooming sessions to manage tasks and ensure completion
+- Exploration of bolder standards for the Open Metaverse
+
+# Action Items
+1. Schedule backlog grooming sessions for managing tasks effectively
+2. Encourage members to contribute exploratory content on bolder standards for the Open Metaverse
+3. Plan and organize an Open Metaverse conference with other standards bodies
+4. Collaborate with groups like M3 to create high-quality content and provide a great space for builders
+
+# Timeline of Topics Discussed
+1. Updates from members on their projects (HoverFit, RP1, MagicML, Vergent)
+2. OMI's plans for the year (conference, collaboration with M3)
+3. Backlog grooming sessions to manage tasks effectively
+4. Exploration of bolder standards for the Open Metaverse
+
+# Notes
+- HoverFit VR fitness project launched on HeyVR.io
+- RP1 team working on Metaverse project with 100,000 simultaneous users in a space
+- MagicML artificial intelligence development environment for building agents
+- Vergent digital services company building AI agents using MagicML
+- OMI's plans to host an Open Metaverse conference and collaborate with groups like M3
+- Backlog grooming sessions to manage tasks effectively
+- Exploration of bolder standards for the Open Metaverse
+
+
+------------------------------
+
+# weekly-meeting 2024-01-03
+
+------------------------------
+
+# Section 1: Overall Summary
+The Open Metaverse Interoperability (OMI) group held their weekly meeting, discussing various topics related to their mission of promoting open and interoperable metaverses. They discussed the potential use of Discourse for communication, the need for a new Discord server, and the importance of maintaining brand identity. The group also touched on the possibility of hosting an OMI meeting in the Metaverse and the benefits of using virtual worlds for collaboration. Additionally, they shared updates on demos, projects, and upcoming events such as CES.
+
+# Section 2: Action Items
+1. Set up a new Discord server for testing next week.
+2. Explore different options for communication platforms, including Discourse and Reddit.
+3. Continue working on the OMI website and documentation.
+4. Encourage members to share their demos and projects.
+5. Plan for an OMI meeting in the Metaverse.
+6. Attend CES and explore potential collaborations with other groups.
+7. Discuss publicity strategies and amplify member contributions on social media.
+
+# Section 3: Topic Outline
+1. Introduction to OMI and its mission (0-5 minutes)
+2. Discussion on communication platforms (5-10 minutes)
+3. Decision on a new Discord server (10-15 minutes)
+4. Exploration of virtual worlds for collaboration (15-20 minutes)
+5. Updates on demos, projects, and upcoming events (20-25 minutes)
+6. Publicity strategies and social media amplification (25-30 minutes)
+7. Closing remarks and next steps (30-35 minutes)
+
+# Section 4: Notes
+1. OMI is a collective focused on promoting open and interoperable metaverses.
+2. The group operates in a weekly fashion, with working groups meeting at different intervals.
+3. Discourse was suggested as a potential communication platform for the group.
+4. A new Discord server is being considered to improve brand identity and accessibility.
+5. Virtual worlds may be used for collaboration, but the benefits need to be explored further.
+6. Demos, projects, and upcoming events were shared during the meeting.
+7. Publicity strategies and social media amplification were discussed as a way to increase visibility and engagement.
+
+
+------------------------------
+
+# weekly-meeting 2023-09-13
+
+------------------------------
+
+## Summary
+The Open Metaverse Interoperability (OMI) group discussed the importance of interoperability in the 3D web and the need for virtual conferences during COVID-19. They mentioned that the 3D web consortium has been around for 25 years but never had a virtual conference until forced to do so during the pandemic.
+
+## Action Items
+- Supplement meeting notes with recording or screenshots
+- Explore options for future virtual conferences
+
+## Topics Discussed
+1. Importance of interoperability in the 3D web
+2. The 3D web consortium's history and lack of virtual conferences
+3. Virtual conferences during COVID-19
+
+## Notes
+- Consider using PowerPoint for presentations
+- Explore options for future virtual conferences, including video conferencing and other formats
+
+
+------------------------------
+
+# weekly-meeting Monday
+
+------------------------------
+
+
+------------------------------
+
+# weekly-meeting 2023-05-03
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Meeting Summary
+
+## Overall Summary
+- OMI is a collective of builders, researchers, and human beings working together to design and promote protocols for an open and interoperable metaverse.
+- The group focuses on collaboration, incremental and iterative work with intent, creating something cooperative and sustainable, fostering innovation, empowering implementers, and championing diversity and freedom of choice.
+- Discussion centered around the importance of measuring success by the number of collaborators and implementing protocols rather than just creating them.
+
+## Action Items
+1. Organize a Google sheet to manage logistics for the World Hop event on May 19th, including time slots, world hosts, RSVPs, and capacity limits.
+2. Set up a meeting with the media team to discuss access and delegation of roles.
+3. Implement a starboard system in OMI Discord to promote content and ideas.
+
+## Topics Discussed by Timeline
+1. Introduction and welcome (0-5 minutes)
+2. Recap of OMI's core values and focus on collaboration, incremental work, sustainability, innovation, empowering implementers, and championing diversity (5-15 minutes)
+3. Discussion on measuring success by the number of collaborators and implementing protocols rather than just creating them (15-20 minutes)
+4. Planning for the World Hop event on May 19th, including time slots, world hosts, RSVPs, capacity limits, and potential VR-specific sections (20-35 minutes)
+5. Media team access and delegation of roles (35-40 minutes)
+6. Starboard system implementation in OMI Discord to promote content and ideas (40-45 minutes)
+
+## Notes
+- World Hop event on May 19th, with two time slots: noon PST and either 4 or 5 p.m. PST.
+- Capacity limit of 20 people per section due to performance considerations.
+- RSVP system for the World Hop event to keep track of participants.
+- Starboard system in OMI Discord to promote content and ideas, with one star for champions and two stars for non-champions.
+
+
+------------------------------
+
+# weekly-meeting 2023-08-30
+
+------------------------------
+
+# Open Metaverse Interoperability Group Meeting Summary
+The 122nd weekly meeting of the Open Metaverse Interoperability (OMI) group took place on August 30th. The main topics discussed were:
+- Transcription and summarization of past meetings using Firefly's AI, with transcriptions available for all past Domi calls.
+- Updates on working groups, specifically GLTF, with a focus on increasing participation and collaboration.
+- Discussion about the Metaverse Festival, including brainstorming ideas for a name and branding.
+
+## Action Items:
+1. Continue to work on increasing participation in the GLTF working group by organizing virtual events and collaborating with other communities.
+2. Finalize the name and branding for the Metaverse Festival and start developing flyers, stickers, and other promotional materials.
+3. Encourage all sorts of communities to participate in the Metaverse Festival by providing open-source resources and guidelines.
+4. Set up a vote on the proposed names for the Metaverse Festival in the voting channel.
+5. Explore the possibility of organizing a Plugfest event to accelerate testing of protocols.
+
+## Timeline of Topics Discussed:
+1. Transcription and summarization of past meetings using Firefly's AI.
+2. Updates on working groups, specifically GLTF.
+3. Discussion about the Metaverse Festival, including brainstorming ideas for a name and branding.
+4. Finalizing action items and next steps for each topic discussed.
+
+## Notes:
+- The group is focused on bringing virtual worlds to everyday people by designing and promoting protocols for identity, social graphs, inventory, and more.
+- Members include businesses and individuals with a grassroots focus towards this common goal.
+- GLTF working group needs more participation and collaboration to move forward.
+- Metaverse Festival aims to bring communities together through virtual events and collaborations.
+- The group is open to exploring new ideas and partnerships to accelerate progress in the metaverse space.
+
+
+------------------------------
+
+# weekly-meeting 2023-07-05
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group held a meeting discussing various topics related to interoperability in the metaverse. They discussed the incorporation of MSF into a non-profit industry consortium, the need for faster browsing through past meeting notes, and the importance of knowledge spaces for organizing information. The group also talked about using GitHub discussions for their meetings, creating content in virtual worlds, and exploring the use of AI for collaboration. They discussed the design of virtual working environments and the psychology behind them, as well as the need for a whiteboard or infinite canvas for designing these virtual spaces.
+
+# Action Items
+1. Create a knowledge space 2.0 version using spatial software.
+2. Investigate the Obsidian Canvas and its potential integration with GitHub discussions.
+3. Explore the use of AI for collaboration in virtual worlds.
+4. Set up a whiteboard or infinite canvas for designing virtual spaces.
+5. Continue exploring different ways to represent information spatially.
+6. Attend the GLTF extensions meetup every Thursday at 5:30 p.m. East.
+
+# Timeline of Topics Discussed
+1. Incorporation of MSF into a non-profit industry consortium.
+2. Faster browsing through past meeting notes.
+3. Importance of knowledge spaces for organizing information.
+4. Using GitHub discussions for meetings.
+5. Creating content in virtual worlds.
+6. Exploring the use of AI for collaboration in virtual worlds.
+7. Design of virtual working environments and the psychology behind them.
+8. Need for a whiteboard or infinite canvas for designing virtual spaces.
+9. Different ways to represent information spatially.
+10. Attending the GLTF extensions meetup every Thursday at 5:30 p.m. East.
+
+
+------------------------------
+
+# weekly-meeting 2023-07-19
+
+------------------------------
+
+# Section 1: Overall Summary
+Open Metaverse Interoperability (OMI) group meeting summary. The main topics discussed were the Open Collective, MSF POG status, payments, GitHub Copilot licenses, grants for interoperability research, raising awareness about OMI, potential collaborations with other groups, and ideas for future events and conferences.
+
+# Section 2: Action Items
+1. Follow up with Open Collective regarding the conversion to a 501c3 provisional sponsor.
+2. Coordinate with FHIR to ensure payments are made annually for tools.
+3. Organize hackathons, open demos, and other events to raise awareness about OMI.
+4. Collaborate with other groups such as XR Women, AWE, Hyper-Fi, and others to align forces and build momentum.
+5. Plan a large event in October 2024 that combines virtual and physical components, focusing on digital citizenship and public spheres.
+6. Encourage members to create videos showcasing their work using OMI protocols.
+7. Implement OMI protocols within personal projects and platforms to demonstrate the benefits of interoperability.
+8. Continue experimenting with different tools and APIs for building assets in virtual worlds.
+9. Create a page on the website outlining the upcoming events, including the large event in October 2024.
+
+# Section 3: Timeline of Topics Discussed
+1. Open Collective conversion to a 501c3 provisional sponsor
+2. MSF POG status approval
+3. Payments for tools and services
+4. GitHub Copilot licenses
+5. Grants for interoperability research
+6. Raising awareness about OMI through events and collaborations
+7. Planning a large event in October 2024
+8. Encouraging members to create videos showcasing their work using OMI protocols
+9. Implementing OMI protocols within personal projects and platforms
+10. Experimenting with different tools and APIs for building assets in virtual worlds
+
+# Section 4: Notes
+- Discussed the possibility of organizing a hackathon or open demo day showcase to raise awareness about OMI.
+- Considered associating events with larger conferences to build momentum and reach wider audiences.
+- Idea for a large event in October 2024, focusing on digital citizenship and public spheres, with both virtual and physical components.
+- Encouraged members to create videos showcasing their work using OMI protocols.
+- Discussed the importance of implementing OMI protocols within personal projects and platforms to demonstrate the benefits of interoperability.
+- Emphasized the need for experimentation with different tools and APIs for building assets in virtual worlds.
+
+
+------------------------------
+
+# weekly-meeting 2024-02-21
+
+------------------------------
+
+## Summary
+The OMI group meeting focused on discussing a demo and a new website mock-up. The demo was created by Mr. Metaverse but needed some fixing before being shown to the group. It was suggested that they have a general catch-up while TommyCost sets up his demo. The new website mock-up, created by MTV, was also discussed, with the group agreeing that it should be voted on as a communal feedback step rather than a blocker.
+
+## Action items
+1. Fix the demo before showing it to the group.
+2. Vote on the new website mock-up as a communal feedback step.
+3. Decide whether to show the demo this week or next week.
+
+## Topics discussed
+- Demo created by Mr. Metaverse, needs fixing
+- General catch-up while TommyCost sets up his demo
+- New website mock-up created by MTV, should be voted on as a communal feedback step
+- Decision to show the demo this week or next week
+
+## Notes
+- Mr. Metaverse's demo may be broken and needs fixing before showing it to the group
+- The new website mock-up should be voted on as a communal feedback step, not as a blocker
+
+
+------------------------------
+
+# weekly-meeting 2023-09-20
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group held their meeting number 125, where they discussed various topics related to the metaverse and interoperability. They talked about the upcoming MetaTroversal portal crawl, encouraging members to get involved or support it. The group also touched on ways to make more connections with potential implementers and emphasized the importance of having implementers for their protocols to advance.
+
+# Action Items
+1. Encourage people to attend the upcoming MetaTroversal portal crawl.
+2. Create a coherent paragraph about OMI's goals and why people should get involved.
+3. Identify five speakers for the Demo Day on September 30th, focusing on interoperable physics.
+4. Organize a campfire chat after the Demo Day for further discussion.
+5. Set up a virtual world with a campfire to serve as a home for future discussions related to interoperable physics.
+6. Explore using HyperFi and Hubs for their meetings and events.
+
+# Topics Discussed
+1. MetaTroversal portal crawl
+2. Encouraging implementers
+3. Working group updates (GLTF, OMI Media Group)
+4. Festival name and date (Omifest on September 30th, 2023)
+5. Mini events for the festival
+6. Demo Day planning (interoperable physics focus)
+7. Campfire chat after the Demo Day
+8. Virtual world setup with a campfire for future discussions
+
+
+------------------------------
+
+# weekly-meeting 2023-12-20
+
+------------------------------
+
+## Section 1: Overall Summary and Key Points
+
+The Open Metaverse Interoperability (OMI) group held a meeting to discuss their progress and future plans. The group acknowledged that there has been less hype around the metaverse recently, but they remain committed to promoting interoperability and open standards. They discussed the importance of showcasing the benefits of open metaverse interoperability through content creation and collaboration with other organizations.
+
+The group also touched on the challenges of managing finances for their organization and explored potential partnerships with other groups, such as the Linux Foundation Europe. They emphasized the need to maintain a balance between being open source advocates and working with commercial entities that can support their goals.
+
+## Section 2: Action Items Discussed
+
+1. Create a list of people at W3C who have signed up to be part of OMI over the last two and a half years, unify streams of supporters, and update their W3C presence.
+2. Pump out short blogs recapping the origin story of OMI, announcing new Discord or Matrix servers, and discussing plans for a Metaverse conference in 2024.
+3. Explore potential partnerships with other organizations to manage finances and provide European representation.
+4. Collaborate with other standards bodies, such as OMA3, to create a map of existing technologies within the organization and promote interoperability.
+5. Continue hosting weekly meetings and encourage participation from all members.
+
+## Section 3: Timeline-Based Outline
+
+1. Introduction and agenda review (0:00 - 2:45)
+2. Discussion on current state of the metaverse and challenges faced by OMI (2:45 - 8:15)
+3. Exploration of potential partnerships with other organizations, such as Linux Foundation Europe (8:15 - 16:00)
+4. Discussion on managing finances for OMI and the importance of open source advocacy (16:00 - 23:00)
+5. Collaboration with other standards bodies, such as OMA3, to promote interoperability (23:00 - 28:45)
+6. Recap of action items and future plans for OMI (28:45 - 31:00)
+7. Closing remarks and next steps (31:00 - 32:00)
+
+
+------------------------------
+
+# weekly-meeting 2024-04-24
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+- Meeting of the Open Metaverse Interoperability (OMI) group
+- Discussion on various topics including Webby Awards, Linux Foundation survey, potential partnerships, hackathons, and more.
+- Focus on collaboration, sharing ideas, and exploring new opportunities within the metaverse community.
+
+# Section 2: Action Items
+1. Explore ways to link up with the Linux Foundation for funding and collaborations.
+2. Investigate the possibility of hosting a hackathon to practice interview skills and lightning talks.
+3. Collaborate with existing initiatives like Keyframe's Virtual Worlds Museum and the Spatial Web IEEE group.
+4. Discuss potential ways to share information morsels in a more interactive and visual manner.
+5. Consider using RSS feeds as a way to represent collections of recent feed items in a 3D environment.
+6. Continue exploring new ideas and opportunities within the metaverse community.
+
+# Section 3: Timeline-Based Topics Discussed
+1. Webby Awards in the Metaverse category
+2. Linux Foundation survey for open source projects
+3. Potential partnerships with industrial partners
+4. Collaboration with Keyframe's Virtual Worlds Museum and Spatial Web IEEE group
+5. Exploring ways to share information morsels in a more interactive and visual manner
+6. Discussion on hackathons, lightning talks, and interview skills
+7. Ideas for creating a guided camera experience for exploring 3D environments
+8. Sharing ideas and opportunities within the metaverse community
+
+# Section 4: Notes
+- Interesting quote from the meeting: "We don't feel ownership over something that we have to do something; we're about connecting different groups together and sharing ideas across groups."
+- Discussion on using RSS feeds as a way to represent collections of recent feed items in a 3D environment.
+- Exploration of creating a guided camera experience for exploring 3D environments.
+
+
+------------------------------
+
+# weekly-meeting 2023-11-15
+
+------------------------------
+
+# Summary
+The 133rd meeting of the Open Metaverse Interoperability (OMI) group focused on discussing updates and contribution opportunities. The main topics covered were changing the day of the meeting, GLTF working group updates, media strategy, and events. Participants shared their reasons for being involved in OMI and discussed ways to improve the group's effectiveness.
+
+# Action Items
+1. Update the calendar with the new meeting time on Mondays at 4 PM UTC.
+2. Create a standard pitch for GLTF explaining its purpose and benefits.
+3. Establish regular meetings for the Prozacal channel working group.
+4. Develop a project page for the Teleport Protocol.
+5. Explore ways to encourage more participation in building events and virtual worlds.
+6. Consider hosting monthly sessions as a regular occurrence.
+
+# Topics Discussed by Timeline
+1. Changing the meeting day: The group decided to change the meeting day from Wednesday to Monday at 4 PM UTC.
+2. GLTF working group updates: Not much progress has been made recently, but more people are encouraged to join and contribute.
+3. Media strategy: Discussed the importance of sharing accomplishments and energizing the community through events and media.
+4. Events: Participants shared their reasons for being involved in OMI and discussed ways to improve the group's effectiveness in organizing events and virtual worlds.
+5. Prozacal channel working group: Established regular meetings for this group.
+6. Teleport Protocol project page: Developed a project page for the Teleport Protocol.
+7. Standard pitch for GLTF: Created a standard pitch explaining its purpose and benefits.
+8. Encouraging participation in building events and virtual worlds: Explored ways to encourage more participation in these areas.
+9. Monthly sessions: Considered hosting monthly sessions as a regular occurrence.
+
+
+------------------------------
+
+# weekly-meeting 2022-08-17
+
+------------------------------
+
+## Meeting Summary
+- OMI group members discuss interoperability issues within the metaverse.
+- Delegates are praised for their active participation and engagement.
+
+### Key Points
+1. Discussion on the challenges of achieving interoperability between different metaverses.
+2. Emphasis on the importance of collaboration and communication among developers, companies, and users.
+3. Recognition of the need to establish standards and guidelines for interoperability.
+4. Acknowledgment of the ongoing efforts by various organizations in this field.
+5. Encouragement for continued engagement and participation from all stakeholders.
+
+### Action Items
+- Establish a working group to develop interoperability standards and guidelines.
+- Organize regular meetings with representatives from different metaverses.
+- Create an online platform for sharing resources, best practices, and updates on interoperability progress.
+
+### Timeline of Topics Discussed
+1. Introduction and welcome (5 minutes)
+2. Overview of the OMI group's mission and goals (10 minutes)
+3. Challenges in achieving metaverse interoperability (20 minutes)
+4. Collaboration and communication among stakeholders (15 minutes)
+5. Establishing standards and guidelines for interoperability (10 minutes)
+6. Ongoing efforts by organizations in this field (10 minutes)
+7. Conclusion and next steps (5 minutes)
+
+### Notes
+- Delegates are encouraged to share their experiences and insights on interoperability challenges.
+- The importance of user feedback and input is emphasized.
+- Discussion on potential partnerships with other organizations working on similar projects.
+
+
+------------------------------
+
+# weekly-meeting 2023-09-27
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group held their 126th meeting, discussing various topics related to the metaverse and open standards. They emphasized the importance of collaboration and shared goals, while acknowledging the challenges of maintaining momentum in a rapidly evolving field. The group also discussed the need for adopters and implementers to contribute to the development of open standards.
+
+# Action Items
+1. Plan an event for this Saturday, possibly inviting Nova to present an update on his work.
+2. Create a process for cross-posting content from members' blogs, YouTube channels, and other platforms.
+3. Update the OMI website to link to the demo day and add media meetings to the Discord calendar.
+4. Establish a media work group that meets once a month to discuss and coordinate content creation efforts.
+
+# Topics Discussed
+1. Introduction of new members and reintroduction of familiar faces.
+2. Progress in the metaverse, including advancements in technology and adoption of open standards.
+3. Importance of managing expectations and celebrating small accomplishments.
+4. Role of hobbyists, tinkerers, and individuals in contributing to the development of open standards.
+5. Idea of having watch parties for events like MetaConnect and Babylon GA sessions discussing GLTF extensions.
+6. Utilizing platforms like HyperFi for hosting virtual events and movie nights.
+7. Encouraging members to share their content on OMI's media channels, such as YouTube playlists and blog posts.
+8. Simplifying the process of cross-posting content from member platforms.
+9. Establishing an FAQ section on the OMI website or GitHub for answering common questions about contributing content.
+
+
+------------------------------
+
+# weekly-meeting 2023-10-25
+
+------------------------------
+
+# Open Metaverse Interoperability (OMI) Meeting Summary
+## Introduction
+The meeting started with introductions from the attendees, discussing their backgrounds and interests in the metaverse. The group emphasized the importance of collaboration and interoperability among different platforms and technologies.
+
+## Action Items
+- Create a plan to improve communication and marketing efforts for OMI.
+- Schedule regular meetings for the media group and other subgroups.
+- Set up a process for submitting proposed protocols or specifications.
+- Encourage more people to participate in the GLTF extensions group.
+- Split the weekly meeting into two parts: one for technical discussions and another for community building and touchy-feely topics.
+
+## Topics Discussed
+1. **Scope of OMI**: The group discussed the broad scope of OMI, including standards for various aspects of the metaverse such as avatars, networking, and asset interoperability. They acknowledged the need to communicate this clearly to potential members and collaborators.
+2. **GLTF Extensions Group**: Aaron shared his experience with discussing GLTF extensions with Ash from Hyperfi. The group agreed on the importance of having a forum for people to share their concerns and suggestions about implementing these extensions.
+3. **Media Strategy**: Medical Act discussed the need for a more coordinated media strategy, including identifying social media platforms to use and scheduling regular meetings for the media group.
+4. **Demo Sharing**: IndieBio shared a demo of his project, which allows users to scan their physical spaces and create multiplayer environments in WebGL or HoloLens. The group provided feedback on potential uses and improvements for this technology.
+5. **Future Meetings**: The group agreed to schedule regular meetings for the media group and other subgroups, as well as splitting the weekly meeting into two parts: one for technical discussions and another for community building and touchy-feely topics.
+
+## Notes
+- OMI is a collaborative gathering of people who believe in an interoperable and open metaverse.
+- The group aims to create standards for various aspects of the metaverse, including avatars, networking, and asset interoperability.
+- Communication and marketing efforts need improvement to attract more members and collaborators.
+- Regular meetings should be scheduled for the media group and other subgroups.
+- A process should be set up for submitting proposed protocols or specifications.
+- The GLTF extensions group needs a forum for people to share their concerns and suggestions about implementing these extensions.
+- A more coordinated media strategy is needed, including identifying social media platforms to use and scheduling regular meetings for the media group.
+
+
+------------------------------
+
+# weekly-meeting 2023-09-06
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+The OMI group held a weekly meeting, discussing various topics related to their work on interoperability in the metaverse. The main focus was on creating a festival that would showcase the group's progress and involve the community in monthly events. They also discussed the importance of openness and collaboration with other standards groups.
+
+# Section 2: Action Items Discussed
+1. Create a thread in OMI Experiments for brainstorming event ideas.
+2. Start planning monthly events, such as hackathons or workshops, to build community engagement.
+3. Identify prominent personalities or academics who could contribute to the festival and its events.
+4. Explore different virtual platforms that can be used for the festival and its events.
+5. Continue collaborating with other standards groups to promote interoperability in the metaverse.
+
+# Section 3: Timeline of Topics Discussed
+1. Shout outs and fresh voices in the group.
+2. Open Collective approval and onboarding process.
+3. Election conversation and accountability within the group.
+4. Increasing capacity and engaging more people in the group's work.
+5. Promoting open protocols and standards.
+6. Showcasing implementations of OMI protocols.
+7. Mapping efforts and interoperability between virtual worlds.
+8. Public-facing blog or website to keep the community informed.
+9. Incremental progress and milestones for ongoing projects.
+10. Virtual hackathons and events as part of the festival.
+11. Choosing a venue for the festival and its events.
+12. Collaborating with other virtual platforms and communities.
+13. Promoting the festival and its events to a wider audience.
+
+# Section 4: Notes
+- The group discussed the importance of openness and collaboration with other standards groups, such as Microsoft's Metaverse Standards Forum (MSF).
+- They emphasized the need for incremental progress and milestones in their ongoing projects to showcase their work.
+- The group brainstormed ideas for monthly events, such as hackathons or workshops, to build community engagement and promote interoperability in the metaverse.
+- They explored different virtual platforms that could be used for the festival and its events, including OpenSimulator, Hyperfire, and WebXR-based platforms.
+- The group also discussed the possibility of incorporating live broadcasts from individual groups into the main event to showcase their work.
+
+
+------------------------------
+
+# weekly-meeting 2024-05-01
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group held their meeting discussing various topics related to metaverse interoperability and open protocols. They discussed the possibility of collaborating with other organizations, such as MSF and an open metaverse research group. The team also talked about ongoing conversations, working group check-ins, and demos. They mentioned the importance of gamifying their work and creating a bounty board to incentivize integration. Additionally, they discussed the need for better organization and management of their resources, including raw meeting recordings.
+
+# Action Items
+1. Reach out to Mike Lowry from the open metaverse research group (OMRG) to explore collaboration opportunities.
+2. Plan a hackathon to practice end-to-end production and editing of content.
+3. Schedule a date for a small, intimate group meeting in VR or Discord.
+4. Write three GitHub discussions to explore potential collaborative learning using the virtual museum.
+5. Create a bounty board to incentivize integration of OMI extensions.
+6. Improve organization and management of raw meeting recordings.
+7. Prepare for lightning talks by transcribing recorded meetings or interviews into textual format.
+8. Plan a date for the Virtual Worlds Museum hackathon.
+9. Collaborate with Gary to help build hubs for the museum.
+10. Create an exhibit of discontinued virtual platforms, such as alt spaces and Mozilla hubs.
+
+# Timeline Outline
+1. Introduction and overview of OMI
+2. Discussion on collaboration opportunities with MSF and OMRG
+3. Working group check-ins: media, GLTF extensions, MSF working group
+4. Demos and ongoing conversations
+5. Lightning talk prep hackathon planning
+6. Virtual Worlds Museum update
+7. Closing comments and next steps
+
+# Notes
+- Discussed the possibility of collaborating with other organizations like MSF and OMRG
+- Talked about ongoing conversations, working group check-ins, and demos
+- Emphasized the importance of gamifying their work and creating a bounty board to incentivize integration
+- Discussed the need for better organization and management of raw meeting recordings
+- Planned a hackathon to practice end-to-end production and editing of content
+- Scheduled a date for a small, intimate group meeting in VR or Discord
+- Wrote three GitHub discussions to explore potential collaborative learning using the virtual museum
+- Created a bounty board to incentivize integration of OMI extensions
+- Improved organization and management of raw meeting recordings
+- Prepared for lightning talks by transcribing recorded meetings or interviews into textual format
+- Planned a date for the Virtual Worlds Museum hackathon
+- Collaborated with Gary to help build hubs for the museum
+- Created an exhibit of discontinued virtual platforms, such as alt spaces and Mozilla hubs
+
+
+------------------------------
+
+# weekly-meeting 2023-08-23
+
+------------------------------
+
+# Open Metaverse Interoperability Group Meeting Summary
+
+The Open Metaverse Interoperability (OMI) group held their 121st meeting to discuss various topics related to the metaverse and virtual worlds. The main points discussed were:
+
+- Introduction and focus of OMI: The group is focused on bridging virtual worlds, designing protocols for identity, social graphs, inventory, and more. They are excited about showcasing augmented or cross-reality (XR) and planning a big Metaverse festival in October 2024.
+
+## Action Items
+
+1. Get in touch with Evo to find out if they know anyone from the virtual burners who participated in the 2020 multiverse initiative.
+2. Set a date range for the Metaverse Festival, with a preference for mid-October next year (2024).
+3. Research online communities that bring together XR developers from different projects to share their work on in-world events.
+4. Decide whether to host an event in a virtual world or use WebXR for more interoperability.
+
+## Topics Discussed by Timeline
+
+1. Virtual Burners and 2020 Multiverse Initiative: The group wants to learn from the virtual burners' experience with their online event during the pandemic. They plan to collaborate with them, create content for OMI, and share it on various platforms like YouTube, Twitter, Reddit, Discord, Mastodon, etc.
+2. Metaverse Festival Date: The group prefers mid-October next year (2024) for the festival, but they are open to suggestions. They want to avoid summer months when people travel and have difficulty attending events.
+3. Online Communities for XR Developers: The group is interested in finding other online communities that bring together developers from different projects to share their work on in-world events. They suggest reaching out to the Metatraversal group, which has hosted multi-platform events virtually.
+4. Virtual Worlds vs. WebXR: The group discusses whether to host an event in a virtual world (OpenSim) or use WebXR for more interoperability. They believe that WebXR may be more aligned with OMI's goals due to its focus on the web and compatibility with various platforms.
+
+## Notes
+
+- OpenSim is an open source virtual world platform that allows users to host their own servers, teleport between different worlds, and create content for other virtual worlds. It is not VR capable at this time but has potential for future interoperability.
+- WebXR monthly meetups and M3 are examples of online communities where developers from different projects come together to share their work on in-world events.
+- Metatraversal is another group that hosts multi-platform events virtually, showcasing various worlds collectively and hopping between them.
+
+
+------------------------------
+
+# weekly-meeting 2023-07-12
+
+------------------------------
+
+# Section 1: Overall Summary
+* OMI group meeting, July 12th, 2023
+* Discussion on Open Collective and fiscal sponsorship
+* Updates on GitHub Copilot business accounts for dedicated OMI volunteers
+* Proposal to create a grant or align with a grant that could help Boombox Heads as a case study
+* Demos of Godot GLTF export settings dialog and Hyper-Fi world prototype
+
+# Section 2: Action Items
+1. Set up GitHub Copilot business accounts for dedicated OMI volunteers
+2. Create a proposal for a grant or collaboration with Boombox Heads
+3. Continue working on the Godot GLTF export settings dialog and Hyper-Fi world prototype
+4. Improve community engagement and incentivize contributions through grants and hackathons
+5. Document ideas discussed during the meeting, including the OMI experiment idea
+6. Create a more visual representation of interconnected notes for easier understanding
+7. Add music or ambience to the Hyper-Fi world prototype
+8. Continue working on co-working space inspiration for collaboration visualization
+9. Improve the agenda creation process in advance for demos
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and recap of OMI group's purpose and goals
+2. Updates on Open Collective and fiscal sponsorship status
+3. Discussion on GitHub Copilot business accounts for dedicated OMI volunteers
+4. Proposal to create a grant or align with a grant that could help Boombox Heads as a case study
+5. Demos of Godot GLTF export settings dialog and Hyper-Fi world prototype
+6. Continued work on the OMI experiment idea and visual representation of notes
+7. Discussion on community engagement and incentivizing contributions through grants and hackathons
+8. Ideas for co-working space inspiration for collaboration visualization
+9. Improvement in agenda creation process for demos
+
+# Section 4: Notes
+* Boombox Heads working on an open source project, funded by art sales
+* Need to find ways to raise funding for research and development
+* Discussion on types of grants that could be pursued
+* Proposal to create a grant or align with a grant that could help Boombox Heads as a case study
+* Idea to incentivize contributions through grants and hackathons
+* Documentation of ideas discussed during the meeting, including the OMI experiment idea
+* Continued work on the Godot GLTF export settings dialog and Hyper-Fi world prototype
+* Discussion on community engagement and incentivizing contributions through grants and hackathons
+* Ideas for co-working space inspiration for collaboration visualization
+* Improvement in agenda creation process for demos
+
+
+------------------------------
+
+# champions-meeting 2023-08-04
+
+------------------------------
+
+# Summary
+The OMI group discussed the recording and transcription of their meetings using various tools such as Fireflies and MeSeek. They also talked about the future of OMI, electing new chairs, and updating members on recent progress. The group decided to take notes during the meeting and share them in the hack MD.
+
+# Action Items
+1. Try different transcription tools for recording meetings.
+2. Discuss the future of OMI and potential elections for new chairs.
+3. Share updates from Robert with the group.
+4. Take notes during the meeting and share them in the hack MD.
+
+# Topics Discussed
+- Recording and transcribing meetings using Fireflies, MeSeek, and other tools.
+- Future of OMI and potential elections for new chairs.
+- Updates from Robert.
+- Sharing notes in the hack MD.
+
+# Notes
+- The group decided to try different transcription tools for recording their meetings.
+- They discussed the future of OMI and whether or not to restructure it.
+- Updates from Robert were shared with the group.
+- Members took notes during the meeting and shared them in the hack MD.
+
+
+------------------------------
+
+# champions-meeting Friday
+
+------------------------------
+
+# OMI Group Meeting Summary
+## Overall Summary
+The OMI group discussed the progress on interoperability standards, updates on the latest developments in metaverse platforms, and potential collaborations with other organizations. They also identified action items for future meetings.
+
+## Action Items
+1. Conduct a survey to gather feedback from developers on current interoperability standards.
+2. Reach out to other industry groups to explore potential partnerships.
+3. Schedule a meeting with the Metaverse Standards Forum (MSF) to discuss collaboration opportunities.
+4. Create a roadmap for future OMI
+
+
+------------------------------
+
+# champions-meeting 2023-07-07
+
+------------------------------
+
+# Summary
+The OMI group had a meeting to discuss and improve their documentation, focusing on creating a new welcome screen for their GitHub page. They also discussed the need to update their Open Collective account and transition from a C6 to a C3 fiscal sponsorship. The group decided to create a simpler landing page with clear instructions on how to get involved with OMI's protocols and integrations.
+
+# Action Items
+1. Update GitHub welcome screen with new design and content.
+2. Create a new Open Collective account for OMI.
+3. Transition from C6 to C3 fiscal sponsorship.
+4. Improve documentation and make it more user-friendly.
+5. Update the Open Collective account monthly receipts.
+
+# Topics Discussed
+1. Welcome screen design and content.
+2. Open Collective account update and transition.
+3. C6 to C3 fiscal sponsorship transition.
+4. Documentation improvement and user-friendliness.
+5. Monthly receipts for the Open Collective account.
+
+# Notes
+1. OMI group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more.
+2. The group aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
+3. OMI is always seeking implementers and collaborators in their working groups.
+4. The group encourages people to get involved with their community or otherwise contribute.
+
+
+------------------------------
+
+# gltf-extensions 2024-02-22
+
+------------------------------
+
+## Summary
+The OMI group discussed integrating concepts like seats and spawn points into Bevy, a game engine. They considered creating a separate crate for these features or including them in the base crate. The group also discussed the possibility of having an "OMI miscreants" crate for small features that don't fit other broad categories.
+
+## Action Items
+- Create a third party crate for spawn point and seat concepts
+- Consider creating an "OMI miscreants" crate for small, non-categorized features
+
+## Topics Discussed
+1. Integrating seats and spawn points into Bevy
+2. Creating a separate crate or including them in the base crate
+3. Providing helper functions within the library
+
+## Notes
+- Spawn points can be easily integrated by creating a component for them and adding it to the scene
+- Seats can also be integrated similarly, with a component for each seat
+- Multiple implementations of these features can be supported through third-party libraries
+
+
+------------------------------
+
+# gltf-extensions 2023-10-26
+
+------------------------------
+
+**Section 1: Overall Summary**
+- Discussion about adding a UID extension to GLTF files to preserve node identities during import and export processes in game engines.
+- Concerns raised about the need for industry-wide adoption of such an extension, as well as potential conflicts with existing standards like KHR XMP JSON-LD.
+- Discussion on the benefits of having a UID system in place, including improved workflow efficiency and better data preservation between applications.
+- Concerns about the complexity of implementing such an extension across different game engines and DCC tools.
+- Suggestion to create an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+- Discussion on the need for more diverse voices in the group to ensure a well-rounded standard is developed.
+
+**Section 2: Action Items**
+1. Continue discussing the UID extension proposal and its potential benefits and drawbacks.
+2. Explore the possibility of creating an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+3. Reach out to industry experts in audio design for input on developing a PBR-style system for audio materials.
+4. Encourage more diverse voices and perspectives within the group to ensure a well-rounded standard is developed.
+5. Investigate the feasibility of inter-extension dependencies in Kronos for future extensions.
+6. Consider the possibility of procedurally generating audio properties based on material definitions in game engines.
+7. Explore potential collaborations with Pixar or other industry leaders to develop a standardized approach to audio materials and interactions.
+8. Continue discussing the UID extension proposal and its potential benefits and drawbacks.
+
+**Section 3: Timeline of Topics Discussed**
+1. Introduction and overview of the meeting agenda.
+2. Discussion on the need for a UID extension in GLTF files to preserve node identities during import and export processes in game engines.
+3. Concerns raised about potential conflicts with existing standards like KHR XMP JSON-LD.
+4. Benefits of having a UID system in place, including improved workflow efficiency and better data preservation between applications.
+5. Complexity of implementing such an extension across different game engines and DCC tools.
+6. Suggestion to create an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+7. Reach out to industry experts in audio design for input on developing a PBR-style system for audio materials.
+8. Encourage more diverse voices and perspectives within the group to ensure a well-rounded standard is developed.
+9. Investigate the feasibility of inter-extension dependencies in Kronos for future extensions.
+10. Consider the possibility of procedurally generating audio properties based on material definitions in game engines.
+11. Explore potential collaborations with Pixar or other industry leaders to develop a standardized approach to audio materials and interactions.
+12. Continued discussion on the UID extension proposal and its potential benefits and drawbacks.
+
+**Section 4: Notes**
+- Discussion on the need for a UID extension in GLTF files to preserve node identities during import and export processes in game engines.
+- Concerns raised about potential conflicts with existing standards like KHR XMP JSON-LD.
+- Benefits of having a UID system in place, including improved workflow efficiency and better data preservation between applications.
+- Complexity of implementing such an extension across different game engines and DCC tools.
+- Suggestion to create an OMI extension with the Godot namespace as a starting point, which could later be renamed to Chronos.
+- Reach out to industry experts in audio design for input on developing a PBR-style system for audio materials.
+- Encourage more diverse voices and perspectives within the group to ensure a well-rounded standard is developed.
+- Investigate the feasibility of inter-extension dependencies in Kronos for future extensions.
+- Consider the possibility of procedurally generating audio properties based on material definitions in game engines.
+- Explore potential collaborations with Pixar or other industry leaders to develop a standardized approach to audio materials and interactions.
+- Continued discussion on the UID extension proposal and its potential benefits and drawbacks.
+
+
+------------------------------
+
+# gltf-extensions 2024-01-18
+
+------------------------------
+
+**Section 1: Overall Summary**
+- Discussion on audio and physics extensions in OMI group meeting
+- Booleans versus string enums for iskinematic property
+- Implementation specifics of physics extensions
+- Joints as a separate extension or part of the base spec
+- Differences between Microsoft and OME specs
+- Static bodies and their representation across engines
+- Grouping events in static bodies
+- Audio MIME types and their discussion
+
+**Section 2: Action Items**
+1. Review and merge PR for Wave audio extension
+2. Update GLTF readme with new audio MIME type
+3. Create a PR against the Kronos audio repository for Cager Audio
+4. Link to OMI discussion for joints and iskinematic property
+5. Discuss and decide on static bodies representation in future specs
+6. Translate Wikipedia page to Simple English
+
+**Section 3: Timeline of Topics Discussed**
+1. Booleans versus string enums for iskinematic property
+2. Implementation specifics of physics extensions
+3. Joints as a separate extension or part of the base spec
+4. Differences between Microsoft and OME specs
+5. Static bodies and their representation across engines
+6. Grouping events in static bodies
+7. Audio MIME types and their discussion
+8. Review and merge PR for Wave audio extension
+9. Update GLTF readme with new audio MIME type
+10. Create a PR against the Kronos audio repository for Cager Audio
+11. Link to OMI discussion for joints and iskinematic property
+12. Discuss and decide on static bodies representation in future specs
+13. Translate Wikipedia page to Simple English
+
+**Section 4: Notes**
+- Aaron's character controller implementation using kinematic and fixed body types
+- IndieBio's Oh My Champion role and its purpose
+- Simple English translation of the GLTF Wikipedia page
+
+
+------------------------------
+
+# gltf-extensions 2023-12-07
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+
+The meeting discussed three issues related to the physics extension in GLTF. The first issue was about static body representation, which is related to the Owen physics spec's kinematic Boolean. The second issue was about trigger object grouping, and the third issue was about tapered capsules and cones. The main concerns were data loss when exporting and importing scenes with static bodies, the need for explicit flags for triggers in some engines, and the potential complexity of implementing certain shapes as convex hulls.
+
+# Section 2: Action Items
+
+1. Investigate the impact of having a static body type on performance and data loss when exporting and importing scenes.
+2. Explore alternative solutions for representing trigger objects in GLTF, such as using explicit flags or grouping collision shapes.
+3. Evaluate the feasibility of implementing tapered capsules and cones as convex hulls in GLTF.
+4. Consider the potential benefits and drawbacks of adding these features to the GLTF specification.
+5. Discuss with other interested parties at Kronos about their opinions on these issues.
+6. Prepare a response for the discussion points raised during the meeting.
+7. Address any concerns or issues related to the new version of Blender and its impact on workflows.
+8. Explore potential solutions for showing bone orientations in GLTF files, such as using axes or modifying existing features.
+9. Investigate how to add all the bots that were done during the meeting.
+
+# Section 3: Timeline of Topics Discussed
+
+1. Introduction and overview of the meeting's topics.
+2. Static body representation and its impact on performance and data loss.
+3. Trigger object grouping and its implications for scripting engines.
+4. Tapered capsules and cones as GLTF features and their potential complexity.
+5. Discussion about the new version of Blender and its impact on workflows.
+6. Addressing concerns related to bone export in GLTF files.
+7. Exploring solutions for showing bone orientations in GLTF files.
+8. Investigating how to add all the bots that were done during the meeting.
+9. Closing remarks and next steps.
+
+# Section 4: Notes
+
+1. The static body representation issue is related to the Owen physics spec's kinematic Boolean.
+2. Trigger object grouping is a feature in some engines, but not all.
+3. Tapered capsules and cones are less common features that can be emulated as convex hulls.
+4. The new version of Blender has added icospheres to represent bones, which have been buggy and difficult to see.
+5. Bone export in GLTF files has changed in recent versions of Blender, with spheres now being rendered by default.
+
+
+------------------------------
+
+# gltf-extensions 2023-08-24
+
+------------------------------
+
+# Summary
+The Open Metaverse Interoperability (OMI) group meeting discussed various topics related to VR, avatars, and interoperability between different platforms. Key points included:
+- Discussion on using Simply Gone plugin for optimizing LODs in Unity and Godot.
+- Comparison of Blender with other tools like O3DE and Roblox Studio.
+- Exploration of the potential use of USD in the metaverse, specifically in relation to character interoperability.
+- Discussion on creating an AI Omi-chan to assist with documentation and collaboration efforts.
+- Review of action items and progress made since previous meetings.
+
+# Action Items
+1. Sync up KHR audio with the Kronos PR.
+2. Add examples for GLTF extensions.
+3. Explore the possibilities for incorporating live data into documents.
+4. Create a booth for the OMI group at an upcoming event.
+
+# Topic Outline
+1. Simply Gone plugin and LOD optimization in Unity and Godot.
+2. Comparison of Blender with other tools like O3DE and Roblox Studio.
+3. Exploration of the potential use of USD in the metaverse, specifically in relation to character interoperability.
+4. Discussion on creating an AI Omi-chan to assist with documentation and collaboration efforts.
+5. Review of action items and progress made since previous meetings.
+6. Creating a booth for the OMI group at an upcoming event.
+
+
+------------------------------
+
+# gltf-extensions 2023-08-31
+
+------------------------------
+
+# Summary
+The OMI GLTF working group met to discuss the development of their own spec alongside Microsoft's. The main points of discussion were the importance of open standards, the need for collaboration and feedback from different engines, and the challenges of implementing interoperable formats. They also discussed strategies for moving faster in working groups and ensuring progress.
+
+# Action Items
+1. Continue working on the audio specification.
+2. Open an issue to discuss the naming convention for KHR physics extensions.
+3. Attend Kronos meetings to influence decisions.
+4. Implement a testing technique similar to UFBX's verification procedure for GLTF files.
+5. Plan to have a great September for progress in the group.
+
+# Topics Discussed
+1. Importance of open standards and interoperability.
+2. Collaboration between different engines and the need for feedback.
+3. Challenges of implementing interoperable formats.
+4. Strategies for moving faster in working groups and ensuring progress.
+5. Implementing a testing technique similar to UFBX's verification procedure for GLTF files.
+6. Planning for great September progress in the group.
+
+# Notes
+1. Discussion about triggers and their implementation in different engines.
+2. IndieBio's comment on Unity packages as a specific example of assets being sucked into proprietary formats.
+3. The need to document historical reasoning behind decisions made in the past.
+4. Implementing guns in GLTF files using audio emitters.
+5. KHR Audio extension naming convention and its inconsistencies with other extensions.
+6. Discussion about static bodies in physics and their implementation in different engines.
+
+
+------------------------------
+
+# gltf-extensions 2024-04-18
+
+------------------------------
+
+**Section 1: Overall Summary and Key Points**
+
+* The meeting focused on the Open Metaverse Interoperability (OMI) group's progress, challenges, and future plans.
+* Discussions included audio recordings, file storage, XMP handling in Godot, and the development of KHR physics implementation.
+* The team is working on improving the OMI archive system to ensure accessibility and stability.
+* They are also exploring the integration of OMI with other tools like Blender and Qt.
+* The meeting concluded with a discussion about vehicle systems and the potential for legged vehicles in OMI.
+
+**Section 2: Action Items**
+
+1. Update the OMI archive system to ensure accessibility and stability.
+2. Work on the KHR physics implementation, focusing on adding filtering and completing the code.
+3. Continue researching and developing vehicle systems within OMI, including legged vehicles.
+4. Explore the integration of OMI with other tools like Blender and Qt.
+5. Address any issues or bugs related to the kiddos' support of physics in OMI.
+6. Investigate the use of joints for vehicle systems in OMI.
+7. Update the team on progress made before the next meeting.
+
+**Section 3: Timeline-Based Topics Discussion**
+
+1. Audio recordings and storage: Discussed the challenges of storing audio files, including file size limitations and accessibility issues. Decided to keep MP3 as the primary format for now, with potential extensions for other formats like OGG and Wave.
+2. XMP handling in Godot: Discussed the implementation of XMP handling within Godot, focusing on user-friendly tools and compatibility with different rendering pipelines.
+3. KHR physics implementation: Discussed the progress made on implementing KHR physics, including the need for filtering and completing the code.
+4. Vehicle systems in OMI: Explored the development of vehicle systems within OMI, focusing on general-purpose vehicles and potential extensions for legged vehicles.
+5. Integration with other tools: Discussed the potential integration of OMI with other tools like Blender and Qt.
+6. Updates and progress: Encouraged team members to update each other on their progress before the next meeting.
+
+**Section 4: Notes**
+
+* The team is working on improving the OMI archive system to ensure accessibility and stability.
+* They are also exploring the integration of OMI with other tools like Blender and Qt.
+* The meeting concluded with a discussion about vehicle systems and the potential for legged vehicles in OMI.
+
+
+------------------------------
+
+# gltf-extensions 2024-01-25
+
+------------------------------
+
+## Summary
+The OMI group met to discuss the GLTF extensions and their progress on the physics specification. The main topics of discussion were compound triggers, kinematic Boolean, and joints. They agreed that more opinions are needed to reach a consensus on these issues. The meeting also covered the importance of having an agenda for future meetings and inviting relevant stakeholders to participate in discussions.
+
+## Action Items
+1. Invite Alexei Medvedev (Kronos GOTF lead) and Alexei Knyazev (interactivity lead) to the next meeting.
+2. Create a definitive list of last issues to resolve before the end of the meeting.
+3. Share the Jitsi link for the Godot VR meetup in the GLTF extensions room.
+4. Prepare an agenda for future meetings to reduce friction and ensure everyone is on the same page.
+5. Continue working on the physics specification and discuss any updates or feedback during the next meeting.
+
+## Topic Outline
+1. Compound triggers: Discuss the advantages of allowing a compound trigger in the GLTF extensions.
+2. Kinematic Boolean: Address concerns about the kinematic Boolean and its impact on interactivity.
+3. Joints: Evaluate the scope of joints in the physics specification and consider potential organizational changes.
+4. Audio Editor: Discuss the proposed rename for the KHR Audio Editor extension.
+5. Meeting Agenda: Create a definitive agenda for future meetings to streamline discussions and ensure everyone is prepared.
+6. Stakeholder Involvement: Invite relevant stakeholders, such as Alexei Medvedev and Alexei Knyazev, to participate in discussions.
+7. Godot VR Meetup: Share the Jitsi link for the upcoming Godot VR meetup in the GLTF extensions room.
+
+
+------------------------------
+
+# gltf-extensions 2024-01-04
+
+------------------------------
+
+# Summary
+The OMI group meeting discussed improvements to the KHR audio specification, focusing on clarifying cone angle properties and default values for various parameters. The group agreed on making changes to the specification and creating a PR against the existing Kronos repo. They also decided to propose a rename of "KHR Audio" to "KHR Audio Emitter" in a separate PR.
+
+# Action Items
+1. Create a PR with the proposed changes to the KHR audio specification.
+2. Propose a rename of "KHR Audio" to "KHR Audio Emitter" in a separate PR.
+3. Continue discussions on the naming front and submit the PRs accordingly.
+4. Ensure compatibility between existing implementations and the proposed changes.
+
+# Timeline Outline
+1. Discussion on cone angle properties (0:00 - 25:00)
+   - Clarification of inner and outer angles
+   - Improving notation for better understanding
+   - Default values for gain, loop, ref distance, and cone angle
+2. Review of existing implementations and potential issues (25:00 - 37:00)
+   - Precision loss in GLTF JSON properties
+   - Compatibility with Godot and Blender
+3. Proposal to rename "KHR Audio" to "KHR Audio Emitter" (37:00 - 42:00)
+   - Separate PR for the rename
+   - Discussion on naming front
+4. Finalizing PRs and submitting them to Kronos repo (42:00 - 51:00)
+   - Merging changes in the OMI extensions repo
+   - Ensuring compatibility with existing implementations
+
+# Notes
+- Precision loss in GLTF JSON properties due to floating point precision issues.
+- Compatibility concerns with Godot and Blender implementations.
+- Proposal to rename "KHR Audio" to "KHR Audio Emitter".
+- Separate PR for the rename, with discussion on naming front.
+- Finalizing PRs and submitting them to Kronos repo.
+
+
+------------------------------
+
+# gltf-extensions 2023-10-12
+
+------------------------------
+
+# Summary
+The OMI group meeting focused on updating the Open Metaverse Interoperability (OMI) audio specification and addressing inconsistencies in the documentation. The team discussed the use of Blender for audio implementation, bundling audio with GLTF exports, and the need for a global emitter property on nodes. They also touched upon the differences between 2D and 3D audio, as well as the potential addition of an animation specification to support audio behavior animations. The meeting concluded with action items for Aaron to create a Blender plugin using sound strips and update the OMI audio PR in the glTF repo.
+
+# Action Items
+1. Create a Blender plugin using sound strips to bundle arbitrary sound files with GLTF exports.
+2. Update the OMI audio PR in the glTF repo.
+
+# Topic Outline
+- Blender for audio implementation
+  - Sound Strips feature in Blender
+  - Link to documentation and source information
+- Bundling audio with GLTF exports
+  - Existing implementation by HumbleTim
+  - Action step: Bundle audio with exported GLTF in Blender
+- Global emitter property on nodes
+  - Allowing global emitters on nodes
+  - Differences between positional and global emitters
+  - Use cases for non-HRTF positional sources
+- 2D vs. 3D audio
+  - Definition of 0D audio
+  - Background music use case
+- Animation specification for GLTF
+  - Potential addition to support audio behavior animations
+  - Need for a global emitter property on nodes
+
+# Notes
+- Discussion on the use of Blender for audio implementation in OMI
+- Updating the OMI audio PR in the glTF repo
+- Addressing inconsistencies in the documentation
+- Potential addition of an animation specification to support audio behavior animations
+- Need for a global emitter property on nodes
+- Differences between positional and global emitters
+
+
+------------------------------
+
+# gltf-extensions 2024-04-25
+
+------------------------------
+
+# Summary
+The OMI group discussed various topics related to KHR Animation Pointer and its potential use cases in audio, scientific applications, storytelling, camera control, FOV changing, historical recreations, and customized previews. They also touched upon the possibility of connecting physics to animation and the integration of GLTF with interactivity graphs. The group discussed the idea of creating a vehicle extension that allows for more flexibility in terms of vehicle design and control schemes.
+
+# Action Items
+1. Investigate the use of KHR Animation Pointer in audio and scientific applications.
+2. Explore the possibility of connecting physics to animation.
+3. Research the integration of GLTF with interactivity graphs.
+4. Develop a vehicle extension that allows for more flexibility in terms of vehicle design and control schemes.
+5. Collaborate with other platforms to learn from their experiences with vehicles on different platforms.
+6. Consider adding support for hovercrafts in the vehicle extension.
+7. Investigate the possibility of using physics engines like Bullet Physics for vehicle simulations.
+8. Experiment with different control schemes for vehicles, such as Space Engineer-style input.
+9. Continue exploring the potential of GLTF customization previews.
+10. Discuss the integration of GLTF with trigger volumes and other physics concepts.
+
+# Topics Discussed
+1. KHR Animation Pointer use cases
+2. Audio and scientific applications
+3. Storytelling, camera control, FOV changing
+4. Historical recreations
+5. Customized previews
+6. Vehicle extension development
+7. Integration of GLTF with interactivity graphs
+8. Connecting physics to animation
+9. Collaboration with other platforms
+10. Hovercraft support in the vehicle extension
+11. Bullet Physics for vehicle simulations
+12. Experimenting with different control schemes
+13. GLTF customization previews and trigger volumes
+
+
+------------------------------
+
+# gltf-extensions 2023-09-28
+
+------------------------------
+
+# Summary
+The meeting focused on discussing the Open Metaverse Interoperability (OMI) group's progress on the audio emitter and addressing comments in a pull request. The team discussed technical corrections, such as updating the schema to include WAV support, and agreed that adding both OGG and WAV would be beneficial for compatibility. They also discussed the upcoming OMI Demo Day, which will showcase various extensions and efforts for standardization and interoperability in the metaverse.
+
+# Action Items
+1. Update the schema to include WAV support.
+2. Add both OGG and WAV to the list of supported MIME types.
+3. Research and discuss the benefits and drawbacks of adding OGG and WAV support.
+4. Plan and prepare for the OMI Demo Day, focusing on showcasing extensions and efforts for standardization and interoperability in the metaverse.
+5. Explore alternative methods for hosting meetings with less friction, such as using a URL instead of Discord.
+6. Create a presentation for the OMI Demo Day, highlighting various extensions and efforts for standardization and interoperability in the metaverse.
+7. Prepare an animated example showcasing audio interoperability in the metaverse.
+8. Commit to creating at least a small booth or presentation for the OMI Demo Day if unable to attend in person.
+
+# Topic Timeline
+1. Discussion on the progress of the audio emitter and addressing comments in a pull request.
+2. Technical corrections, such as updating the schema to include WAV support.
+3. Adding both OGG and WAV to the list of supported MIME types.
+4. Research and discussion on the benefits and drawbacks of adding OGG and WAV support.
+5. Planning for the upcoming OMI Demo Day, focusing on showcasing extensions and efforts for standardization and interoperability in the metaverse.
+6. Exploring alternative methods for hosting meetings with less friction.
+7. Creating a presentation for the OMI Demo Day.
+8. Preparing an animated example showcasing audio interoperability in the metaverse.
+9. Commitment to creating at least a small booth or presentation for the OMI Demo Day if unable to attend in person.
+
+
+------------------------------
+
+# gltf-extensions 2024-01-11
+
+------------------------------
+
+# Section 1: Overall Summary and Key Points
+
+The OMI group met on January 11th to discuss updates on KHR audio and other topics related to GLTF extensions. The main focus of the meeting was on updating the language in the KHR audio pull requests, ensuring that all values are within double precision. They also discussed the possibility of using Godot as the recommended engine for building and implementing OMI KHR audio.
+
+# Section 2: Action Items
+
+1. Review the PRs related to clarifying spec details in KHR audio and adding property summary tables.
+2. Update the code to not write certain values if they are the default value.
+3. Discuss with Kronos about scheduling a meeting for further discussions on OMI working group topics.
+4. Continue working on tools to combine rigs in Godot, such as the one used for merging outfits onto different models.
+5. Consider implementing a tool that locks the scaling of bones when adjusting proportions in the binding pose workflow.
+6. Attend the VR Godot meeting scheduled for 20 minutes from now.
+
+# Section 3: Timeline-Based Topics Discussion
+
+1. Updates on KHR audio pull requests and language changes.
+2. Discussion on using Godot as the recommended engine for OMI KHR audio.
+3. Review of PRs related to clarifying spec details in KHR audio and adding property summary tables.
+4. Bind pose workflow and its feasibility as a workflow.
+5. Discussion with Kronos about scheduling a meeting for further discussions on OMI working group topics.
+6. Tools for combining rigs in Godot, such as the one used for merging outfits onto different models.
+7. Consider implementing a tool that locks the scaling of bones when adjusting proportions in the binding pose workflow.
+8. Attend the VR Godot meeting scheduled for 20 minutes from now.
+
+# Section 4: Notes and Additional Information
+
+1. The OMI group is working on updating the language in the KHR audio pull requests to ensure that all values are within double precision.
+2. They discussed the possibility of using Godot as the recommended engine for building and implementing OMI KHR audio.
+3. The group reviewed PRs related to clarifying spec details in KHR audio and adding property summary tables.
+4. Bind pose workflow was discussed, with concerns about its feasibility as a workflow.
+5. Tools for combining rigs in Godot were mentioned, such as the one used for merging outfits onto different models.
+6. The group considered implementing a tool that locks the scaling of bones when adjusting proportions in the binding pose workflow.
+7. They discussed scheduling a meeting with Kronos for further discussions on OMI working group topics.
+8. The VR Godot meeting was scheduled for 20 minutes from now.
+
