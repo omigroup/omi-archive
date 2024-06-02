@@ -12,6 +12,8 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.OMI_SECRET }}
 
     steps:
+      - name: Install GSFonts
+        run: sudo apt install -y gsfonts
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:

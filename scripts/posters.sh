@@ -26,7 +26,6 @@ fi
 
 # Install required packages
 sudo apt-get update
-sudo apt-get install -y fonts-helvetica
 
 # Check if package dependencies are installed
 packages=("capture-website" "jq" "imagemagick")
