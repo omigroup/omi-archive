@@ -1,35 +1,33 @@
 name: Run posters script
 
-on:
-  schedule:
-    - cron: '59 23 * * 4' # Run every Thursday at 11:59 PM
+on: [push]
 
 jobs:
   run_posters:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     env:
       GITHUB_TOKEN: ${{ secrets.OMI_SECRET }}
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # or the version you need
+      - name: Checkout code
+        uses: actions/checkout@v4
       - name: Update omigroup
         run: |
           bash scripts/posters.sh omigroup omigroup 4
           bash scripts/create-index.sh
           bash scripts/pdf.sh omigroup
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A .
-          git commit -m "update omigroup weekly notes"
-      
-      - name: Update omigroup gltf-extensions
-        run: |
           bash scripts/posters.sh omigroup gltf-extensions 4
           bash scripts/create-index.sh
           bash scripts/pdf.sh gltf-extensions
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A .
-          git commit -m "update omigroup gltf-extensions notes"
+          git commit -m "update omigroup and gltf-extensions notes"
           git push origin main
