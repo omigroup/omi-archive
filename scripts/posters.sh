@@ -1,5 +1,12 @@
 #!/bin/bash
-set -x
+#set -x
+
+# Error handling function
+handle_error() {
+    local error_message="$1"
+    echo "Error: $error_message" >&2
+    # You can add additional error handling logic here, such as logging or exit codes
+}
 
 # Downloads GitHub discussions as JSON + screenshot
 # Run as bash script.sh owner repo
@@ -26,20 +33,17 @@ for package in "${packages[@]}"; do
         case "$package" in
             "capture-website")
                 if ! npm install --global capture-website-cli; then
-                    echo "Error: Failed to install capture-website-cli" >&2
-                    exit 1
+                    handle_error "Failed to install capture-website-cli"
                 fi
                 ;;
             "jq")
                 if ! sudo apt-get install jq -y; then
-                    echo "Error: Failed to install jq" >&2
-                    exit 1
+                    handle_error "Failed to install jq"
                 fi
                 ;;
         esac
     fi
 done
-
 
 # assign command-line arguments to variables
 if [ $# -ne 3 ]; then
@@ -95,8 +99,7 @@ EOF
 # Write the GraphQL query to a file
 echo "Writing the GraphQL query to a file"
 if ! echo "$QUERY_ALL" > numbers.graphql; then
-    echo "Error: Failed to write GraphQL query to file" >&2
-    exit 1
+    handle_error "Failed to write GraphQL query to file"
 fi
 
 # Get a list of the past X amount of URLs
@@ -109,12 +112,11 @@ cat "$owner"/"$owner"_"$repo".json | jq -r '.data.repository.discussions.nodes[]
 # Remove old files if there are any
 if [ "$(ls -A "$repo"/)" ]; then
   if ! rm "$repo"/* 2>/dev/null; then
-    echo "Failed to clean up old files" >&2
+    handle_error "Failed to clean up old files"
   fi
 else
   echo "No files to clean up"
 fi
-
 
 i="$num"
 # loop through each line in the numbers.txt file
@@ -123,60 +125,59 @@ do
   # capture the website as a JPEG image
   echo "capturing website"
   if ! capture-website "https://github.com/$owner/$repo/discussions/$number" --type=jpeg --quality=0.5 --full-page --element=".discussion" --scale-factor=1 --output=body_"$number".jpg --overwrite; then
-      echo "Error: Failed to capture website for discussion $number" >&2
+      handle_error "Failed to capture website for discussion $number"
       continue
   fi
 
-
   # get the width of the body image using ImageMagick
   if ! width=$(identify -format "%w" body_"$number".jpg 2>/dev/null); then
-    echo "Failed to get width of image body_$number.jpg" >&2
+    handle_error "Failed to get width of image body_$number.jpg"
     continue
   fi
 
   # get the title of the discussion using curl
   if ! title=$(curl -s "https://github.com/$owner/$repo/discussions/$number" | grep -oP '(?<=<meta name="description" content=")[^"]*' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' 2>/dev/null); then
-    echo "Failed to get title for discussion $number" >&2
+    handle_error "Failed to get title for discussion $number"
     continue
   fi
 
   # create a title image using ImageMagick with the same width as the body image
   echo "grabbing title"
   if ! convert -size "${width}"x100 xc:white -gravity Center -pointsize 42 -fill black -annotate 0 "$title" title_"$number".png 2>/dev/null; then
-    echo "Failed to create title image for discussion $number" >&2
+    handle_error "Failed to create title image for discussion $number"
     continue
   fi
 
   # combine the title and body images into a single image
   echo "joining title and body"
   if ! convert title_"$number".png body_"$number".jpg -append "$repo"_"$number".jpg 2>/dev/null; then
-    echo "Failed to combine title and body images for discussion $number" >&2
+    handle_error "Failed to combine title and body images for discussion $number"
     continue
   fi
-  
+
   echo "cleaning up docs"
   if ! cp "$repo"_"$number".jpg docs/"$repo"/archive/"$number".jpg 2>/dev/null; then
-    echo "Failed to copy to archive" >&2
+    handle_error "Failed to copy to archive"
     continue
   fi
-  
+
   # Move to docs to serve
   echo "moving files to /docs"
   if ! mv "$repo"_"$number".jpg docs/"$repo"/"$i".jpg 2>/dev/null; then
-    echo "Failed to move files" >&2
+    handle_error "Failed to move files"
   fi
   i=$((i-1))
 done < numbers.txt
 
 # Clean up files
 if ! rm title_*.png body_*.jpg numbers.txt engine.bin 2>/dev/null; then
-  echo "Failed to clean up temporary files" >&2
+  handle_error "Failed to clean up temporary files"
 fi
 
 # Move to docs to serve
 echo "moving $repo json to /docs"
 if ! mv response.json docs/"$repo"/ 2>/dev/null; then
-  echo "Failed to move JSON" >&2
+  handle_error "Failed to move JSON"
 fi
 
 # Combine into 1 poster
@@ -184,7 +185,7 @@ echo "Combine into 1 poster"
 # Clean up previous poster first
 rm docs/"$repo"/poster.jpg
 if ! convert $(ls docs/"$repo"/*.jpg | sort -n) +append docs/"$repo"/poster.jpg 2>/dev/null; then
-    echo "Failed to combine into a poster" >&2
+    handle_error "Failed to combine into a poster"
 fi
 
 echo "Finished processing"
