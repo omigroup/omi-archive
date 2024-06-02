@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -x
+set -x
 
 # Error handling function
 handle_error() {
@@ -25,7 +25,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
 fi
 
 # Check if package dependencies are installed
-packages=("capture-website" "jq")
+packages=("capture-website" "jq" "imagemagick")
 
 for package in "${packages[@]}"; do
     if ! command -v "$package" &> /dev/null; then
@@ -39,6 +39,11 @@ for package in "${packages[@]}"; do
             "jq")
                 if ! sudo apt-get install jq -y; then
                     handle_error "Failed to install jq"
+                fi
+                ;;
+            "imagemagick")
+                if ! sudo apt-get install imagemagick -y; then
+                    handle_error "Failed to install imagemagick"
                 fi
                 ;;
         esac
@@ -143,14 +148,14 @@ do
 
   # create a title image using ImageMagick with the same width as the body image
   echo "grabbing title"
-  if ! magick -size "${width}x100" xc:white -gravity Center -pointsize 42 -annotate 0 "$title" "png32:title_$number.png"; then
+  if ! convert -size "${width}x100" xc:white -gravity Center -pointsize 42 -fill black -annotate 0 "$title" title_"$number".png; then
     handle_error "Failed to create title image for discussion $number"
     continue
   fi
 
   # combine the title and body images into a single image
   echo "joining title and body"
-  if ! magick title_"$number".png body_"$number".jpg -append "$repo"_"$number".jpg; then
+  if ! convert title_"$number".png body_"$number".jpg -append "$repo"_"$number".jpg; then
     handle_error "Failed to combine title and body images for discussion $number"
     continue
   fi
@@ -184,7 +189,7 @@ fi
 echo "Combine into 1 poster"
 # Clean up previous poster first
 rm docs/"$repo"/poster.jpg
-if ! magick $(ls docs/"$repo"/*.jpg | sort -n) +append docs/"$repo"/poster.jpg; then
+if ! convert $(ls docs/"$repo"/*.jpg | sort -n) +append docs/"$repo"/poster.jpg; then
     handle_error "Failed to combine into a poster"
 fi
 
